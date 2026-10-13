@@ -1,59 +1,48 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
 using System.Collections;
 
-public class Bookdisplacement : MonoBehaviour, IPointerClickHandler
+public class Bookdisplacement : MonoBehaviour
 {
-    private RectTransform rectTransform;
-    private RectTransform canvasRect;
-    private Vector2 closedPosition;
-    private Vector2 openPosition;
+    private Vector3 closedPosition;
+    private Vector3 openPosition;
     private bool open;
 
     [SerializeField] private float duration = 0.3f;
-    [SerializeField, Range(0f, 1f)] private float percentage = 0.3f;
+    [SerializeField] private float displacement = 3f;
+    [SerializeField] private string layerName = "SpellCheck";
 
     private void Start()
     {
-        rectTransform = GetComponent<RectTransform>();
-        canvasRect = rectTransform.parent as RectTransform;
-
         open = false;
 
-        CalcPositions();
+        // Guardamos la posición inicial del objeto.
+        openPosition = transform.position;
 
-        rectTransform.anchoredPosition = closedPosition;
+        // Posición a la que se desplazará al cerrarse.
+        closedPosition = openPosition + Vector3.down * displacement;
+
+        transform.position = closedPosition;
     }
 
-    private void CalcPositions()
-    {
-        float canvasHeight = canvasRect.rect.height;
-
-        openPosition = Vector2.zero;
-
-        // Queremos que quede visible el percentage superior.
-        float displacement = canvasHeight * (1f - percentage);
-
-        closedPosition = new Vector2(0f, -displacement);
-    }
-
-    public void OnPointerClick(PointerEventData eventData)
+    private void OnMouseDown()
     {
         StopAllCoroutines();
 
         if (open)
         {
+            ActiveLayerObjects(true);
             open = false;
-            StartCoroutine(MovePanel(rectTransform.anchoredPosition, closedPosition));
+            StartCoroutine(MoveObject(transform.position, closedPosition));
         }
         else
         {
+            ActiveLayerObjects(false);
             open = true;
-            StartCoroutine(MovePanel(rectTransform.anchoredPosition, openPosition));
+            StartCoroutine(MoveObject(transform.position, openPosition));
         }
     }
 
-    private IEnumerator MovePanel(Vector2 start, Vector2 end)
+    private IEnumerator MoveObject(Vector3 start, Vector3 end)
     {
         float time = 0f;
 
@@ -64,12 +53,25 @@ public class Bookdisplacement : MonoBehaviour, IPointerClickHandler
             float t = Mathf.Clamp01(time / duration);
             t = Mathf.SmoothStep(0f, 1f, t);
 
-            rectTransform.anchoredPosition =
-                Vector2.Lerp(start, end, t);
+            transform.position = Vector3.Lerp(start, end, t);
 
             yield return null;
         }
 
-        rectTransform.anchoredPosition = end;
+        transform.position = end;
+    }
+
+    //Esto es para que no se puedan activar hechizos si el libro está abierto
+    private void ActiveLayerObjects(bool active)
+    {
+        int layer = LayerMask.NameToLayer(layerName);
+
+        foreach (GameObject obj in FindObjectsByType<GameObject>(FindObjectsInactive.Include))
+        {
+            if (obj.layer == layer)
+            {
+                obj.SetActive(active);
+            }
+        }
     }
 }

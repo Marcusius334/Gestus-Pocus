@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 2102638815533427206}
   - component: {fileID: 7019740782967746940}
   - component: {fileID: -7047877208102285867}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Spell
-  m_TagString: Untagged
+  m_TagString: Spell
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 7330555554071651260}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.88, y: -2.14, z: 0}
+  m_LocalPosition: {x: 8.88, y: -2.14, z: -2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -152,3 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2348553191e2c364da5fd02bdd032584, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpellMovement
+  triggerLayers:
+    serializedVersion: 2
+    m_Bits: 128
+  spellName: 
