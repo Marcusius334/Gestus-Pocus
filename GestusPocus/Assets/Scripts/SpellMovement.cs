@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DragObject : MonoBehaviour
+public class SpellMovement : MonoBehaviour
 {
     [SerializeField] private LayerMask triggerLayers;
     private Collider2D myCollider;
@@ -13,6 +13,10 @@ public class DragObject : MonoBehaviour
     private Camera mainCamera;
     private bool dragging;
 
+    public ErrorsManager errorManager;
+    public Explanation explanation;
+    public bool explaining;
+
     private void Awake()
     {
         mainCamera = Camera.main;
@@ -22,6 +26,8 @@ public class DragObject : MonoBehaviour
         contactFilter = new ContactFilter2D();
         contactFilter.SetLayerMask(triggerLayers);
         contactFilter.useTriggers = true;
+
+        explaining = false;
     }
 
     private void OnMouseDown()
@@ -37,6 +43,12 @@ public class DragObject : MonoBehaviour
 
         // Mantener el punto exacto donde se agarró el objeto.
         dragOffset = transform.position - mouseWorldPosition;
+
+        //Poner explicación
+        if(explaining == false){
+            explaining = true;
+            explanation.Explain(gameObject);
+        }
     }
 
     private void OnMouseDrag()
@@ -72,12 +84,16 @@ public class DragObject : MonoBehaviour
 
                 Debug.Log("spellCheck -> "+spellCheck);
 
-                if (spellCheck != null && spellCheck.spellRequired == spellName)
+                if (spellCheck != null)
                 {
-                    if (spellCheck.linkedObject != null)
-                    {
-                        //Activar el hechizo si tiene el mismo nombre
-                        spellCheck.ActivateSpell();
+                    if (spellCheck.spellRequired == spellName){
+                        if (spellCheck.linkedObject != null)
+                        {
+                            //Activar el hechizo si tiene el mismo nombre
+                            spellCheck.ActivateSpell();
+                        }
+                    }else{
+                        errorManager.SpellFailed();
                     }
                 }
             }

@@ -10,6 +10,8 @@ public class Bookdisplacement : MonoBehaviour
     [SerializeField] private float duration = 0.3f;
     [SerializeField] private float displacement = 3f;
     [SerializeField] private string layerName = "SpellCheck";
+    
+    public ErrorsManager errorManager;
 
     private void Start()
     {
@@ -26,15 +28,21 @@ public class Bookdisplacement : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if(errorManager.bookUses <= 0){
+            //Si no quedan usos de libros no hace nada
+            return;
+        }
+        
         StopAllCoroutines();
 
-        if (open)
+        if (open)//Cerrar
         {
+            errorManager.BookUsed();
             ActiveLayerObjects(true);
             open = false;
             StartCoroutine(MoveObject(transform.position, closedPosition));
         }
-        else
+        else//Abrir
         {
             ActiveLayerObjects(false);
             open = true;
