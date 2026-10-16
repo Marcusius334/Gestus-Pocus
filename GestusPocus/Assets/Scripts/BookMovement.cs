@@ -15,15 +15,15 @@ public class Bookdisplacement : MonoBehaviour
 
     private void Start()
     {
-        open = false;
-
         // Guardamos la posición inicial del objeto.
         openPosition = transform.position;
 
         // Posición a la que se desplazará al cerrarse.
         closedPosition = openPosition + Vector3.down * displacement;
 
-        transform.position = closedPosition;
+        open = true;
+
+        transform.position = openPosition;
     }
 
     private void OnMouseDown()

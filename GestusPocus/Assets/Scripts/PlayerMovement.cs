@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public SceneLoader sceneLoader;
     public float speed = 5f;
     public float jumpSpeed = 5f;
     
@@ -39,5 +40,13 @@ public class PlayerMovement : MonoBehaviour
 
     public void SetGrounded(bool groundCheck){
         isGrounded = groundCheck;
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Win"))
+        {
+            sceneLoader.LoadScene("Win");
+        }
     }
 }
