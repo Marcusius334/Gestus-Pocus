@@ -5,6 +5,7 @@ public class SpellCheck : MonoBehaviour
     public string spellRequired;
     public GameObject linkedGameObject;
     public LinkedObject linkedObject;
+    public Owl owl;
 
     void Awake(){
         linkedObject = linkedGameObject.GetComponent<LinkedObject>();
@@ -12,6 +13,7 @@ public class SpellCheck : MonoBehaviour
     }
 
     public void ActivateSpell(){
+        owl.clueCounter++;
         linkedObject.ActivateSpell();
         Destroy(gameObject);
     }

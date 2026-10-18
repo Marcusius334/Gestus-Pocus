@@ -9,7 +9,7 @@ public class Bookdisplacement : MonoBehaviour
 
     [SerializeField] private float duration = 0.3f;
     [SerializeField] private float displacement = 3f;
-    [SerializeField] private string layerName = "SpellCheck";
+    [SerializeField] private string[] layerNames;
     
     public ErrorsManager errorManager;
 
@@ -72,11 +72,12 @@ public class Bookdisplacement : MonoBehaviour
     //Esto es para que no se puedan activar hechizos si el libro está abierto
     private void ActiveLayerObjects(bool active)
     {
-        int layer = LayerMask.NameToLayer(layerName);
+        int layer0 = LayerMask.NameToLayer(layerNames[0]);
+        int layer1 = LayerMask.NameToLayer(layerNames[1]);
 
         foreach (GameObject obj in FindObjectsByType<GameObject>(FindObjectsInactive.Include))
         {
-            if (obj.layer == layer)
+            if (obj.layer == layer0 || obj.layer == layer1)
             {
                 obj.SetActive(active);
             }
