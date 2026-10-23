@@ -43,4 +43,10 @@ public class Owl : MonoBehaviour
         usingClue = false;
         clue.SetActive(false);
     }
+
+    public void disableClueBook()
+    {
+        usingClue = false;
+        clue.SetActive(false);
+    }
 }

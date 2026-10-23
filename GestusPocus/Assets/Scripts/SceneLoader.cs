@@ -11,6 +11,19 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene(name);
     }
 
+    public void SetLevel(int level){
+        GameManager.SetLevel(level);
+    }
+
+    public void NextLevel(){
+        GameManager.NextLevel();
+    }
+
+    public void LoadLevel(){
+        string level = GameManager.StringLevel();
+        LoadScene(level);
+    }
+
     //Hay una opción de cargar una escena pesada de forma asíncrona para que no se quede parado mientras carga.
     //Lo dejo aquí debajo por si cargar el nivel fuera demasiado pesado.
     /*

@@ -143,7 +143,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Bookdisplacement
   duration: 0.3
   displacement: 8
-  layerName: SpellCheck
+  layerNames:
+  - SpellCheck
+  - Owl
   errorManager: {fileID: 0}
 --- !u!61 &9063448407630468731
 BoxCollider2D:

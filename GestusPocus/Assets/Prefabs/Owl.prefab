@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5054125266140011864}
   - component: {fileID: -2342740060509905768}
   - component: {fileID: 4253756726711388575}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Owl
   m_TagString: Owl
   m_Icon: {fileID: 0}
@@ -145,6 +145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Owl
   errorManager: {fileID: 0}
   levelClues: []
+  clueCounter: 0
   clue: {fileID: 7650852300265077537}
   cluesText: {fileID: 1721777165658531994}
   clueTimer: 5
@@ -159,7 +160,7 @@ GameObject:
   - component: {fileID: 8017347775596061488}
   - component: {fileID: 5642259656067303917}
   - component: {fileID: 1721777165658531994}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ClueText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -339,7 +340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7994851789073839303}
   - component: {fileID: 1742342008452569675}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ClueBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -430,7 +431,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8451536329406069616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Clue
   m_TagString: Untagged
   m_Icon: {fileID: 0}

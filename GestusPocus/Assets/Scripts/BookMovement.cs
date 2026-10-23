@@ -72,6 +72,7 @@ public class Bookdisplacement : MonoBehaviour
     //Esto es para que no se puedan activar hechizos si el libro está abierto
     private void ActiveLayerObjects(bool active)
     {
+        
         int layer0 = LayerMask.NameToLayer(layerNames[0]);
         int layer1 = LayerMask.NameToLayer(layerNames[1]);
 
@@ -79,8 +80,21 @@ public class Bookdisplacement : MonoBehaviour
         {
             if (obj.layer == layer0 || obj.layer == layer1)
             {
+                Debug.Log(obj.layer);
                 obj.SetActive(active);
+
+                if(obj.layer == layer1){
+                    Debug.Log("AA");
+                    Owl owl = obj.GetComponent<Owl>();
+
+                    if (owl != null)
+                    {
+                        Debug.Log("BB");
+                        owl.disableClueBook();
+                    }
+                }
             }
         }
     }
+        
 }

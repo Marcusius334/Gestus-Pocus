@@ -688,7 +688,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "El hechizo del mago malo rob\xF3 todo tipo de magia hablada, pero hay un tipo de magia, la m\xE1s antigua que existe, de la que casi no se sabe nada.\n\nLa magia de signos.\n\nEl mago, sabiendo esto, transform\xF3 al \xFAnico capaz de realizarla en un b\xFAho incapaz de hacer signos, y con esto se retir\xF3 a su torre a disfrutar de su magia.\n\nLo que no sab\xEDa, es que el mago que transform\xF3 en b\xFAho ten\xEDa un aprendiz de la magia de signos.\n\nAs\xED que el aprendiz, con la ayuda de su maestro tranformado en b\xFAho, reccorrer\xE1 los reinos para aprender la magia de signos, derrotar al mago malvado y restaurar la magia y la paz en el mundo. "
+  m_text: "El hechizo del mago malo rob\xF3 todo tipo de magia hablada, pero hay un tipo de magia, la m\xE1s antigua que existe, de la que casi no se sabe nada y que era inmune al hechizo.\n\nLa magia de signos.\n\nEl mago, sabiendo esto, transform\xF3 al \xFAnico capaz de realizarla en un b\xFAho incapaz de hacer signos, y con esto se retir\xF3 a su torre a disfrutar de su magia.\n\nLo que no sab\xEDa, es que el mago que transform\xF3 en b\xFAho ten\xEDa un aprendiz de la magia de signos.\n\nAs\xED que el aprendiz, con la ayuda de su maestro tranformado en b\xFAho, reccorrer\xE1 los reinos para aprender la magia de signos, derrotar al mago malvado y restaurar la magia y la paz en el mundo. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
