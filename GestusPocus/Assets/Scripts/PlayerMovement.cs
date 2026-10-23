@@ -46,6 +46,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Win"))
         {
+            if(GameManager.levelsUnlocked == GameManager.actualLevel){
+                GameManager.UnlockLevel();
+            }
+
             sceneLoader.LoadScene("Win");
         }
     }

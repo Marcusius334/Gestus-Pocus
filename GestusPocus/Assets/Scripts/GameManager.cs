@@ -2,7 +2,15 @@ using UnityEngine;
 
 public static class GameManager
 {
+    public static int levelsUnlocked = 1;
     public static int actualLevel = 1;
+
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
+    private static void ResetearVariables()
+    {
+        levelsUnlocked = 1;
+        actualLevel = 1;
+    }
 
     public static void SetLevel(int newLevel){
         actualLevel = newLevel;
@@ -10,6 +18,10 @@ public static class GameManager
 
     public static void NextLevel(){
         actualLevel++;
+    }
+
+    public static void UnlockLevel(){
+        levelsUnlocked++;
     }
 
     public static string StringLevel(){
