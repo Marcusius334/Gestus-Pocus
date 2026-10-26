@@ -3,14 +3,18 @@ using UnityEngine;
 
 public class ErrorsManager : MonoBehaviour
 {
+    [Header("Texts")]
     public TMP_Text spellErrorsText;
     public TMP_Text cluesText;
     public TMP_Text bookUsesText;
-    public SceneLoader sceneLoader;
 
+    [Header("Tries")]
     public int spellErrors = 10;
     public int clues = 5;
     public int bookUses = 4;
+
+    [Header("Managers")]
+    public SceneLoader sceneLoader;
 
     void Start(){
         spellErrorsText.text = "Fallos = " + spellErrors;
@@ -20,7 +24,7 @@ public class ErrorsManager : MonoBehaviour
 
     public void SpellFailed(){
         spellErrors--;
-        spellErrorsText.text = "SpellErrors = " + spellErrors;
+        spellErrorsText.text = "Fallos = " + spellErrors;
         if (spellErrors <= 0){
             sceneLoader.LoadScene("Fail");
         }
@@ -33,6 +37,6 @@ public class ErrorsManager : MonoBehaviour
 
     public void BookUsed(){
         bookUses--;
-        bookUsesText.text = "BookUses = " + bookUses;
+        bookUsesText.text = "Usos libro = " + bookUses;
     }
 }

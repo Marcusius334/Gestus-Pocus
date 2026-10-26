@@ -13,7 +13,9 @@ public class SpellMovement : MonoBehaviour
     private Camera mainCamera;
     private bool dragging;
 
+    [Header("Managers")]
     public ErrorsManager errorManager;
+    public AudioManager audioManager;
     public Explanation explanation;
     public bool explaining;
 
@@ -90,9 +92,11 @@ public class SpellMovement : MonoBehaviour
                         if (spellCheck.linkedObject != null)
                         {
                             //Activar el hechizo si tiene el mismo nombre
+                            audioManager.PlayOne(audioManager.soundCorrect);
                             spellCheck.ActivateSpell();
                         }
                     }else{
+                        audioManager.PlayOne(audioManager.soundWrong);
                         errorManager.SpellFailed();
                     }
                 }

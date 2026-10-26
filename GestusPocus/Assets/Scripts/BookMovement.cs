@@ -7,11 +7,14 @@ public class Bookdisplacement : MonoBehaviour
     private Vector3 openPosition;
     private bool open;
 
+    [Header("Book movement")]
     [SerializeField] private float duration = 0.3f;
     [SerializeField] private float displacement = 3f;
     [SerializeField] private string[] layerNames;
     
+    [Header("Managers")]
     public ErrorsManager errorManager;
+    public AudioManager audioManager;
 
     private void Start()
     {
@@ -34,6 +37,7 @@ public class Bookdisplacement : MonoBehaviour
         }
         
         StopAllCoroutines();
+        audioManager.PlayOne(audioManager.soundBook);
 
         if (open)//Cerrar
         {
@@ -90,11 +94,18 @@ public class Bookdisplacement : MonoBehaviour
                     if (owl != null)
                     {
                         Debug.Log("BB");
-                        owl.disableClueBook();
+                        StartCoroutine(disableClue(owl));
                     }
                 }
             }
         }
+    }
+
+    IEnumerator disableClue(Owl owl)
+    {
+        yield return new WaitForSeconds(0.01f);
+
+        owl.disableClueBook();
     }
         
 }

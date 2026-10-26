@@ -3,15 +3,22 @@ using System.Collections;
 
 public class CutsceneManager : MonoBehaviour
 {
-    public GameObject exit;
-    public SceneLoader sceneLoader;
-    public string sceneLoad;
+    
+    [Header("Cutscene time")]
     public float duracion = 20f;
     public float disableExitTime = 2f;
+    public float speedIncrement = 1.5f;
+    public float speedDecrement = 0.5f;
 
     private RectTransform contenido;
     private RectTransform pantalla;
     private bool exitEnabled;
+    private float speed;
+
+    [Header("Managers")]
+    public GameObject exit;
+    public SceneLoader sceneLoader;
+    public string sceneLoad;
 
     void Start()
     {
@@ -19,6 +26,7 @@ public class CutsceneManager : MonoBehaviour
         pantalla = contenido.parent as RectTransform;
         
         exitEnabled = false;
+        speed = 1f;
 
         StartCoroutine(SubirContenido());
     }
@@ -44,7 +52,16 @@ public class CutsceneManager : MonoBehaviour
 
         while (tiempo < duracion)
         {
-            tiempo += Time.deltaTime;
+            if (Input.GetKeyDown(KeyCode.UpArrow))
+            {
+                speed *= speedDecrement;
+            }
+            else if (Input.GetKeyDown(KeyCode.DownArrow))
+            {
+                speed *= speedIncrement;
+            }
+
+            tiempo += Time.deltaTime * speed;
 
             float progreso = Mathf.Clamp01(tiempo / duracion);
 

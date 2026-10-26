@@ -2,18 +2,25 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public SceneLoader sceneLoader;
+    [Header("Movement speed")]
     public float speed = 5f;
     public float jumpSpeed = 5f;
     
     private Rigidbody2D rb;
     private float movement;
-    private bool jump = false;
+    private bool jumping;
+    private bool moving;
     private bool isGrounded;
+
+    [Header("Managers")]
+    public SceneLoader sceneLoader;
+    public AudioManager audioManager;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        jumping = false;
+        moving = false;
     }
 
     void Update()
@@ -21,18 +28,29 @@ public class PlayerMovement : MonoBehaviour
         //Devuelve -1 -> A, 1 -> D, 0 -> Nada
         movement = Input.GetAxisRaw("Horizontal");
 
+        if(moving && movement == 0){
+            audioManager.StopLoop();
+            moving = false;
+        }else if(!moving && movement != 0 && isGrounded){
+            audioManager.PlayLoop(audioManager.soundMove);
+            moving = true;
+        }
+
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            jump = true;
+            audioManager.StopLoop();
+            moving = false;
+            audioManager.PlayOne(audioManager.soundJump);
+            jumping = true;
         }
 
     }
 
     void FixedUpdate()
     {
-        if(jump){
+        if(jumping){
             rb.linearVelocity = new Vector2(movement * speed, jumpSpeed);
-            jump = false;
+            jumping = false;
         }else{
             rb.linearVelocity = new Vector2(movement * speed, rb.linearVelocity.y);
         } 

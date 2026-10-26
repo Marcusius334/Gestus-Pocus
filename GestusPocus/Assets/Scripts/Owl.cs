@@ -4,14 +4,19 @@ using System.Collections;
 
 public class Owl : MonoBehaviour
 {
-    public ErrorsManager errorManager;
+    [Header("Number of clues")]
     public string[] levelClues;
     public int clueCounter = 0;
 
+    [Header("Clues text")]
     [SerializeField] private GameObject clue;
     [SerializeField] private TMP_Text cluesText;
     [SerializeField] private float clueTimer = 5.0f;
     private bool usingClue;
+
+    [Header("Managers")]
+    public ErrorsManager errorManager;
+    public AudioManager audioManager;
     
     void Start(){
         usingClue = false;
@@ -31,6 +36,7 @@ public class Owl : MonoBehaviour
     }
 
     private void Clue(){
+        audioManager.PlayOne(audioManager.soundOwl);
         clue.SetActive(true);
         cluesText.text = levelClues[clueCounter];
         StartCoroutine(disableClue());
