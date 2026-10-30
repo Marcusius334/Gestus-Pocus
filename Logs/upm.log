@@ -1,0 +1,4 @@
+[2026-10-23T08:58:59.805Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 21300 --ipc-path Unity-Upm-21300 -l 2 --log-file C:\\Users\\Arsalan\\Documents\\GitHub\\Gestus-Pocus/Logs/upm.log
+[2026-10-23T08:58:59.854Z][INFO] IPC server started (IPC path=Unity-Upm-21300).
+[2026-10-23T08:58:59.854Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-21300.
+[2026-10-23T08:59:09.910Z][INFO] Shutting down UnityPackageManager.exe: parent process [21300] is no longer running.

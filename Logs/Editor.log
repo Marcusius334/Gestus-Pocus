@@ -1,0 +1,103 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 19316)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 13972)
+VBCSCompiler prewarm took 83.18 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.7f1 (b22767f04f04) revision 11675495'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-NlxvIpUlODPqRX-6352uY" at "2026-10-23T08:58:58.2783624Z"
+OS: 'Windows 11  (10.0.26300) Core' Language: 'en' Physical Memory: 16021 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-23T08:58:58Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 1208, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              50859f19b1e84f24a90b83612bf21fbd
+  Correlation Id:          88b551fe0f549b6872d5fdcb2a6651aa
+  External correlation Id: 2215595421037967676
+  Machine Id:              ToTFApGumDl3hs2frxAdj5mVwUQ=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-NlxvIpUlODPqRX-6352uY" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-NlxvIpUlODPqRX-6352uY-notifications" at "2026-10-23T08:58:58.3259194Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token dpGnuRJUd3...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 6872440492423-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.07s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.7f1\Editor\Unity.exe
+-projectpath
+C:\Users\Arsalan\Documents\GitHub\Gestus-Pocus
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-NlxvIpUlODPqRX-6352uY
+-hubSessionId
+e118e525-22d0-4ea5-a32d-f4ffe3500559
+-accessToken
+dpGnuRJUd3V1iej_z4n7il6vf4K5PRPEXc5-9yA6x0s006f
+Successfully changed project path to: C:\Users\Arsalan\Documents\GitHub\Gestus-Pocus
+C:/Users/Arsalan/Documents/GitHub/Gestus-Pocus
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [16680]  Target information:
+
+Player connection [16680]  * "[IP] 192.168.192.52 [Port] 55504 [Flags] 2 [Guid] 4046066492 [EditorId] 4046066492 [Version] 1048832 [Id] WindowsEditor(7,noname) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16680]  * "[IP] 10.129.10.167 [Port] 55504 [Flags] 2 [Guid] 4046066492 [EditorId] 4046066492 [Version] 1048832 [Id] WindowsEditor(7,noname) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16680] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16680] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-21300" after 0.2 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Rebuilding Library because the asset database could not be found!
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
