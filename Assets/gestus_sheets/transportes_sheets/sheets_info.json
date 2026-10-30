@@ -1,0 +1,92 @@
+{
+  "coche": {
+    "word": "COCHE",
+    "frames": 39,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "autobus": {
+    "word": "AUTOBÚS",
+    "frames": 38,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "tren": {
+    "word": "TREN",
+    "frames": 42,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "avion": {
+    "word": "AVIÓN",
+    "frames": 39,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "barco": {
+    "word": "BARCO",
+    "frames": 39,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "taxi": {
+    "word": "TAXI",
+    "frames": 38,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "moto": {
+    "word": "MOTO",
+    "frames": 38,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "bicicleta": {
+    "word": "BICICLETA",
+    "frames": 38,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "helicoptero": {
+    "word": "HELICÓPTERO",
+    "frames": 36,
+    "columns": 6,
+    "rows": 6,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "camion": {
+    "word": "CAMIÓN",
+    "frames": 29,
+    "columns": 6,
+    "rows": 5,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "vaca": {
+    "word": "VACA",
+    "frames": 43,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "gallina": {
+    "word": "GALLINA",
+    "frames": 47,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "caballo": {
+    "word": "CABALLO",
+    "frames": 46,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "cerdo": {
+    "word": "CERDO",
+    "frames": 46,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "conejo": {
+    "word": "CONEJO",
+    "frames": 45,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "gato": {
+    "word": "GATO",
+    "frames": 43,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "perro": {
+    "word": "PERRO",
+    "frames": 42,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "oveja": {
+    "word": "OVEJA",
+    "frames": 47,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "tortuga": {
+    "word": "TORTUGA",
+    "frames": 42,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "pato": {
+    "word": "PATO",
+    "frames": 42,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "paloma": {
+    "word": "PALOMA",
+    "frames": 46,
+    "columns": 6,
+    "rows": 8,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "mariposa": {
+    "word": "MARIPOSA",
+    "frames": 41,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  },
+  "caracol": {
+    "word": "CARACOL",
+    "frames": 38,
+    "columns": 6,
+    "rows": 7,
+    "frame_width": 448,
+    "frame_height": 360,
+    "fps": 12.5
+  }
+}
