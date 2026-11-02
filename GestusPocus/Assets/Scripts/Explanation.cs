@@ -18,4 +18,19 @@ public class Explanation : MonoBehaviour
         thisSprite.sprite = otherSprite.sprite;
         thisSprite.color = otherSprite.color;
     }
+
+    public void ExplainCodex(GameObject gameObject){
+        if (previousGameObject != null){
+            CodexSpells script = previousGameObject.GetComponent<CodexSpells>();
+            script.explaining = false;
+        }
+
+        previousGameObject = gameObject;
+        
+        SpriteRenderer thisSprite = this.GetComponent<SpriteRenderer>();
+        SpriteRenderer otherSprite = gameObject.GetComponent<SpriteRenderer>();
+
+        thisSprite.sprite = otherSprite.sprite;
+        thisSprite.color = otherSprite.color;
+    }
 }
