@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: ed3994d5007c62d4080a83458d7fa78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2342703026335955985
+    second: otono_sheet_0
+  - first:
+      213: 1075384402200865077
+    second: otono_sheet_1
+  - first:
+      213: 6549978964993059823
+    second: otono_sheet_2
+  - first:
+      213: 8015439943903845169
+    second: otono_sheet_3
+  - first:
+      213: -8955212881933378576
+    second: otono_sheet_4
+  - first:
+      213: 8689140435786399597
+    second: otono_sheet_5
+  - first:
+      213: -8421612339137875779
+    second: otono_sheet_6
+  - first:
+      213: 8078364793395760823
+    second: otono_sheet_7
+  - first:
+      213: 7190773263147821535
+    second: otono_sheet_8
+  - first:
+      213: 6152092059629768503
+    second: otono_sheet_9
+  - first:
+      213: 4490234975751331057
+    second: otono_sheet_10
+  - first:
+      213: 5487730496792280356
+    second: otono_sheet_11
+  - first:
+      213: 3069155636842833763
+    second: otono_sheet_12
+  - first:
+      213: 1767154549577665877
+    second: otono_sheet_13
+  - first:
+      213: -273361830552342531
+    second: otono_sheet_14
+  - first:
+      213: 8822051186538075659
+    second: otono_sheet_15
+  - first:
+      213: -6462667767936451438
+    second: otono_sheet_16
+  - first:
+      213: 22946313339956571
+    second: otono_sheet_17
+  - first:
+      213: 3478671925420039850
+    second: otono_sheet_18
+  - first:
+      213: -43487588972145456
+    second: otono_sheet_19
+  - first:
+      213: -2282558943835790296
+    second: otono_sheet_20
+  - first:
+      213: 7559686647118025232
+    second: otono_sheet_21
+  - first:
+      213: 376822501244418337
+    second: otono_sheet_22
+  - first:
+      213: -6923774099799326266
+    second: otono_sheet_23
+  - first:
+      213: 4897253636869770002
+    second: otono_sheet_24
+  - first:
+      213: -8741783655881453112
+    second: otono_sheet_25
+  - first:
+      213: -6028229424374191996
+    second: otono_sheet_26
+  - first:
+      213: 3256874949664316380
+    second: otono_sheet_27
+  - first:
+      213: 6639000851245473016
+    second: otono_sheet_28
+  - first:
+      213: 4284996761947431310
+    second: otono_sheet_29
+  - first:
+      213: 8401379036205409832
+    second: otono_sheet_30
+  - first:
+      213: -5104459758499702912
+    second: otono_sheet_31
+  - first:
+      213: -4939095266234865229
+    second: otono_sheet_32
+  - first:
+      213: -5325791225695151260
+    second: otono_sheet_33
+  - first:
+      213: 7928166057669502748
+    second: otono_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: otono_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1799
+        width: 239
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cbcf28df3f28020800000000000000
+      internalID: 2342703026335955985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1799
+        width: 251
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ad2a8a688cee00800000000000000
+      internalID: 1075384402200865077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1799
+        width: 266
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb21b65a2336ea50800000000000000
+      internalID: 6549978964993059823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1799
+        width: 285
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9dde49209c3f60800000000000000
+      internalID: 8015439943903845169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1799
+        width: 303
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbdb54a451b8b380800000000000000
+      internalID: -8955212881933378576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1799
+        width: 311
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff7867037069870800000000000000
+      internalID: 8689140435786399597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1439
+        width: 312
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0f3a9723c602b80800000000000000
+      internalID: -8421612339137875779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1439
+        width: 316
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be40648afd1c1070800000000000000
+      internalID: 8078364793395760823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1439
+        width: 323
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96d4a3f22cac360800000000000000
+      internalID: 7190773263147821535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1439
+        width: 329
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fcbbf022f906550800000000000000
+      internalID: 6152092059629768503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1439
+        width: 332
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc51bf8be4805e30800000000000000
+      internalID: 4490234975751331057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1439
+        width: 330
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db164cfc5582c40800000000000000
+      internalID: 5487730496792280356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1079
+        width: 326
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a7666ac4d79a20800000000000000
+      internalID: 3069155636842833763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1079
+        width: 324
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dcac633b1368810800000000000000
+      internalID: 1767154549577665877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1079
+        width: 329
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe6ca0dd2d43cf0800000000000000
+      internalID: -273361830552342531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1079
+        width: 341
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b065aeb10d83e6a70800000000000000
+      internalID: 8822051186538075659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1079
+        width: 345
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf7ced7edff46a0800000000000000
+      internalID: -6462667767936451438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1079
+        width: 346
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6887ec85815000800000000000000
+      internalID: 22946313339956571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 719
+        width: 344
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae19c47fa9b64030800000000000000
+      internalID: 3478671925420039850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 719
+        width: 341
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d45d2ba440856ff0800000000000000
+      internalID: -43487588972145456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 719
+        width: 338
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e6cdebb8b250e0800000000000000
+      internalID: -2282558943835790296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 719
+        width: 337
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012dbbed3f669e860800000000000000
+      internalID: 7559686647118025232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 719
+        width: 336
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293c02811eba3500800000000000000
+      internalID: 376822501244418337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 719
+        width: 335
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14964d320d9ef90800000000000000
+      internalID: -6923774099799326266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 359
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bcc986c3a86f340800000000000000
+      internalID: 4897253636869770002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 359
+        width: 310
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ded7b412fea680800000000000000
+      internalID: -8741783655881453112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 359
+        width: 286
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886e97074d675ca0800000000000000
+      internalID: -6028229424374191996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 359
+        width: 266
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1c94d28eb23d20800000000000000
+      internalID: 3256874949664316380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 359
+        width: 253
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc900a6918722c50800000000000000
+      internalID: 6639000851245473016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 359
+        width: 245
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8163932add577b30800000000000000
+      internalID: 4284996761947431310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 239
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ef6498b1b79470800000000000000
+      internalID: 8401379036205409832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 237
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087595ce4e05929b0800000000000000
+      internalID: -5104459758499702912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 236
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e148160fc47bb0800000000000000
+      internalID: -4939095266234865229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 236
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b5c84f81df616b0800000000000000
+      internalID: -5325791225695151260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: otono_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 236
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1723b33601860e60800000000000000
+      internalID: 7928166057669502748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      otono_sheet_0: 2342703026335955985
+      otono_sheet_1: 1075384402200865077
+      otono_sheet_10: 4490234975751331057
+      otono_sheet_11: 5487730496792280356
+      otono_sheet_12: 3069155636842833763
+      otono_sheet_13: 1767154549577665877
+      otono_sheet_14: -273361830552342531
+      otono_sheet_15: 8822051186538075659
+      otono_sheet_16: -6462667767936451438
+      otono_sheet_17: 22946313339956571
+      otono_sheet_18: 3478671925420039850
+      otono_sheet_19: -43487588972145456
+      otono_sheet_2: 6549978964993059823
+      otono_sheet_20: -2282558943835790296
+      otono_sheet_21: 7559686647118025232
+      otono_sheet_22: 376822501244418337
+      otono_sheet_23: -6923774099799326266
+      otono_sheet_24: 4897253636869770002
+      otono_sheet_25: -8741783655881453112
+      otono_sheet_26: -6028229424374191996
+      otono_sheet_27: 3256874949664316380
+      otono_sheet_28: 6639000851245473016
+      otono_sheet_29: 4284996761947431310
+      otono_sheet_3: 8015439943903845169
+      otono_sheet_30: 8401379036205409832
+      otono_sheet_31: -5104459758499702912
+      otono_sheet_32: -4939095266234865229
+      otono_sheet_33: -5325791225695151260
+      otono_sheet_34: 7928166057669502748
+      otono_sheet_4: -8955212881933378576
+      otono_sheet_5: 8689140435786399597
+      otono_sheet_6: -8421612339137875779
+      otono_sheet_7: 8078364793395760823
+      otono_sheet_8: 7190773263147821535
+      otono_sheet_9: 6152092059629768503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

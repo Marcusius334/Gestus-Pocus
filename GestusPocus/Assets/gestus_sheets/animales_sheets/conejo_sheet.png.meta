@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: 027587cc252e90d4588caf8597e4dc9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4663790034558127058
+    second: conejo_sheet_0
+  - first:
+      213: -7779074796005836292
+    second: conejo_sheet_1
+  - first:
+      213: 7836094152260691525
+    second: conejo_sheet_2
+  - first:
+      213: -310201324585420401
+    second: conejo_sheet_3
+  - first:
+      213: -8416020485563903377
+    second: conejo_sheet_4
+  - first:
+      213: 596882970604234329
+    second: conejo_sheet_5
+  - first:
+      213: 2009138806017991064
+    second: conejo_sheet_6
+  - first:
+      213: 4532709619391349247
+    second: conejo_sheet_7
+  - first:
+      213: 400880306768212948
+    second: conejo_sheet_8
+  - first:
+      213: -8063201301203461722
+    second: conejo_sheet_9
+  - first:
+      213: -4285179200328865202
+    second: conejo_sheet_10
+  - first:
+      213: -1254662852231648947
+    second: conejo_sheet_11
+  - first:
+      213: 1830652364829908168
+    second: conejo_sheet_12
+  - first:
+      213: -2471727668602345592
+    second: conejo_sheet_13
+  - first:
+      213: -695498807541248112
+    second: conejo_sheet_14
+  - first:
+      213: 155220574929021003
+    second: conejo_sheet_15
+  - first:
+      213: 3454094002447770572
+    second: conejo_sheet_16
+  - first:
+      213: -3162862753791756641
+    second: conejo_sheet_17
+  - first:
+      213: -5148876955985136762
+    second: conejo_sheet_18
+  - first:
+      213: -5958871921475386765
+    second: conejo_sheet_19
+  - first:
+      213: 4290079430149502308
+    second: conejo_sheet_20
+  - first:
+      213: 583242248493908166
+    second: conejo_sheet_21
+  - first:
+      213: 8652004392357483063
+    second: conejo_sheet_22
+  - first:
+      213: -2758183431964913798
+    second: conejo_sheet_23
+  - first:
+      213: -2266964406124606521
+    second: conejo_sheet_24
+  - first:
+      213: 46251699749209467
+    second: conejo_sheet_25
+  - first:
+      213: -6494700454363289340
+    second: conejo_sheet_26
+  - first:
+      213: 8392382744817987378
+    second: conejo_sheet_27
+  - first:
+      213: 2607901860861805783
+    second: conejo_sheet_28
+  - first:
+      213: 7403920423807532498
+    second: conejo_sheet_29
+  - first:
+      213: -4864096416906006689
+    second: conejo_sheet_30
+  - first:
+      213: 8511977606744912822
+    second: conejo_sheet_31
+  - first:
+      213: 3251052067773260009
+    second: conejo_sheet_32
+  - first:
+      213: 1197435801148959776
+    second: conejo_sheet_33
+  - first:
+      213: 2146016744875746211
+    second: conejo_sheet_34
+  - first:
+      213: -793294060357133389
+    second: conejo_sheet_35
+  - first:
+      213: 2786705322528773046
+    second: conejo_sheet_36
+  - first:
+      213: -6590125757654967810
+    second: conejo_sheet_37
+  - first:
+      213: -6966693398873860646
+    second: conejo_sheet_38
+  - first:
+      213: 1794442573939286815
+    second: conejo_sheet_39
+  - first:
+      213: -2590136317512163229
+    second: conejo_sheet_40
+  - first:
+      213: 5062366101790603457
+    second: conejo_sheet_41
+  - first:
+      213: 1630558449015743830
+    second: conejo_sheet_42
+  - first:
+      213: -7421977413676608819
+    second: conejo_sheet_43
+  - first:
+      213: -3026713140775513004
+    second: conejo_sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conejo_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db08dc935c19b040800000000000000
+      internalID: 4663790034558127058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b0e630bc2b0490800000000000000
+      internalID: -7779074796005836292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546a3043d166fbc60800000000000000
+      internalID: 7836094152260691525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89fa3fe981f1bbf0800000000000000
+      internalID: -310201324585420401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2519
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629d8755f9443b80800000000000000
+      internalID: -8416020485563903377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2519
+        width: 232
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956685b36ed884800800000000000000
+      internalID: 596882970604234329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2159
+        width: 260
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891a7256915e1eb10800000000000000
+      internalID: 2009138806017991064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2159
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff141dd226b67ee30800000000000000
+      internalID: 4532709619391349247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2159
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d37e5ad386309500800000000000000
+      internalID: 400880306768212948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2159
+        width: 255
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9dc412321c91090800000000000000
+      internalID: -8063201301203461722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 2159
+        width: 231
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a618d983cf784c0800000000000000
+      internalID: -4285179200328865202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2159
+        width: 216
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49aadb88ca869ee0800000000000000
+      internalID: -1254662852231648947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1799
+        width: 210
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc5ae860a8c76910800000000000000
+      internalID: 1830652364829908168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1799
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e37bf7c8a2bdd0800000000000000
+      internalID: -2471727668602345592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1799
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fcbcaf4871956f0800000000000000
+      internalID: -695498807541248112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1799
+        width: 208
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e97e5a44772200800000000000000
+      internalID: 155220574929021003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1799
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e4b4d1386fef20800000000000000
+      internalID: 3454094002447770572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1799
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96bdee35114b14d0800000000000000
+      internalID: -3162862753791756641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683bf4e30b38b88b0800000000000000
+      internalID: -5148876955985136762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37209621f85dd4da0800000000000000
+      internalID: -5958871921475386765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465754c038c698b30800000000000000
+      internalID: 4290079430149502308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ca7f1cb7181800800000000000000
+      internalID: 583242248493908166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73256919728121870800000000000000
+      internalID: 8652004392357483063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1439
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0d5838c6f8b9d0800000000000000
+      internalID: -2758183431964913798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1079
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0d7e22ef1a80e0800000000000000
+      internalID: -2266964406124606521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1079
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b754fc50da154a000800000000000000
+      internalID: 46251699749209467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1079
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ab1fd8503ed5a0800000000000000
+      internalID: -6494700454363289340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1079
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f6ef344abb77470800000000000000
+      internalID: 8392382744817987378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1079
+        width: 207
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48fb9dce0213420800000000000000
+      internalID: 2607901860861805783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1079
+        width: 208
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddbe46d56200c660800000000000000
+      internalID: 7403920423807532498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 719
+        width: 212
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f211574124f7cb0800000000000000
+      internalID: -4864096416906006689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 719
+        width: 225
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b33c12f88e902670800000000000000
+      internalID: 8511977606744912822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 719
+        width: 249
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0aced71ae0e1d20800000000000000
+      internalID: 3251052067773260009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 719
+        width: 269
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca1d054852e9010800000000000000
+      internalID: 1197435801148959776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 719
+        width: 269
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3eb500cde28cd10800000000000000
+      internalID: 2146016744875746211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 719
+        width: 258
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb5cf15147adf4f0800000000000000
+      internalID: -793294060357133389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 359
+        width: 244
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3940be9bd5ca620800000000000000
+      internalID: 2786705322528773046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 359
+        width: 233
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d2d51a8b2b84a0800000000000000
+      internalID: -6590125757654967810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 359
+        width: 227
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5901dc345515f90800000000000000
+      internalID: -6966693398873860646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 359
+        width: 227
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132d7d730427e810800000000000000
+      internalID: 1794442573939286815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 359
+        width: 227
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36069da0ebcfd0cd0800000000000000
+      internalID: -2590136317512163229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 359
+        width: 226
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83534e523214640800000000000000
+      internalID: 5062366101790603457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 225
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65568133548e0a610800000000000000
+      internalID: 1630558449015743830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc255d69dd6dff890800000000000000
+      internalID: -7421977413676608819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conejo_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 224
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45491174f64fef5d0800000000000000
+      internalID: -3026713140775513004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      conejo_sheet_0: 4663790034558127058
+      conejo_sheet_1: -7779074796005836292
+      conejo_sheet_10: -4285179200328865202
+      conejo_sheet_11: -1254662852231648947
+      conejo_sheet_12: 1830652364829908168
+      conejo_sheet_13: -2471727668602345592
+      conejo_sheet_14: -695498807541248112
+      conejo_sheet_15: 155220574929021003
+      conejo_sheet_16: 3454094002447770572
+      conejo_sheet_17: -3162862753791756641
+      conejo_sheet_18: -5148876955985136762
+      conejo_sheet_19: -5958871921475386765
+      conejo_sheet_2: 7836094152260691525
+      conejo_sheet_20: 4290079430149502308
+      conejo_sheet_21: 583242248493908166
+      conejo_sheet_22: 8652004392357483063
+      conejo_sheet_23: -2758183431964913798
+      conejo_sheet_24: -2266964406124606521
+      conejo_sheet_25: 46251699749209467
+      conejo_sheet_26: -6494700454363289340
+      conejo_sheet_27: 8392382744817987378
+      conejo_sheet_28: 2607901860861805783
+      conejo_sheet_29: 7403920423807532498
+      conejo_sheet_3: -310201324585420401
+      conejo_sheet_30: -4864096416906006689
+      conejo_sheet_31: 8511977606744912822
+      conejo_sheet_32: 3251052067773260009
+      conejo_sheet_33: 1197435801148959776
+      conejo_sheet_34: 2146016744875746211
+      conejo_sheet_35: -793294060357133389
+      conejo_sheet_36: 2786705322528773046
+      conejo_sheet_37: -6590125757654967810
+      conejo_sheet_38: -6966693398873860646
+      conejo_sheet_39: 1794442573939286815
+      conejo_sheet_4: -8416020485563903377
+      conejo_sheet_40: -2590136317512163229
+      conejo_sheet_41: 5062366101790603457
+      conejo_sheet_42: 1630558449015743830
+      conejo_sheet_43: -7421977413676608819
+      conejo_sheet_44: -3026713140775513004
+      conejo_sheet_5: 596882970604234329
+      conejo_sheet_6: 2009138806017991064
+      conejo_sheet_7: 4532709619391349247
+      conejo_sheet_8: 400880306768212948
+      conejo_sheet_9: -8063201301203461722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

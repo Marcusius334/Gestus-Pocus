@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 0d26cb7da6a5def4eb8c8f96b67a71aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2437880113811824931
+    second: caballo_sheet_0
+  - first:
+      213: -9037794016192064200
+    second: caballo_sheet_1
+  - first:
+      213: 1977884738668886084
+    second: caballo_sheet_2
+  - first:
+      213: 3872486764113817316
+    second: caballo_sheet_3
+  - first:
+      213: -7941019616817544452
+    second: caballo_sheet_4
+  - first:
+      213: 5804536456286771747
+    second: caballo_sheet_5
+  - first:
+      213: -7173153400038609200
+    second: caballo_sheet_6
+  - first:
+      213: -7109142212120226806
+    second: caballo_sheet_7
+  - first:
+      213: -1014452887104907495
+    second: caballo_sheet_8
+  - first:
+      213: 2420072853278655011
+    second: caballo_sheet_9
+  - first:
+      213: -6320272263012523557
+    second: caballo_sheet_10
+  - first:
+      213: -7933654084102789912
+    second: caballo_sheet_11
+  - first:
+      213: -4003718785870301749
+    second: caballo_sheet_12
+  - first:
+      213: -8169236011848004084
+    second: caballo_sheet_13
+  - first:
+      213: -7598596289062430915
+    second: caballo_sheet_14
+  - first:
+      213: 4603291848800592769
+    second: caballo_sheet_15
+  - first:
+      213: 6181823844121354024
+    second: caballo_sheet_16
+  - first:
+      213: -2995772229420597699
+    second: caballo_sheet_17
+  - first:
+      213: 4320220233406186908
+    second: caballo_sheet_18
+  - first:
+      213: -3292321414327830741
+    second: caballo_sheet_19
+  - first:
+      213: -6694084841850964770
+    second: caballo_sheet_20
+  - first:
+      213: 5793630877347553824
+    second: caballo_sheet_21
+  - first:
+      213: 3765748041356763152
+    second: caballo_sheet_22
+  - first:
+      213: -559317753636803972
+    second: caballo_sheet_23
+  - first:
+      213: 744764144840918562
+    second: caballo_sheet_24
+  - first:
+      213: -8334429374290519085
+    second: caballo_sheet_25
+  - first:
+      213: 6178752864421097739
+    second: caballo_sheet_26
+  - first:
+      213: -8502892228163928290
+    second: caballo_sheet_27
+  - first:
+      213: -1710515300903945786
+    second: caballo_sheet_28
+  - first:
+      213: -8508337424227490345
+    second: caballo_sheet_29
+  - first:
+      213: -2914326303351456749
+    second: caballo_sheet_30
+  - first:
+      213: -2516538337851730592
+    second: caballo_sheet_31
+  - first:
+      213: 1984737438295055167
+    second: caballo_sheet_32
+  - first:
+      213: 393667846025717953
+    second: caballo_sheet_33
+  - first:
+      213: 8164605845041352261
+    second: caballo_sheet_34
+  - first:
+      213: 3155123800071445451
+    second: caballo_sheet_35
+  - first:
+      213: -3921339255153793130
+    second: caballo_sheet_36
+  - first:
+      213: 4682319902982301171
+    second: caballo_sheet_37
+  - first:
+      213: 3290487977632970368
+    second: caballo_sheet_38
+  - first:
+      213: -3218954144737904565
+    second: caballo_sheet_39
+  - first:
+      213: -8051339535609472134
+    second: caballo_sheet_40
+  - first:
+      213: 2076713629724854913
+    second: caballo_sheet_41
+  - first:
+      213: -2405350223218270146
+    second: caballo_sheet_42
+  - first:
+      213: -4455172307727118861
+    second: caballo_sheet_43
+  - first:
+      213: 7474129885224942575
+    second: caballo_sheet_44
+  - first:
+      213: -3591799137411301356
+    second: caballo_sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballo_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded143f3f8ea2ed0800000000000000
+      internalID: -2437880113811824931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83598bff93e439280800000000000000
+      internalID: -9037794016192064200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4487607c0bbd27b10800000000000000
+      internalID: 1977884738668886084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2519
+        width: 220
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee764d136ddb530800000000000000
+      internalID: 3872486764113817316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28e295bb4dbc190800000000000000
+      internalID: -7941019616817544452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2519
+        width: 235
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a17ca372bdd8050800000000000000
+      internalID: 5804536456286771747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2159
+        width: 262
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de2057dcf6d37c90800000000000000
+      internalID: -7173153400038609200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2159
+        width: 290
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d6dce2d0475d90800000000000000
+      internalID: -7109142212120226806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2159
+        width: 305
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171eb65970fbe1f0800000000000000
+      internalID: -1014452887104907495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2159
+        width: 305
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228d3e1073d59120800000000000000
+      internalID: 2420072853278655011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2159
+        width: 297
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1626fecd1e948a0800000000000000
+      internalID: -6320272263012523557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 2159
+        width: 284
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4e93215aff5e190800000000000000
+      internalID: -7933654084102789912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1799
+        width: 277
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc574a31afeef68c0800000000000000
+      internalID: -4003718785870301749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1799
+        width: 275
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e8873312b01ae80800000000000000
+      internalID: -8169236011848004084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1799
+        width: 280
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3715d62fec5c8690800000000000000
+      internalID: -7598596289062430915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1799
+        width: 286
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e5351c8d22ef30800000000000000
+      internalID: 4603291848800592769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1799
+        width: 289
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f94e498004ac550800000000000000
+      internalID: 6181823844121354024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1799
+        width: 284
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb7659701ec66d0800000000000000
+      internalID: -2995772229420597699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1439
+        width: 278
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9581aba96184fb30800000000000000
+      internalID: 4320220233406186908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1439
+        width: 276
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f39cfd135f42d0800000000000000
+      internalID: -3292321414327830741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1439
+        width: 281
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed475299d45d913a0800000000000000
+      internalID: -6694084841850964770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1439
+        width: 286
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0222904469c176050800000000000000
+      internalID: 5793630877347553824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1439
+        width: 284
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01061be44ef924430800000000000000
+      internalID: 3765748041356763152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1439
+        width: 277
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa8e96777ec38f0800000000000000
+      internalID: -559317753636803972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1079
+        width: 272
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c0b63b0fe55a00800000000000000
+      internalID: 744764144840918562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1079
+        width: 273
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db15db44a8265c80800000000000000
+      internalID: -8334429374290519085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1079
+        width: 277
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013fb66ef65fb550800000000000000
+      internalID: 6178752864421097739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1079
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ffbd89198aff980800000000000000
+      internalID: -8502892228163928290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1079
+        width: 276
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ffb285670348e0800000000000000
+      internalID: -1710515300903945786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1079
+        width: 276
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d522c711305ce980800000000000000
+      internalID: -8508337424227490345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 719
+        width: 276
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb829faab3e87d0800000000000000
+      internalID: -2914326303351456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 719
+        width: 276
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06512b407b5731dd0800000000000000
+      internalID: -2516538337851730592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 719
+        width: 276
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bdefd3f243b8b10800000000000000
+      internalID: 1984737438295055167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 719
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82bd9f1d6967500800000000000000
+      internalID: 393667846025717953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 719
+        width: 268
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e84c412c18e4170800000000000000
+      internalID: 8164605845041352261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 719
+        width: 259
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb93ad216049cb20800000000000000
+      internalID: 3155123800071445451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 359
+        width: 247
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69763cc39ba9499c0800000000000000
+      internalID: -3921339255153793130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 359
+        width: 236
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5600ec421faf040800000000000000
+      internalID: 4682319902982301171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 359
+        width: 229
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086b184c1692aad20800000000000000
+      internalID: 3290487977632970368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 359
+        width: 226
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4830a6924af353d0800000000000000
+      internalID: -3218954144737904565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 359
+        width: 226
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b50f5a955e34090800000000000000
+      internalID: -8051339535609472134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 359
+        width: 225
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a46f71b08f1dc10800000000000000
+      internalID: 2076713629724854913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e302ba057ba7e9ed0800000000000000
+      internalID: -2405350223218270146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 223
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd84c0046c0c22c0800000000000000
+      internalID: -4455172307727118861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 223
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febb6fde78179b760800000000000000
+      internalID: 7474129885224942575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballo_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 0
+        width: 223
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108b06f6bd572ec0800000000000000
+      internalID: -3591799137411301356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballo_sheet_0: -2437880113811824931
+      caballo_sheet_1: -9037794016192064200
+      caballo_sheet_10: -6320272263012523557
+      caballo_sheet_11: -7933654084102789912
+      caballo_sheet_12: -4003718785870301749
+      caballo_sheet_13: -8169236011848004084
+      caballo_sheet_14: -7598596289062430915
+      caballo_sheet_15: 4603291848800592769
+      caballo_sheet_16: 6181823844121354024
+      caballo_sheet_17: -2995772229420597699
+      caballo_sheet_18: 4320220233406186908
+      caballo_sheet_19: -3292321414327830741
+      caballo_sheet_2: 1977884738668886084
+      caballo_sheet_20: -6694084841850964770
+      caballo_sheet_21: 5793630877347553824
+      caballo_sheet_22: 3765748041356763152
+      caballo_sheet_23: -559317753636803972
+      caballo_sheet_24: 744764144840918562
+      caballo_sheet_25: -8334429374290519085
+      caballo_sheet_26: 6178752864421097739
+      caballo_sheet_27: -8502892228163928290
+      caballo_sheet_28: -1710515300903945786
+      caballo_sheet_29: -8508337424227490345
+      caballo_sheet_3: 3872486764113817316
+      caballo_sheet_30: -2914326303351456749
+      caballo_sheet_31: -2516538337851730592
+      caballo_sheet_32: 1984737438295055167
+      caballo_sheet_33: 393667846025717953
+      caballo_sheet_34: 8164605845041352261
+      caballo_sheet_35: 3155123800071445451
+      caballo_sheet_36: -3921339255153793130
+      caballo_sheet_37: 4682319902982301171
+      caballo_sheet_38: 3290487977632970368
+      caballo_sheet_39: -3218954144737904565
+      caballo_sheet_4: -7941019616817544452
+      caballo_sheet_40: -8051339535609472134
+      caballo_sheet_41: 2076713629724854913
+      caballo_sheet_42: -2405350223218270146
+      caballo_sheet_43: -4455172307727118861
+      caballo_sheet_44: 7474129885224942575
+      caballo_sheet_45: -3591799137411301356
+      caballo_sheet_5: 5804536456286771747
+      caballo_sheet_6: -7173153400038609200
+      caballo_sheet_7: -7109142212120226806
+      caballo_sheet_8: -1014452887104907495
+      caballo_sheet_9: 2420072853278655011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

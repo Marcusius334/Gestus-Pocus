@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 3c29e1656174e8044af2f1ea51f1662c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3862810235619217133
+    second: autobus_sheet_0
+  - first:
+      213: 267020440434247977
+    second: autobus_sheet_1
+  - first:
+      213: 6523854074596502090
+    second: autobus_sheet_2
+  - first:
+      213: 1334315543797211746
+    second: autobus_sheet_3
+  - first:
+      213: -4233156626141825932
+    second: autobus_sheet_4
+  - first:
+      213: 5992530858477953227
+    second: autobus_sheet_5
+  - first:
+      213: -4857888046971381232
+    second: autobus_sheet_6
+  - first:
+      213: -2793072855788038442
+    second: autobus_sheet_7
+  - first:
+      213: -123028091663388120
+    second: autobus_sheet_8
+  - first:
+      213: -2943756309473226435
+    second: autobus_sheet_9
+  - first:
+      213: 3105271983695386510
+    second: autobus_sheet_10
+  - first:
+      213: 6130775532915988476
+    second: autobus_sheet_11
+  - first:
+      213: 1370479096470485028
+    second: autobus_sheet_12
+  - first:
+      213: -7697019803992736086
+    second: autobus_sheet_13
+  - first:
+      213: -6639612226972221888
+    second: autobus_sheet_14
+  - first:
+      213: -5127864082734669781
+    second: autobus_sheet_15
+  - first:
+      213: -4719415995787052850
+    second: autobus_sheet_16
+  - first:
+      213: -6457891289175469579
+    second: autobus_sheet_17
+  - first:
+      213: -8688929590490607377
+    second: autobus_sheet_18
+  - first:
+      213: 2617306743702583956
+    second: autobus_sheet_19
+  - first:
+      213: 7559115588218560898
+    second: autobus_sheet_20
+  - first:
+      213: 1661136492498085428
+    second: autobus_sheet_21
+  - first:
+      213: 553615072278834059
+    second: autobus_sheet_22
+  - first:
+      213: -1821352411480518586
+    second: autobus_sheet_23
+  - first:
+      213: 6143528719721584454
+    second: autobus_sheet_24
+  - first:
+      213: -8224287797480035583
+    second: autobus_sheet_25
+  - first:
+      213: -5042570019839170576
+    second: autobus_sheet_26
+  - first:
+      213: -4950650390147279069
+    second: autobus_sheet_27
+  - first:
+      213: -5782781097578563428
+    second: autobus_sheet_28
+  - first:
+      213: 6231918200949754120
+    second: autobus_sheet_29
+  - first:
+      213: -2019653119535655611
+    second: autobus_sheet_30
+  - first:
+      213: -977195061306120692
+    second: autobus_sheet_31
+  - first:
+      213: -4498812876505905626
+    second: autobus_sheet_32
+  - first:
+      213: 3239289224502069332
+    second: autobus_sheet_33
+  - first:
+      213: 4104085225434674150
+    second: autobus_sheet_34
+  - first:
+      213: 8324275906087645158
+    second: autobus_sheet_35
+  - first:
+      213: 8594817661553925941
+    second: autobus_sheet_36
+  - first:
+      213: 9125113551206871628
+    second: autobus_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: autobus_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2159
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee83d871757b9530800000000000000
+      internalID: 3862810235619217133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2159
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9290ad30da5a4b300800000000000000
+      internalID: 267020440434247977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2159
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a2fca47b2698a50800000000000000
+      internalID: 6523854074596502090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2159
+        width: 227
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a056eae0748210800000000000000
+      internalID: 1334315543797211746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2159
+        width: 237
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b93c0a7ec045c0800000000000000
+      internalID: -4233156626141825932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 2159
+        width: 253
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02525e01fb92350800000000000000
+      internalID: 5992530858477953227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1799
+        width: 267
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a97a93f80559cb0800000000000000
+      internalID: -4857888046971381232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1799
+        width: 273
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6d7f639030d39d0800000000000000
+      internalID: -2793072855788038442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1799
+        width: 268
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822720b3a9aea4ef0800000000000000
+      internalID: -123028091663388120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1799
+        width: 259
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d319884bb3da527d0800000000000000
+      internalID: -2943756309473226435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1799
+        width: 255
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87d22faa64281b20800000000000000
+      internalID: 3105271983695386510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1799
+        width: 253
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf71d1d6dd3e41550800000000000000
+      internalID: 6130775532915988476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1439
+        width: 254
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b8352a7be40310800000000000000
+      internalID: 1370479096470485028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1439
+        width: 261
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebdd1d441be2590800000000000000
+      internalID: -7697019803992736086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1439
+        width: 272
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04efaf49bdb5bd3a0800000000000000
+      internalID: -6639612226972221888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1439
+        width: 282
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ad1c09ca26d8b0800000000000000
+      internalID: -5127864082734669781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1439
+        width: 290
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f0d70824418eb0800000000000000
+      internalID: -4719415995787052850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1439
+        width: 292
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f15b9e7616f066a0800000000000000
+      internalID: -6457891289175469579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1079
+        width: 291
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05d68c298ba6780800000000000000
+      internalID: -8688929590490607377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1079
+        width: 290
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a70a6cd9a825420800000000000000
+      internalID: 2617306743702583956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1079
+        width: 289
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281a2ebd39f57e860800000000000000
+      internalID: 7559115588218560898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1079
+        width: 289
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43669ceb6da8d0710800000000000000
+      internalID: 1661136492498085428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1079
+        width: 290
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6b7d99f5dea700800000000000000
+      internalID: 553615072278834059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1079
+        width: 292
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64017e6b1a149b6e0800000000000000
+      internalID: -1821352411480518586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 719
+        width: 288
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6475a6e12d2324550800000000000000
+      internalID: 6143528719721584454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 719
+        width: 283
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6f9482d57ddd80800000000000000
+      internalID: -8224287797480035583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 719
+        width: 270
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a37c9841350ab0800000000000000
+      internalID: -5042570019839170576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 719
+        width: 258
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275f1823b1cb4bb0800000000000000
+      internalID: -4950650390147279069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 719
+        width: 248
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987cf0fa3f6fbfa0800000000000000
+      internalID: -5782781097578563428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 719
+        width: 241
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c6ece5983c7650800000000000000
+      internalID: 6231918200949754120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 359
+        width: 237
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54551983030c8f3e0800000000000000
+      internalID: -2019653119535655611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 359
+        width: 234
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c062596e44e4072f0800000000000000
+      internalID: -977195061306120692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 359
+        width: 230
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62689e846810191c0800000000000000
+      internalID: -4498812876505905626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 359
+        width: 226
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458423f136444fc20800000000000000
+      internalID: 3239289224502069332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 359
+        width: 222
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e376f5a4c3a4f830800000000000000
+      internalID: 4104085225434674150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 359
+        width: 222
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef62ba25d4c58370800000000000000
+      internalID: 8324275906087645158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fdc2a302de64770800000000000000
+      internalID: 8594817661553925941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autobus_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 223
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42f9ca8d6ae2ae70800000000000000
+      internalID: 9125113551206871628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      autobus_sheet_0: 3862810235619217133
+      autobus_sheet_1: 267020440434247977
+      autobus_sheet_10: 3105271983695386510
+      autobus_sheet_11: 6130775532915988476
+      autobus_sheet_12: 1370479096470485028
+      autobus_sheet_13: -7697019803992736086
+      autobus_sheet_14: -6639612226972221888
+      autobus_sheet_15: -5127864082734669781
+      autobus_sheet_16: -4719415995787052850
+      autobus_sheet_17: -6457891289175469579
+      autobus_sheet_18: -8688929590490607377
+      autobus_sheet_19: 2617306743702583956
+      autobus_sheet_2: 6523854074596502090
+      autobus_sheet_20: 7559115588218560898
+      autobus_sheet_21: 1661136492498085428
+      autobus_sheet_22: 553615072278834059
+      autobus_sheet_23: -1821352411480518586
+      autobus_sheet_24: 6143528719721584454
+      autobus_sheet_25: -8224287797480035583
+      autobus_sheet_26: -5042570019839170576
+      autobus_sheet_27: -4950650390147279069
+      autobus_sheet_28: -5782781097578563428
+      autobus_sheet_29: 6231918200949754120
+      autobus_sheet_3: 1334315543797211746
+      autobus_sheet_30: -2019653119535655611
+      autobus_sheet_31: -977195061306120692
+      autobus_sheet_32: -4498812876505905626
+      autobus_sheet_33: 3239289224502069332
+      autobus_sheet_34: 4104085225434674150
+      autobus_sheet_35: 8324275906087645158
+      autobus_sheet_36: 8594817661553925941
+      autobus_sheet_37: 9125113551206871628
+      autobus_sheet_4: -4233156626141825932
+      autobus_sheet_5: 5992530858477953227
+      autobus_sheet_6: -4857888046971381232
+      autobus_sheet_7: -2793072855788038442
+      autobus_sheet_8: -123028091663388120
+      autobus_sheet_9: -2943756309473226435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1341 @@
+fileFormatVersion: 2
+guid: af80d39062db2c247be5d23bf5dedc1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 881958545137205737
+    second: oveja_sheet_0
+  - first:
+      213: -8713477939005154790
+    second: oveja_sheet_1
+  - first:
+      213: -4450340465849979579
+    second: oveja_sheet_2
+  - first:
+      213: -7981876726629524337
+    second: oveja_sheet_3
+  - first:
+      213: 4378556673237899185
+    second: oveja_sheet_4
+  - first:
+      213: 3444730813004072598
+    second: oveja_sheet_5
+  - first:
+      213: 1621347342759796954
+    second: oveja_sheet_6
+  - first:
+      213: -256589778813887008
+    second: oveja_sheet_7
+  - first:
+      213: 9082189354415570517
+    second: oveja_sheet_8
+  - first:
+      213: 4043206918151521353
+    second: oveja_sheet_9
+  - first:
+      213: -5650132892199803835
+    second: oveja_sheet_10
+  - first:
+      213: 6155387640314133505
+    second: oveja_sheet_11
+  - first:
+      213: -6497792012396183141
+    second: oveja_sheet_12
+  - first:
+      213: 7015167113499223864
+    second: oveja_sheet_13
+  - first:
+      213: -5784655984480360135
+    second: oveja_sheet_14
+  - first:
+      213: -1041883107791161046
+    second: oveja_sheet_15
+  - first:
+      213: -2803976039672367615
+    second: oveja_sheet_16
+  - first:
+      213: 9159405553688551944
+    second: oveja_sheet_17
+  - first:
+      213: 205579332180135157
+    second: oveja_sheet_18
+  - first:
+      213: -2401071568427335089
+    second: oveja_sheet_19
+  - first:
+      213: -4591826555927939688
+    second: oveja_sheet_20
+  - first:
+      213: -70712534143005313
+    second: oveja_sheet_21
+  - first:
+      213: 4835027628442072722
+    second: oveja_sheet_22
+  - first:
+      213: -2500333799980495450
+    second: oveja_sheet_23
+  - first:
+      213: 5051798379789705006
+    second: oveja_sheet_24
+  - first:
+      213: 3183858064995712050
+    second: oveja_sheet_25
+  - first:
+      213: -5526712505254752882
+    second: oveja_sheet_26
+  - first:
+      213: -3539179568881981858
+    second: oveja_sheet_27
+  - first:
+      213: 342082386289081185
+    second: oveja_sheet_28
+  - first:
+      213: 5319765251805246242
+    second: oveja_sheet_29
+  - first:
+      213: 4025554519365893469
+    second: oveja_sheet_30
+  - first:
+      213: 3855106683996593123
+    second: oveja_sheet_31
+  - first:
+      213: -7977605632427991500
+    second: oveja_sheet_32
+  - first:
+      213: -1369040168377365336
+    second: oveja_sheet_33
+  - first:
+      213: -3310772196636920682
+    second: oveja_sheet_34
+  - first:
+      213: 7201773647973756762
+    second: oveja_sheet_35
+  - first:
+      213: -1690336682431617057
+    second: oveja_sheet_36
+  - first:
+      213: 7717879322021890396
+    second: oveja_sheet_37
+  - first:
+      213: -2707560416610851816
+    second: oveja_sheet_38
+  - first:
+      213: -4513919349328336860
+    second: oveja_sheet_39
+  - first:
+      213: 7229428070423608007
+    second: oveja_sheet_40
+  - first:
+      213: -4421623149297326821
+    second: oveja_sheet_41
+  - first:
+      213: 1688500586927521499
+    second: oveja_sheet_42
+  - first:
+      213: 6832499835331082082
+    second: oveja_sheet_43
+  - first:
+      213: -1120500068790516857
+    second: oveja_sheet_44
+  - first:
+      213: 6213988406760757709
+    second: oveja_sheet_45
+  - first:
+      213: -1772862837892169947
+    second: oveja_sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oveja_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1068dbf985d3c00800000000000000
+      internalID: 881958545137205737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a156ffaf1831780800000000000000
+      internalID: -8713477939005154790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d277bdce63d32c0800000000000000
+      internalID: -4450340465849979579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c1a4c286daa3190800000000000000
+      internalID: -7981876726629524337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d2418812c3cc30800000000000000
+      internalID: 4378556673237899185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2519
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69643f76c642ecf20800000000000000
+      internalID: 3444730813004072598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2159
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a8b661de208610800000000000000
+      internalID: 1621347342759796954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2159
+        width: 231
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5dc4a4f8607cf0800000000000000
+      internalID: -256589778813887008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2159
+        width: 262
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e36cc291b6a0e70800000000000000
+      internalID: 9082189354415570517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2159
+        width: 297
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c2dd254b5c1830800000000000000
+      internalID: 4043206918151521353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2159
+        width: 320
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5442eaaf112b691b0800000000000000
+      internalID: -5650132892199803835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2159
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cf0cb32745c6550800000000000000
+      internalID: 6155387640314133505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1799
+        width: 337
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9141cc679433d5a0800000000000000
+      internalID: -6497792012396183141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1799
+        width: 333
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837af106251ea5160800000000000000
+      internalID: 7015167113499223864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1799
+        width: 327
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939e531d706c8bfa0800000000000000
+      internalID: -5784655984480360135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1799
+        width: 324
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b0a665dc7a81f0800000000000000
+      internalID: -1041883107791161046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1799
+        width: 327
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063f94e5a64619d0800000000000000
+      internalID: -2803976039672367615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1799
+        width: 327
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802a85d82debc1f70800000000000000
+      internalID: 9159405553688551944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1439
+        width: 325
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc42cb305d5ad200800000000000000
+      internalID: 205579332180135157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1439
+        width: 324
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f424993412eadaed0800000000000000
+      internalID: -2401071568427335089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1439
+        width: 322
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b5bf631e8640c0800000000000000
+      internalID: -4591826555927939688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1439
+        width: 324
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0d392357c40ff0800000000000000
+      internalID: -70712534143005313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1439
+        width: 324
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2963d70d208791340800000000000000
+      internalID: 4835027628442072722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1439
+        width: 322
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad824008a70d4dd0800000000000000
+      internalID: -2500333799980495450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1079
+        width: 318
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f52406cd79b1640800000000000000
+      internalID: 5051798379789705006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1079
+        width: 316
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf4539a065f2c20800000000000000
+      internalID: 3183858064995712050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1079
+        width: 317
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc49c124c2d43b0800000000000000
+      internalID: -5526712505254752882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1079
+        width: 318
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e562878feee42eec0800000000000000
+      internalID: -3539179568881981858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1079
+        width: 317
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bbdae2e125fb400800000000000000
+      internalID: 342082386289081185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1079
+        width: 316
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223715aaf4a93d940800000000000000
+      internalID: 5319765251805246242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 315
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db5cec184add730800000000000000
+      internalID: 4025554519365893469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 719
+        width: 316
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd9d69a17108530800000000000000
+      internalID: 3855106683996593123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 719
+        width: 314
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e59f8c1f9d94190800000000000000
+      internalID: -7977605632427991500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 719
+        width: 312
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac40a86831300de0800000000000000
+      internalID: -1369040168377365336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 719
+        width: 308
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69477377a36cd02d0800000000000000
+      internalID: -3310772196636920682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 719
+        width: 297
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fae38e9f6d1f360800000000000000
+      internalID: 7201773647973756762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 276
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e9dc3eb7ba88e0800000000000000
+      internalID: -1690336682431617057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 359
+        width: 252
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5982703a5a6b1b60800000000000000
+      internalID: 7717879322021890396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 359
+        width: 234
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81460087520dc6ad0800000000000000
+      internalID: -2707560416610851816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 359
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428a58e74465b51c0800000000000000
+      internalID: -4513919349328336860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 359
+        width: 222
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca36d2e686145460800000000000000
+      internalID: 7229428070423608007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 359
+        width: 222
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152d772c2d33a2c0800000000000000
+      internalID: -4421623149297326821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde7ad67652ce6710800000000000000
+      internalID: 1688500586927521499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f2dc666ae1de50800000000000000
+      internalID: 6832499835331082082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c0f4cf1f2370f0800000000000000
+      internalID: -1120500068790516857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9de5768858c3650800000000000000
+      internalID: 6213988406760757709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oveja_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 220
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f32f754a68567e0800000000000000
+      internalID: -1772862837892169947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oveja_sheet_0: 881958545137205737
+      oveja_sheet_1: -8713477939005154790
+      oveja_sheet_10: -5650132892199803835
+      oveja_sheet_11: 6155387640314133505
+      oveja_sheet_12: -6497792012396183141
+      oveja_sheet_13: 7015167113499223864
+      oveja_sheet_14: -5784655984480360135
+      oveja_sheet_15: -1041883107791161046
+      oveja_sheet_16: -2803976039672367615
+      oveja_sheet_17: 9159405553688551944
+      oveja_sheet_18: 205579332180135157
+      oveja_sheet_19: -2401071568427335089
+      oveja_sheet_2: -4450340465849979579
+      oveja_sheet_20: -4591826555927939688
+      oveja_sheet_21: -70712534143005313
+      oveja_sheet_22: 4835027628442072722
+      oveja_sheet_23: -2500333799980495450
+      oveja_sheet_24: 5051798379789705006
+      oveja_sheet_25: 3183858064995712050
+      oveja_sheet_26: -5526712505254752882
+      oveja_sheet_27: -3539179568881981858
+      oveja_sheet_28: 342082386289081185
+      oveja_sheet_29: 5319765251805246242
+      oveja_sheet_3: -7981876726629524337
+      oveja_sheet_30: 4025554519365893469
+      oveja_sheet_31: 3855106683996593123
+      oveja_sheet_32: -7977605632427991500
+      oveja_sheet_33: -1369040168377365336
+      oveja_sheet_34: -3310772196636920682
+      oveja_sheet_35: 7201773647973756762
+      oveja_sheet_36: -1690336682431617057
+      oveja_sheet_37: 7717879322021890396
+      oveja_sheet_38: -2707560416610851816
+      oveja_sheet_39: -4513919349328336860
+      oveja_sheet_4: 4378556673237899185
+      oveja_sheet_40: 7229428070423608007
+      oveja_sheet_41: -4421623149297326821
+      oveja_sheet_42: 1688500586927521499
+      oveja_sheet_43: 6832499835331082082
+      oveja_sheet_44: -1120500068790516857
+      oveja_sheet_45: 6213988406760757709
+      oveja_sheet_46: -1772862837892169947
+      oveja_sheet_5: 3444730813004072598
+      oveja_sheet_6: 1621347342759796954
+      oveja_sheet_7: -256589778813887008
+      oveja_sheet_8: 9082189354415570517
+      oveja_sheet_9: 4043206918151521353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

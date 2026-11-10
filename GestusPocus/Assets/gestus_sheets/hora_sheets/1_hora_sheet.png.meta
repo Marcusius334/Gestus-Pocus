@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: fae0f0f16de6c304fbe56740659a0ae0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2549817804971471136
+    second: 1_hora_sheet_0
+  - first:
+      213: 6568151561555346764
+    second: 1_hora_sheet_1
+  - first:
+      213: 8778073694189770895
+    second: 1_hora_sheet_2
+  - first:
+      213: 7928875606766585873
+    second: 1_hora_sheet_3
+  - first:
+      213: -4284118738892719645
+    second: 1_hora_sheet_4
+  - first:
+      213: -5104551842170439064
+    second: 1_hora_sheet_5
+  - first:
+      213: -5844370107473334857
+    second: 1_hora_sheet_6
+  - first:
+      213: 5343939327456931660
+    second: 1_hora_sheet_7
+  - first:
+      213: 5460574604247870510
+    second: 1_hora_sheet_8
+  - first:
+      213: 1006152979630249694
+    second: 1_hora_sheet_9
+  - first:
+      213: -7674963243274406113
+    second: 1_hora_sheet_10
+  - first:
+      213: 531184628604609166
+    second: 1_hora_sheet_11
+  - first:
+      213: -9188504280272037843
+    second: 1_hora_sheet_12
+  - first:
+      213: 8681146073883573505
+    second: 1_hora_sheet_13
+  - first:
+      213: 1108110562371590812
+    second: 1_hora_sheet_14
+  - first:
+      213: -5627507172156107415
+    second: 1_hora_sheet_15
+  - first:
+      213: -2434157572947689900
+    second: 1_hora_sheet_16
+  - first:
+      213: -3574365354403166066
+    second: 1_hora_sheet_17
+  - first:
+      213: -238636841465585667
+    second: 1_hora_sheet_18
+  - first:
+      213: -2036640400897853953
+    second: 1_hora_sheet_19
+  - first:
+      213: -7967334248757052387
+    second: 1_hora_sheet_20
+  - first:
+      213: 3329667939958772768
+    second: 1_hora_sheet_21
+  - first:
+      213: 2531027460346869734
+    second: 1_hora_sheet_22
+  - first:
+      213: -8574428027138576435
+    second: 1_hora_sheet_23
+  - first:
+      213: 2960493823236819359
+    second: 1_hora_sheet_24
+  - first:
+      213: 7081313683589475122
+    second: 1_hora_sheet_25
+  - first:
+      213: -2070953234281957249
+    second: 1_hora_sheet_26
+  - first:
+      213: -3240543050823842820
+    second: 1_hora_sheet_27
+  - first:
+      213: -1368066047541648707
+    second: 1_hora_sheet_28
+  - first:
+      213: -3244703594268877738
+    second: 1_hora_sheet_29
+  - first:
+      213: 4978296652749046162
+    second: 1_hora_sheet_30
+  - first:
+      213: -3605597097654369209
+    second: 1_hora_sheet_31
+  - first:
+      213: 2036426342505799938
+    second: 1_hora_sheet_32
+  - first:
+      213: -5444371498524983759
+    second: 1_hora_sheet_33
+  - first:
+      213: -6335011732182311192
+    second: 1_hora_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_hora_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1799
+        width: 231
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee85b4473a3d9cd0800000000000000
+      internalID: -2549817804971471136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1799
+        width: 232
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c450f61bb03c62b50800000000000000
+      internalID: 6568151561555346764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1799
+        width: 232
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d162448bf1d970800000000000000
+      internalID: 8778073694189770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1799
+        width: 233
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180599fa56090e60800000000000000
+      internalID: 7928875606766585873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1799
+        width: 236
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e974b884b0cb84c0800000000000000
+      internalID: -4284118738892719645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1799
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a7dd5052df829b0800000000000000
+      internalID: -5104551842170439064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1439
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde3202a50a4eea0800000000000000
+      internalID: -5844370107473334857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1439
+        width: 237
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f6f42418c792a40800000000000000
+      internalID: 5343939327456931660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1439
+        width: 233
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ca6b3dbabd7cb40800000000000000
+      internalID: 5460574604247870510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1439
+        width: 238
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6df8cddc296fd00800000000000000
+      internalID: 1006152979630249694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1439
+        width: 245
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17f27c089d0d7590800000000000000
+      internalID: -7674963243274406113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1439
+        width: 249
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82202afa952f5700800000000000000
+      internalID: 531184628604609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1079
+        width: 253
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289a353a00eb7080800000000000000
+      internalID: -9188504280272037843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1079
+        width: 253
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7b190c50a97870800000000000000
+      internalID: 8681146073883573505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1079
+        width: 249
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a540a7facc06f00800000000000000
+      internalID: 1108110562371590812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1079
+        width: 243
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651ca0fa0417e1b0800000000000000
+      internalID: -5627507172156107415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1079
+        width: 238
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e30298592283ed0800000000000000
+      internalID: -2434157572947689900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1079
+        width: 234
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880651e5ad456ec0800000000000000
+      internalID: -3574365354403166066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 719
+        width: 231
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff5f1a9e0130bcf0800000000000000
+      internalID: -238636841465585667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 719
+        width: 229
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5364198566cb3e0800000000000000
+      internalID: -2036640400897853953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 719
+        width: 229
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3808a6b75e6190800000000000000
+      internalID: -7967334248757052387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 719
+        width: 230
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024df3d995b553e20800000000000000
+      internalID: 3329667939958772768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 719
+        width: 232
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fbb2b014002320800000000000000
+      internalID: 2531027460346869734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 719
+        width: 235
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf604a7323810980800000000000000
+      internalID: -8574428027138576435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 359
+        width: 241
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99c4c56279c51920800000000000000
+      internalID: 2960493823236819359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 359
+        width: 246
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba67dd641e54260800000000000000
+      internalID: 7081313683589475122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 359
+        width: 249
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787d2c710f7243e0800000000000000
+      internalID: -2070953234281957249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 359
+        width: 248
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c840b3474703d0800000000000000
+      internalID: -3240543050823842820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 359
+        width: 243
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2e1079d27a30de0800000000000000
+      internalID: -1368066047541648707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 359
+        width: 239
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c9b2ea54f78f2d0800000000000000
+      internalID: -3244703594268877738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 235
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918f95fd66761540800000000000000
+      internalID: 4978296652749046162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 232
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c12ffa8856fdc0800000000000000
+      internalID: -3605597097654369209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 230
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016e4418f6d24c10800000000000000
+      internalID: 2036426342505799938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 230
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e3825b7f4b174b0800000000000000
+      internalID: -5444371498524983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_hora_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 0
+        width: 231
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5757d4648518a0800000000000000
+      internalID: -6335011732182311192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1_hora_sheet_0: -2549817804971471136
+      1_hora_sheet_1: 6568151561555346764
+      1_hora_sheet_10: -7674963243274406113
+      1_hora_sheet_11: 531184628604609166
+      1_hora_sheet_12: -9188504280272037843
+      1_hora_sheet_13: 8681146073883573505
+      1_hora_sheet_14: 1108110562371590812
+      1_hora_sheet_15: -5627507172156107415
+      1_hora_sheet_16: -2434157572947689900
+      1_hora_sheet_17: -3574365354403166066
+      1_hora_sheet_18: -238636841465585667
+      1_hora_sheet_19: -2036640400897853953
+      1_hora_sheet_2: 8778073694189770895
+      1_hora_sheet_20: -7967334248757052387
+      1_hora_sheet_21: 3329667939958772768
+      1_hora_sheet_22: 2531027460346869734
+      1_hora_sheet_23: -8574428027138576435
+      1_hora_sheet_24: 2960493823236819359
+      1_hora_sheet_25: 7081313683589475122
+      1_hora_sheet_26: -2070953234281957249
+      1_hora_sheet_27: -3240543050823842820
+      1_hora_sheet_28: -1368066047541648707
+      1_hora_sheet_29: -3244703594268877738
+      1_hora_sheet_3: 7928875606766585873
+      1_hora_sheet_30: 4978296652749046162
+      1_hora_sheet_31: -3605597097654369209
+      1_hora_sheet_32: 2036426342505799938
+      1_hora_sheet_33: -5444371498524983759
+      1_hora_sheet_34: -6335011732182311192
+      1_hora_sheet_4: -4284118738892719645
+      1_hora_sheet_5: -5104551842170439064
+      1_hora_sheet_6: -5844370107473334857
+      1_hora_sheet_7: 5343939327456931660
+      1_hora_sheet_8: 5460574604247870510
+      1_hora_sheet_9: 1006152979630249694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

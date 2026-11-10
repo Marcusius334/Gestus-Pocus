@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 9dfa195c91f8fc442aa4450f46878e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8570921248385023039
+    second: primavera_sheet_0
+  - first:
+      213: 4434654242997634508
+    second: primavera_sheet_1
+  - first:
+      213: -4918219275938165710
+    second: primavera_sheet_2
+  - first:
+      213: 6385024769488564116
+    second: primavera_sheet_3
+  - first:
+      213: 1301198096372422466
+    second: primavera_sheet_4
+  - first:
+      213: 6057756888237525030
+    second: primavera_sheet_5
+  - first:
+      213: -4482466134107330614
+    second: primavera_sheet_6
+  - first:
+      213: 4361863834392888742
+    second: primavera_sheet_7
+  - first:
+      213: -6389099844832818060
+    second: primavera_sheet_8
+  - first:
+      213: 2375412923557905797
+    second: primavera_sheet_9
+  - first:
+      213: -6384601524285637872
+    second: primavera_sheet_10
+  - first:
+      213: -4942970417822904311
+    second: primavera_sheet_11
+  - first:
+      213: 4258680873236863503
+    second: primavera_sheet_12
+  - first:
+      213: -2254315552298417250
+    second: primavera_sheet_13
+  - first:
+      213: -2531417472510637362
+    second: primavera_sheet_14
+  - first:
+      213: 6976727052882029765
+    second: primavera_sheet_15
+  - first:
+      213: 7591698590292653543
+    second: primavera_sheet_16
+  - first:
+      213: -3392598184782715866
+    second: primavera_sheet_17
+  - first:
+      213: -4628568698820099219
+    second: primavera_sheet_18
+  - first:
+      213: 859205383534548554
+    second: primavera_sheet_19
+  - first:
+      213: 1260795290879336521
+    second: primavera_sheet_20
+  - first:
+      213: -6629690692887500514
+    second: primavera_sheet_21
+  - first:
+      213: 5114327292680784272
+    second: primavera_sheet_22
+  - first:
+      213: 9042002429887387237
+    second: primavera_sheet_23
+  - first:
+      213: -8965433094787107344
+    second: primavera_sheet_24
+  - first:
+      213: -8872697744244509113
+    second: primavera_sheet_25
+  - first:
+      213: 7351758088713538298
+    second: primavera_sheet_26
+  - first:
+      213: 6429429739917100513
+    second: primavera_sheet_27
+  - first:
+      213: -1946330888418690008
+    second: primavera_sheet_28
+  - first:
+      213: -6851483433056622252
+    second: primavera_sheet_29
+  - first:
+      213: -1061364517266369928
+    second: primavera_sheet_30
+  - first:
+      213: 136805126102411657
+    second: primavera_sheet_31
+  - first:
+      213: -6549432082640019989
+    second: primavera_sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1799
+        width: 234
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3c9280988fd0980800000000000000
+      internalID: -8570921248385023039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1799
+        width: 239
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58d87c98e0b8d30800000000000000
+      internalID: 4434654242997634508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1799
+        width: 252
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0a3a50a9febbb0800000000000000
+      internalID: -4918219275938165710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1799
+        width: 270
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49faf63d23a2c9850800000000000000
+      internalID: 6385024769488564116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1799
+        width: 284
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24751bc46c8ce0210800000000000000
+      internalID: 1301198096372422466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1799
+        width: 285
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628c2136bc9711450800000000000000
+      internalID: 6057756888237525030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1439
+        width: 273
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac760d6dcc41bc1c0800000000000000
+      internalID: -4482466134107330614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1439
+        width: 267
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a58c971c04788c30800000000000000
+      internalID: 4361863834392888742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1439
+        width: 262
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8c32ca8b5557a0800000000000000
+      internalID: -6389099844832818060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1439
+        width: 256
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5858a8fe77927f020800000000000000
+      internalID: 2375412923557905797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1439
+        width: 249
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b7980adb65567a0800000000000000
+      internalID: -6384601524285637872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1439
+        width: 246
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d66e089a076bb0800000000000000
+      internalID: -4942970417822904311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1079
+        width: 247
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9805d0bfd91b30800000000000000
+      internalID: 4258680873236863503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1079
+        width: 248
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934d95f2ff07b0e0800000000000000
+      internalID: -2254315552298417250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1079
+        width: 248
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca49c488399edcd0800000000000000
+      internalID: -2531417472510637362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1079
+        width: 251
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc24e15a4052d060800000000000000
+      internalID: 6976727052882029765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1079
+        width: 264
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e53a3435a12b5960800000000000000
+      internalID: 7591698590292653543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1079
+        width: 262
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624246afce11be0d0800000000000000
+      internalID: -3392598184782715866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 719
+        width: 253
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630658aa4504cfb0800000000000000
+      internalID: -4628568698820099219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 719
+        width: 254
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a461eaa7eb28ceb00800000000000000
+      internalID: 859205383534548554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 719
+        width: 257
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940295713ae3f7110800000000000000
+      internalID: 1260795290879336521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 719
+        width: 261
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e192abfb07b9ef3a0800000000000000
+      internalID: -6629690692887500514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 719
+        width: 263
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c259639db9f640800000000000000
+      internalID: 5114327292680784272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 719
+        width: 262
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56618abad45ab7d70800000000000000
+      internalID: 9042002429887387237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 359
+        width: 257
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5fea7e912649380800000000000000
+      internalID: -8965433094787107344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 359
+        width: 249
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74675e24968ddd480800000000000000
+      internalID: -8872697744244509113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 359
+        width: 241
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa0068c701b60660800000000000000
+      internalID: 7351758088713538298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 359
+        width: 236
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5471ca84ce93950800000000000000
+      internalID: 6429429739917100513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 359
+        width: 237
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cfe6c7e5e3df4e0800000000000000
+      internalID: -1946330888418690008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 359
+        width: 241
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459af2c4e14aae0a0800000000000000
+      internalID: -6851483433056622252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 241
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872522b48964541f0800000000000000
+      internalID: -1061364517266369928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98969c0998706e100800000000000000
+      internalID: 136805126102411657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 237
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd1b1a83ebb15a0800000000000000
+      internalID: -6549432082640019989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_sheet_0: -8570921248385023039
+      primavera_sheet_1: 4434654242997634508
+      primavera_sheet_10: -6384601524285637872
+      primavera_sheet_11: -4942970417822904311
+      primavera_sheet_12: 4258680873236863503
+      primavera_sheet_13: -2254315552298417250
+      primavera_sheet_14: -2531417472510637362
+      primavera_sheet_15: 6976727052882029765
+      primavera_sheet_16: 7591698590292653543
+      primavera_sheet_17: -3392598184782715866
+      primavera_sheet_18: -4628568698820099219
+      primavera_sheet_19: 859205383534548554
+      primavera_sheet_2: -4918219275938165710
+      primavera_sheet_20: 1260795290879336521
+      primavera_sheet_21: -6629690692887500514
+      primavera_sheet_22: 5114327292680784272
+      primavera_sheet_23: 9042002429887387237
+      primavera_sheet_24: -8965433094787107344
+      primavera_sheet_25: -8872697744244509113
+      primavera_sheet_26: 7351758088713538298
+      primavera_sheet_27: 6429429739917100513
+      primavera_sheet_28: -1946330888418690008
+      primavera_sheet_29: -6851483433056622252
+      primavera_sheet_3: 6385024769488564116
+      primavera_sheet_30: -1061364517266369928
+      primavera_sheet_31: 136805126102411657
+      primavera_sheet_32: -6549432082640019989
+      primavera_sheet_4: 1301198096372422466
+      primavera_sheet_5: 6057756888237525030
+      primavera_sheet_6: -4482466134107330614
+      primavera_sheet_7: 4361863834392888742
+      primavera_sheet_8: -6389099844832818060
+      primavera_sheet_9: 2375412923557905797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

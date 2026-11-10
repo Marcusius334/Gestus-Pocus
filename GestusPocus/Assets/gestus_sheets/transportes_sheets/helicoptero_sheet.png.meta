@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 91480b36c20f9344badf155bb30b7649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4329450342028366887
+    second: helicoptero_sheet_0
+  - first:
+      213: 6701354371482047666
+    second: helicoptero_sheet_1
+  - first:
+      213: -4986056367440758625
+    second: helicoptero_sheet_2
+  - first:
+      213: -1299291206335128664
+    second: helicoptero_sheet_3
+  - first:
+      213: 2126718597721430830
+    second: helicoptero_sheet_4
+  - first:
+      213: -110318595025916901
+    second: helicoptero_sheet_5
+  - first:
+      213: 479572801438311488
+    second: helicoptero_sheet_6
+  - first:
+      213: 8485146336012174026
+    second: helicoptero_sheet_7
+  - first:
+      213: -7020508872149108611
+    second: helicoptero_sheet_8
+  - first:
+      213: 7112340445664497116
+    second: helicoptero_sheet_9
+  - first:
+      213: -1400654148351482643
+    second: helicoptero_sheet_10
+  - first:
+      213: -4846555389267993066
+    second: helicoptero_sheet_11
+  - first:
+      213: 4700308048999265818
+    second: helicoptero_sheet_12
+  - first:
+      213: -1828518955658840424
+    second: helicoptero_sheet_13
+  - first:
+      213: 4092126817132872175
+    second: helicoptero_sheet_14
+  - first:
+      213: -7474296610520431904
+    second: helicoptero_sheet_15
+  - first:
+      213: 2463768549509789126
+    second: helicoptero_sheet_16
+  - first:
+      213: -862504194098054563
+    second: helicoptero_sheet_17
+  - first:
+      213: -6192904696121629064
+    second: helicoptero_sheet_18
+  - first:
+      213: 4652440322491225062
+    second: helicoptero_sheet_19
+  - first:
+      213: -1845428063330150038
+    second: helicoptero_sheet_20
+  - first:
+      213: -85964376594137395
+    second: helicoptero_sheet_21
+  - first:
+      213: 7455199749950734550
+    second: helicoptero_sheet_22
+  - first:
+      213: -8264040534767465196
+    second: helicoptero_sheet_23
+  - first:
+      213: 5290545529398876850
+    second: helicoptero_sheet_24
+  - first:
+      213: -5960493755863700683
+    second: helicoptero_sheet_25
+  - first:
+      213: -3431427527144185053
+    second: helicoptero_sheet_26
+  - first:
+      213: -8481693459972759975
+    second: helicoptero_sheet_27
+  - first:
+      213: -5812097842893644684
+    second: helicoptero_sheet_28
+  - first:
+      213: 3950799808012979346
+    second: helicoptero_sheet_29
+  - first:
+      213: -4959885526409256029
+    second: helicoptero_sheet_30
+  - first:
+      213: 8342629302572941576
+    second: helicoptero_sheet_31
+  - first:
+      213: -5061522304828384557
+    second: helicoptero_sheet_32
+  - first:
+      213: -5755815756125200378
+    second: helicoptero_sheet_33
+  - first:
+      213: -8979448608585563016
+    second: helicoptero_sheet_34
+  - first:
+      213: -2836005623283828862
+    second: helicoptero_sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: helicoptero_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1799
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba4b23ad3bae3c0800000000000000
+      internalID: -4329450342028366887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1799
+        width: 230
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d23aab4efffc50800000000000000
+      internalID: 6701354371482047666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1799
+        width: 247
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987e9ca628fdcab0800000000000000
+      internalID: -4986056367440758625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1799
+        width: 268
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab1b92288df7fde0800000000000000
+      internalID: -1299291206335128664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1799
+        width: 284
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b176afb4f938d10800000000000000
+      internalID: 2126718597721430830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1799
+        width: 287
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2c5382d1187ef0800000000000000
+      internalID: -110318595025916901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1439
+        width: 285
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446ba90ce8c7a600800000000000000
+      internalID: 479572801438311488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1439
+        width: 284
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac28639e2ab41c570800000000000000
+      internalID: 8485146336012174026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1439
+        width: 282
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f2158064229e90800000000000000
+      internalID: -7020508872149108611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1439
+        width: 281
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc979d3fb14b260800000000000000
+      internalID: 7112340445664497116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1439
+        width: 277
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4255a1970ef8ce0800000000000000
+      internalID: -1400654148351482643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1439
+        width: 273
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1d663d839dbcb0800000000000000
+      internalID: -4846555389267993066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1079
+        width: 264
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b28b6449da3140800000000000000
+      internalID: 4700308048999265818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1079
+        width: 256
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f2ee92bbcf96e0800000000000000
+      internalID: -1828518955658840424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1079
+        width: 242
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe10e0fb8a72ac830800000000000000
+      internalID: 4092126817132872175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1079
+        width: 233
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2060055d6f54890800000000000000
+      internalID: -7474296610520431904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1079
+        width: 219
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57f423170113220800000000000000
+      internalID: 2463768549509789126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1079
+        width: 220
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a30855105c704f0800000000000000
+      internalID: -862504194098054563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 719
+        width: 222
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87662d38df16e0aa0800000000000000
+      internalID: -6192904696121629064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 719
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e31bc8d2d9c09040800000000000000
+      internalID: 4652440322491225062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 719
+        width: 228
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a695ba234f8b366e0800000000000000
+      internalID: -1845428063330150038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 719
+        width: 226
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb4cddad79ecef0800000000000000
+      internalID: -85964376594137395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 719
+        width: 232
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d005695ca0367760800000000000000
+      internalID: 7455199749950734550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 719
+        width: 247
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d81cb1bea305d80800000000000000
+      internalID: -8264040534767465196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 255
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad9d3e02bcb6940800000000000000
+      internalID: 5290545529398876850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 359
+        width: 251
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6fc35282184da0800000000000000
+      internalID: -5960493755863700683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 359
+        width: 243
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e21438de1160d0800000000000000
+      internalID: -3431427527144185053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 359
+        width: 235
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed1907cb8fa4a80800000000000000
+      internalID: -8481693459972759975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 359
+        width: 232
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c92824ec7475fa0800000000000000
+      internalID: -5812097842893644684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 359
+        width: 231
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8b4f3e7f04d630800000000000000
+      internalID: 3950799808012979346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 229
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a366cf6462fa2bb0800000000000000
+      internalID: -4959885526409256029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 226
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80100a84629f6c370800000000000000
+      internalID: 8342629302572941576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dadcf5e74cd1c9b0800000000000000
+      internalID: -5061522304828384557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600af8fb01c3f10b0800000000000000
+      internalID: -5755815756125200378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 0
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c16ec017926380800000000000000
+      internalID: -8979448608585563016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helicoptero_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287382359eb74a8d0800000000000000
+      internalID: -2836005623283828862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      helicoptero_sheet_0: -4329450342028366887
+      helicoptero_sheet_1: 6701354371482047666
+      helicoptero_sheet_10: -1400654148351482643
+      helicoptero_sheet_11: -4846555389267993066
+      helicoptero_sheet_12: 4700308048999265818
+      helicoptero_sheet_13: -1828518955658840424
+      helicoptero_sheet_14: 4092126817132872175
+      helicoptero_sheet_15: -7474296610520431904
+      helicoptero_sheet_16: 2463768549509789126
+      helicoptero_sheet_17: -862504194098054563
+      helicoptero_sheet_18: -6192904696121629064
+      helicoptero_sheet_19: 4652440322491225062
+      helicoptero_sheet_2: -4986056367440758625
+      helicoptero_sheet_20: -1845428063330150038
+      helicoptero_sheet_21: -85964376594137395
+      helicoptero_sheet_22: 7455199749950734550
+      helicoptero_sheet_23: -8264040534767465196
+      helicoptero_sheet_24: 5290545529398876850
+      helicoptero_sheet_25: -5960493755863700683
+      helicoptero_sheet_26: -3431427527144185053
+      helicoptero_sheet_27: -8481693459972759975
+      helicoptero_sheet_28: -5812097842893644684
+      helicoptero_sheet_29: 3950799808012979346
+      helicoptero_sheet_3: -1299291206335128664
+      helicoptero_sheet_30: -4959885526409256029
+      helicoptero_sheet_31: 8342629302572941576
+      helicoptero_sheet_32: -5061522304828384557
+      helicoptero_sheet_33: -5755815756125200378
+      helicoptero_sheet_34: -8979448608585563016
+      helicoptero_sheet_35: -2836005623283828862
+      helicoptero_sheet_4: 2126718597721430830
+      helicoptero_sheet_5: -110318595025916901
+      helicoptero_sheet_6: 479572801438311488
+      helicoptero_sheet_7: 8485146336012174026
+      helicoptero_sheet_8: -7020508872149108611
+      helicoptero_sheet_9: 7112340445664497116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

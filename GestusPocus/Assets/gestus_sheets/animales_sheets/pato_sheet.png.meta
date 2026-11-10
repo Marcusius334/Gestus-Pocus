@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 9cf0b68a987a344429d7ac88139b9441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5218671401514399525
+    second: pato_sheet_0
+  - first:
+      213: -2832786546460642854
+    second: pato_sheet_1
+  - first:
+      213: 1933918690770307109
+    second: pato_sheet_2
+  - first:
+      213: -8528127009079796314
+    second: pato_sheet_3
+  - first:
+      213: -2216158877094240854
+    second: pato_sheet_4
+  - first:
+      213: 135869111005550546
+    second: pato_sheet_5
+  - first:
+      213: 6307771047426503802
+    second: pato_sheet_6
+  - first:
+      213: 8139069582521182481
+    second: pato_sheet_7
+  - first:
+      213: -4741525984666319171
+    second: pato_sheet_8
+  - first:
+      213: 7544858250387171714
+    second: pato_sheet_9
+  - first:
+      213: -3598396914376904919
+    second: pato_sheet_10
+  - first:
+      213: 8254319869006795542
+    second: pato_sheet_11
+  - first:
+      213: -203702167715985605
+    second: pato_sheet_12
+  - first:
+      213: -8527512094957800395
+    second: pato_sheet_13
+  - first:
+      213: -1111331998534985438
+    second: pato_sheet_14
+  - first:
+      213: 1928020260662448973
+    second: pato_sheet_15
+  - first:
+      213: 1738650824544390057
+    second: pato_sheet_16
+  - first:
+      213: -5845898744277460697
+    second: pato_sheet_17
+  - first:
+      213: 1824956124398801388
+    second: pato_sheet_18
+  - first:
+      213: -6112179831429326372
+    second: pato_sheet_19
+  - first:
+      213: -9042540940182599126
+    second: pato_sheet_20
+  - first:
+      213: -1853786588346354020
+    second: pato_sheet_21
+  - first:
+      213: 7274786290350179216
+    second: pato_sheet_22
+  - first:
+      213: -1758549695071562836
+    second: pato_sheet_23
+  - first:
+      213: 2824310755909133792
+    second: pato_sheet_24
+  - first:
+      213: -567537629396360694
+    second: pato_sheet_25
+  - first:
+      213: -791020620927137355
+    second: pato_sheet_26
+  - first:
+      213: -3860645563911569306
+    second: pato_sheet_27
+  - first:
+      213: 5555273702237571340
+    second: pato_sheet_28
+  - first:
+      213: 1153237861129744784
+    second: pato_sheet_29
+  - first:
+      213: -6871079007276836219
+    second: pato_sheet_30
+  - first:
+      213: -1842227148794831690
+    second: pato_sheet_31
+  - first:
+      213: 2352942300479958385
+    second: pato_sheet_32
+  - first:
+      213: -265222840536566105
+    second: pato_sheet_33
+  - first:
+      213: 8340125671277663913
+    second: pato_sheet_34
+  - first:
+      213: 7877717689195905092
+    second: pato_sheet_35
+  - first:
+      213: 6931142938196604013
+    second: pato_sheet_36
+  - first:
+      213: -4888433170558371635
+    second: pato_sheet_37
+  - first:
+      213: 6721278426038781066
+    second: pato_sheet_38
+  - first:
+      213: -4224212344488978451
+    second: pato_sheet_39
+  - first:
+      213: 5875651582649738002
+    second: pato_sheet_40
+  - first:
+      213: 8902475807656014132
+    second: pato_sheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pato_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2159
+        width: 220
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52771ce6df17c6840800000000000000
+      internalID: 5218671401514399525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2159
+        width: 219
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad135bd05abefa8d0800000000000000
+      internalID: -2832786546460642854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2159
+        width: 219
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5284adb8dc8a6da10800000000000000
+      internalID: 1933918690770307109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2159
+        width: 219
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad52605ba106a980800000000000000
+      internalID: -8528127009079796314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2159
+        width: 220
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad18f43e3f9e31e0800000000000000
+      internalID: -2216158877094240854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2159
+        width: 227
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71f619c34b2e100800000000000000
+      internalID: 135869111005550546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1799
+        width: 251
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74b95ef854b98750800000000000000
+      internalID: 6307771047426503802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1799
+        width: 274
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ac54a9a8c3f070800000000000000
+      internalID: 8139069582521182481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1799
+        width: 286
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60ea61d37b23eb0800000000000000
+      internalID: -4741525984666319171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1799
+        width: 288
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289a007ba98b4b860800000000000000
+      internalID: 7544858250387171714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1799
+        width: 284
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe3bd421def0ec0800000000000000
+      internalID: -3598396914376904919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1799
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135996003c3d8270800000000000000
+      internalID: 8254319869006795542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1439
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37cf4d25fd4c2df0800000000000000
+      internalID: -203702167715985605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1439
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534713a2ee038a980800000000000000
+      internalID: -8527512094957800395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1439
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291cc77f61c390f0800000000000000
+      internalID: -1111331998534985438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1439
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439a844634b1ca10800000000000000
+      internalID: 1928020260662448973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1439
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab886196bde02810800000000000000
+      internalID: 1738650824544390057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1439
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7299072a0123fdea0800000000000000
+      internalID: -5845898744277460697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1079
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1d6751deb835910800000000000000
+      internalID: 1824956124398801388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1079
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd91958b3dc2d2ba0800000000000000
+      internalID: -6112179831429326372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1079
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a4d71ace0728280800000000000000
+      internalID: -9042540940182599126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1079
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967b307be60646e0800000000000000
+      internalID: -1853786588346354020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1079
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093443d669b35f460800000000000000
+      internalID: 7274786290350179216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1079
+        width: 270
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca353699e506897e0800000000000000
+      internalID: -1758549695071562836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 719
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5674d2ba7f13720800000000000000
+      internalID: 2824310755909133792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 719
+        width: 270
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02a9237883bf18f0800000000000000
+      internalID: -567537629396360694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 719
+        width: 270
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b901afafeab505f0800000000000000
+      internalID: -791020620927137355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 719
+        width: 271
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600d5f605b3c6ac0800000000000000
+      internalID: -3860645563911569306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 719
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0980f3cffb481d40800000000000000
+      internalID: 5555273702237571340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 719
+        width: 273
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917b2e79bf110010800000000000000
+      internalID: 1153237861129744784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 359
+        width: 276
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ade932c0605a0a0800000000000000
+      internalID: -6871079007276836219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 359
+        width: 277
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd0803b281f66e0800000000000000
+      internalID: -1842227148794831690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 359
+        width: 272
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d291d4e8457a020800000000000000
+      internalID: 2352942300479958385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 359
+        width: 260
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a67f735b3db15cf0800000000000000
+      internalID: -265222840536566105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 359
+        width: 245
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a61f923c141eb370800000000000000
+      internalID: 8340125671277663913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 359
+        width: 232
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44045591086435d60800000000000000
+      internalID: 7877717689195905092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647aae87cd503060800000000000000
+      internalID: 6931142938196604013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b1a07eebc82cb0800000000000000
+      internalID: -4888433170558371635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 222
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c98c1e17c64d50800000000000000
+      internalID: 6721278426038781066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71ae6e0459065c0800000000000000
+      internalID: -4224212344488978451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 0
+        width: 220
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213accfdbf18a8150800000000000000
+      internalID: 5875651582649738002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pato_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 220
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43178d86492fb8b70800000000000000
+      internalID: 8902475807656014132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pato_sheet_0: 5218671401514399525
+      pato_sheet_1: -2832786546460642854
+      pato_sheet_10: -3598396914376904919
+      pato_sheet_11: 8254319869006795542
+      pato_sheet_12: -203702167715985605
+      pato_sheet_13: -8527512094957800395
+      pato_sheet_14: -1111331998534985438
+      pato_sheet_15: 1928020260662448973
+      pato_sheet_16: 1738650824544390057
+      pato_sheet_17: -5845898744277460697
+      pato_sheet_18: 1824956124398801388
+      pato_sheet_19: -6112179831429326372
+      pato_sheet_2: 1933918690770307109
+      pato_sheet_20: -9042540940182599126
+      pato_sheet_21: -1853786588346354020
+      pato_sheet_22: 7274786290350179216
+      pato_sheet_23: -1758549695071562836
+      pato_sheet_24: 2824310755909133792
+      pato_sheet_25: -567537629396360694
+      pato_sheet_26: -791020620927137355
+      pato_sheet_27: -3860645563911569306
+      pato_sheet_28: 5555273702237571340
+      pato_sheet_29: 1153237861129744784
+      pato_sheet_3: -8528127009079796314
+      pato_sheet_30: -6871079007276836219
+      pato_sheet_31: -1842227148794831690
+      pato_sheet_32: 2352942300479958385
+      pato_sheet_33: -265222840536566105
+      pato_sheet_34: 8340125671277663913
+      pato_sheet_35: 7877717689195905092
+      pato_sheet_36: 6931142938196604013
+      pato_sheet_37: -4888433170558371635
+      pato_sheet_38: 6721278426038781066
+      pato_sheet_39: -4224212344488978451
+      pato_sheet_4: -2216158877094240854
+      pato_sheet_40: 5875651582649738002
+      pato_sheet_41: 8902475807656014132
+      pato_sheet_5: 135869111005550546
+      pato_sheet_6: 6307771047426503802
+      pato_sheet_7: 8139069582521182481
+      pato_sheet_8: -4741525984666319171
+      pato_sheet_9: 7544858250387171714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

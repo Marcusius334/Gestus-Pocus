@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 282629f9342fdb048bab5542936ac567
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6320620795349378446
+    second: avion_sheet_0
+  - first:
+      213: -4997847320059852941
+    second: avion_sheet_1
+  - first:
+      213: 825128491398867319
+    second: avion_sheet_2
+  - first:
+      213: 6994795813597501242
+    second: avion_sheet_3
+  - first:
+      213: 1445963455743474099
+    second: avion_sheet_4
+  - first:
+      213: 639406367179196633
+    second: avion_sheet_5
+  - first:
+      213: 873153584664299629
+    second: avion_sheet_6
+  - first:
+      213: 1216425033305261856
+    second: avion_sheet_7
+  - first:
+      213: 3265198813470410291
+    second: avion_sheet_8
+  - first:
+      213: -2975235791137327410
+    second: avion_sheet_9
+  - first:
+      213: 1591067521475949465
+    second: avion_sheet_10
+  - first:
+      213: -7860506628092963705
+    second: avion_sheet_11
+  - first:
+      213: 2136126415437612995
+    second: avion_sheet_12
+  - first:
+      213: 7908238185248078014
+    second: avion_sheet_13
+  - first:
+      213: -2756492943824193007
+    second: avion_sheet_14
+  - first:
+      213: 2103457121505486102
+    second: avion_sheet_15
+  - first:
+      213: -4707271082995025537
+    second: avion_sheet_16
+  - first:
+      213: -6571030592672755978
+    second: avion_sheet_17
+  - first:
+      213: -3736050428478763942
+    second: avion_sheet_18
+  - first:
+      213: -2031058802292427733
+    second: avion_sheet_19
+  - first:
+      213: 1264488018521757638
+    second: avion_sheet_20
+  - first:
+      213: -1727328498305353852
+    second: avion_sheet_21
+  - first:
+      213: -5036560793815450641
+    second: avion_sheet_22
+  - first:
+      213: -7136260906879298272
+    second: avion_sheet_23
+  - first:
+      213: 2594743074947403532
+    second: avion_sheet_24
+  - first:
+      213: -5184831297598862103
+    second: avion_sheet_25
+  - first:
+      213: -5141898523477789423
+    second: avion_sheet_26
+  - first:
+      213: -445129668493925150
+    second: avion_sheet_27
+  - first:
+      213: 8645810198466061932
+    second: avion_sheet_28
+  - first:
+      213: 8512691677705000865
+    second: avion_sheet_29
+  - first:
+      213: 6192904436985489760
+    second: avion_sheet_30
+  - first:
+      213: -3454054978800843367
+    second: avion_sheet_31
+  - first:
+      213: 6677555456231966326
+    second: avion_sheet_32
+  - first:
+      213: 6742137395852663620
+    second: avion_sheet_33
+  - first:
+      213: 5204175261015710478
+    second: avion_sheet_34
+  - first:
+      213: -293828021596776398
+    second: avion_sheet_35
+  - first:
+      213: 6269951169071636110
+    second: avion_sheet_36
+  - first:
+      213: -6455772696057770728
+    second: avion_sheet_37
+  - first:
+      213: -3880837760765546150
+    second: avion_sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avion_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2159
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ad04defd4a848a0800000000000000
+      internalID: -6320620795349378446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2159
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377c136975414aab0800000000000000
+      internalID: -4997847320059852941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2159
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77922efbdf1737b00800000000000000
+      internalID: 825128491398867319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2159
+        width: 231
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a375ed18bb1821160800000000000000
+      internalID: 6994795813597501242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2159
+        width: 245
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b939c91a18111410800000000000000
+      internalID: 1445963455743474099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2159
+        width: 266
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c6d604b0afd800800000000000000
+      internalID: 639406367179196633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1799
+        width: 291
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6846402f801e1c00800000000000000
+      internalID: 873153584664299629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1799
+        width: 302
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278d067f1c91e010800000000000000
+      internalID: 1216425033305261856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1799
+        width: 305
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364ee56501505d20800000000000000
+      internalID: 3265198813470410291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1799
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63b3abfc6d5b6d0800000000000000
+      internalID: -2975235791137327410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1799
+        width: 296
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933c3f1b7b941610800000000000000
+      internalID: 1591067521475949465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1799
+        width: 286
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845ae55eded9e290800000000000000
+      internalID: -7860506628092963705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1439
+        width: 272
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7cc7b38ab05ad10800000000000000
+      internalID: 2136126415437612995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1439
+        width: 252
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb834e6dab4bfbd60800000000000000
+      internalID: 7908238185248078014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1439
+        width: 232
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afc79a548feb9d0800000000000000
+      internalID: -2756492943824193007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1439
+        width: 218
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a99f7b1bf03d10800000000000000
+      internalID: 2103457121505486102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1439
+        width: 214
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79fc94e3e96caeb0800000000000000
+      internalID: -4707271082995025537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1439
+        width: 212
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe0483ad720fc4a0800000000000000
+      internalID: -6571030592672755978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1079
+        width: 211
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc3930ee1e62cc0800000000000000
+      internalID: -3736050428478763942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1079
+        width: 210
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fd63c7ca30d3e0800000000000000
+      internalID: -2031058802292427733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1079
+        width: 215
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71abe372d5c8110800000000000000
+      internalID: 1264488018521757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1079
+        width: 217
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487b910f1eb4708e0800000000000000
+      internalID: -1727328498305353852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1079
+        width: 218
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb78f294aa8a1ab0800000000000000
+      internalID: -5036560793815450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1079
+        width: 214
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d3f4c388e6fc90800000000000000
+      internalID: -7136260906879298272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 719
+        width: 211
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f05a14411620420800000000000000
+      internalID: 2594743074947403532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 719
+        width: 220
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecca4eb767cb08b0800000000000000
+      internalID: -5184831297598862103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 719
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115300d298e44a8b0800000000000000
+      internalID: -5141898523477789423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 719
+        width: 232
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ae66cce492d9f0800000000000000
+      internalID: -445129668493925150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 719
+        width: 237
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e40b61961cf770800000000000000
+      internalID: 8645810198466061932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 719
+        width: 239
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d70c8af7232670800000000000000
+      internalID: 8512691677705000865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 359
+        width: 237
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069e57626cd91f550800000000000000
+      internalID: 6192904436985489760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 359
+        width: 232
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99508e11c4bb010d0800000000000000
+      internalID: -3454054978800843367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 359
+        width: 226
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768da8ee417bac50800000000000000
+      internalID: 6677555456231966326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bdcaa7d32e09d50800000000000000
+      internalID: 6742137395852663620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b97b5b3d1f83840800000000000000
+      internalID: 5204175261015710478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 359
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381bab98fc1cebf0800000000000000
+      internalID: -293828021596776398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 223
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5f8f5e57530750800000000000000
+      internalID: 6269951169071636110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d8fc4efec7866a0800000000000000
+      internalID: -6455772696057770728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avion_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b5ae3e9e742ac0800000000000000
+      internalID: -3880837760765546150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      avion_sheet_0: -6320620795349378446
+      avion_sheet_1: -4997847320059852941
+      avion_sheet_10: 1591067521475949465
+      avion_sheet_11: -7860506628092963705
+      avion_sheet_12: 2136126415437612995
+      avion_sheet_13: 7908238185248078014
+      avion_sheet_14: -2756492943824193007
+      avion_sheet_15: 2103457121505486102
+      avion_sheet_16: -4707271082995025537
+      avion_sheet_17: -6571030592672755978
+      avion_sheet_18: -3736050428478763942
+      avion_sheet_19: -2031058802292427733
+      avion_sheet_2: 825128491398867319
+      avion_sheet_20: 1264488018521757638
+      avion_sheet_21: -1727328498305353852
+      avion_sheet_22: -5036560793815450641
+      avion_sheet_23: -7136260906879298272
+      avion_sheet_24: 2594743074947403532
+      avion_sheet_25: -5184831297598862103
+      avion_sheet_26: -5141898523477789423
+      avion_sheet_27: -445129668493925150
+      avion_sheet_28: 8645810198466061932
+      avion_sheet_29: 8512691677705000865
+      avion_sheet_3: 6994795813597501242
+      avion_sheet_30: 6192904436985489760
+      avion_sheet_31: -3454054978800843367
+      avion_sheet_32: 6677555456231966326
+      avion_sheet_33: 6742137395852663620
+      avion_sheet_34: 5204175261015710478
+      avion_sheet_35: -293828021596776398
+      avion_sheet_36: 6269951169071636110
+      avion_sheet_37: -6455772696057770728
+      avion_sheet_38: -3880837760765546150
+      avion_sheet_4: 1445963455743474099
+      avion_sheet_5: 639406367179196633
+      avion_sheet_6: 873153584664299629
+      avion_sheet_7: 1216425033305261856
+      avion_sheet_8: 3265198813470410291
+      avion_sheet_9: -2975235791137327410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 13a44836444e70a48835640af5f6707e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6476792036973539019
+    second: gallina_sheet_0
+  - first:
+      213: -108088568278495
+    second: gallina_sheet_1
+  - first:
+      213: 1245207134305516622
+    second: gallina_sheet_2
+  - first:
+      213: 7463504161126070064
+    second: gallina_sheet_3
+  - first:
+      213: 2105773526836897965
+    second: gallina_sheet_4
+  - first:
+      213: -6826577263408021462
+    second: gallina_sheet_5
+  - first:
+      213: 4625192175505742057
+    second: gallina_sheet_6
+  - first:
+      213: -2133428017433716973
+    second: gallina_sheet_7
+  - first:
+      213: 471117708250154133
+    second: gallina_sheet_8
+  - first:
+      213: 4334380508768419757
+    second: gallina_sheet_9
+  - first:
+      213: 8785047871041781439
+    second: gallina_sheet_10
+  - first:
+      213: 4335557637000331171
+    second: gallina_sheet_11
+  - first:
+      213: 6240080811994270800
+    second: gallina_sheet_12
+  - first:
+      213: 8710898513281607837
+    second: gallina_sheet_13
+  - first:
+      213: 8484799626817037417
+    second: gallina_sheet_14
+  - first:
+      213: 238695975127461116
+    second: gallina_sheet_15
+  - first:
+      213: 7135600736722445989
+    second: gallina_sheet_16
+  - first:
+      213: -920155519397753027
+    second: gallina_sheet_17
+  - first:
+      213: -7379986508974498363
+    second: gallina_sheet_18
+  - first:
+      213: 9006123238474416300
+    second: gallina_sheet_19
+  - first:
+      213: 2843597951717110403
+    second: gallina_sheet_20
+  - first:
+      213: 2716714621839739850
+    second: gallina_sheet_21
+  - first:
+      213: -1021518675464955119
+    second: gallina_sheet_22
+  - first:
+      213: -5393942300809844699
+    second: gallina_sheet_23
+  - first:
+      213: -6379215099576312139
+    second: gallina_sheet_24
+  - first:
+      213: -109618279481785647
+    second: gallina_sheet_25
+  - first:
+      213: 731574035933341776
+    second: gallina_sheet_26
+  - first:
+      213: -4062029953177571887
+    second: gallina_sheet_27
+  - first:
+      213: -2192475765410286777
+    second: gallina_sheet_28
+  - first:
+      213: 4936383526029291299
+    second: gallina_sheet_29
+  - first:
+      213: 6154440437749550906
+    second: gallina_sheet_30
+  - first:
+      213: -6113378859149974741
+    second: gallina_sheet_31
+  - first:
+      213: -4271632792978175944
+    second: gallina_sheet_32
+  - first:
+      213: -2176919980328716094
+    second: gallina_sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gallina_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee2e7ca0032e950800000000000000
+      internalID: 6476792036973539019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122984ba1bd9ffff0800000000000000
+      internalID: -108088568278495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cff009a4dd74110800000000000000
+      internalID: 1245207134305516622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b19fbd71b39760800000000000000
+      internalID: 7463504161126070064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2519
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e884add5393d10800000000000000
+      internalID: 2105773526836897965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2519
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208ecec5202341a0800000000000000
+      internalID: -6826577263408021462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2159
+        width: 236
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e89fee37cbff2040800000000000000
+      internalID: 4625192175505742057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2159
+        width: 256
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3175ff2858a8462e0800000000000000
+      internalID: -2133428017433716973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2159
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59485af3f0fb98600800000000000000
+      internalID: 471117708250154133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2159
+        width: 277
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafb482bb10d62c30800000000000000
+      internalID: 4334380508768419757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2159
+        width: 276
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3f385e72cae970800000000000000
+      internalID: 8785047871041781439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 2159
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aff2a833befa2c30800000000000000
+      internalID: 4335557637000331171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1799
+        width: 268
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c46a8ef68399650800000000000000
+      internalID: 6240080811994270800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1799
+        width: 265
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e0a6ab0453e870800000000000000
+      internalID: 8710898513281607837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 719
+        width: 273
+        height: 1424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ebc26e4010c570800000000000000
+      internalID: 8484799626817037417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1079
+        width: 268
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca9c689b4005300800000000000000
+      internalID: 238695975127461116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1079
+        width: 266
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a66b53601fb60360800000000000000
+      internalID: 7135600736722445989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1079
+        width: 270
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f8e282e63fa33f0800000000000000
+      internalID: -920155519397753027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 719
+        width: 274
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5665fe55059990800000000000000
+      internalID: -7379986508974498363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 719
+        width: 274
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca088a07e5d2cfc70800000000000000
+      internalID: 9006123238474416300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 719
+        width: 270
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827024654d767720800000000000000
+      internalID: 2843597951717110403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 719
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb0ed60e85b3b520800000000000000
+      internalID: 2716714621839739850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 719
+        width: 278
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bdb794d26d2d1f0800000000000000
+      internalID: -1021518675464955119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 359
+        width: 280
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a6454e0ed425b0800000000000000
+      internalID: -5393942300809844699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 359
+        width: 271
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be12fb5aa97877a0800000000000000
+      internalID: -6379215099576312139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 359
+        width: 257
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2499e61ce8a7ef0800000000000000
+      internalID: -109618279481785647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 359
+        width: 244
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058a4baa5b2172a00800000000000000
+      internalID: 731574035933341776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 359
+        width: 231
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddaad57745c0a7c0800000000000000
+      internalID: -4062029953177571887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 359
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743311858e2c291e0800000000000000
+      internalID: -2192475765410286777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe010b9ae818440800000000000000
+      internalID: 4936383526029291299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 222
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8c5378f6f86550800000000000000
+      internalID: 6154440437749550906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 222
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23abf2515ae82ba0800000000000000
+      internalID: -6113378859149974741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83840ab5b9c18b4c0800000000000000
+      internalID: -4271632792978175944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gallina_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 220
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c87e0ccfc60ac1e0800000000000000
+      internalID: -2176919980328716094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gallina_sheet_0: 6476792036973539019
+      gallina_sheet_1: -108088568278495
+      gallina_sheet_10: 8785047871041781439
+      gallina_sheet_11: 4335557637000331171
+      gallina_sheet_12: 6240080811994270800
+      gallina_sheet_13: 8710898513281607837
+      gallina_sheet_14: 8484799626817037417
+      gallina_sheet_15: 238695975127461116
+      gallina_sheet_16: 7135600736722445989
+      gallina_sheet_17: -920155519397753027
+      gallina_sheet_18: -7379986508974498363
+      gallina_sheet_19: 9006123238474416300
+      gallina_sheet_2: 1245207134305516622
+      gallina_sheet_20: 2843597951717110403
+      gallina_sheet_21: 2716714621839739850
+      gallina_sheet_22: -1021518675464955119
+      gallina_sheet_23: -5393942300809844699
+      gallina_sheet_24: -6379215099576312139
+      gallina_sheet_25: -109618279481785647
+      gallina_sheet_26: 731574035933341776
+      gallina_sheet_27: -4062029953177571887
+      gallina_sheet_28: -2192475765410286777
+      gallina_sheet_29: 4936383526029291299
+      gallina_sheet_3: 7463504161126070064
+      gallina_sheet_30: 6154440437749550906
+      gallina_sheet_31: -6113378859149974741
+      gallina_sheet_32: -4271632792978175944
+      gallina_sheet_33: -2176919980328716094
+      gallina_sheet_4: 2105773526836897965
+      gallina_sheet_5: -6826577263408021462
+      gallina_sheet_6: 4625192175505742057
+      gallina_sheet_7: -2133428017433716973
+      gallina_sheet_8: 471117708250154133
+      gallina_sheet_9: 4334380508768419757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

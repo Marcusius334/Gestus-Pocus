@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 684da13a78516c748b7f0ee7132eb005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3492750863109997066
+    second: gato_sheet_0
+  - first:
+      213: 1836290483936081943
+    second: gato_sheet_1
+  - first:
+      213: -7043529253330486131
+    second: gato_sheet_2
+  - first:
+      213: -2854246563075339857
+    second: gato_sheet_3
+  - first:
+      213: -3363715364534247018
+    second: gato_sheet_4
+  - first:
+      213: -7181252551703019514
+    second: gato_sheet_5
+  - first:
+      213: 4358396216946198813
+    second: gato_sheet_6
+  - first:
+      213: 8569024857878648238
+    second: gato_sheet_7
+  - first:
+      213: -4978158837512989911
+    second: gato_sheet_8
+  - first:
+      213: -3612538019554637226
+    second: gato_sheet_9
+  - first:
+      213: 7516062696007705707
+    second: gato_sheet_10
+  - first:
+      213: 726026770487211797
+    second: gato_sheet_11
+  - first:
+      213: 6102272690204464319
+    second: gato_sheet_12
+  - first:
+      213: 2059601554577685072
+    second: gato_sheet_13
+  - first:
+      213: 8664396685167542201
+    second: gato_sheet_14
+  - first:
+      213: 5984822896690019037
+    second: gato_sheet_15
+  - first:
+      213: -327650664543115636
+    second: gato_sheet_16
+  - first:
+      213: -2847673356065544030
+    second: gato_sheet_17
+  - first:
+      213: 1736864084020950933
+    second: gato_sheet_18
+  - first:
+      213: -8482623793958365008
+    second: gato_sheet_19
+  - first:
+      213: -8290180013129570371
+    second: gato_sheet_20
+  - first:
+      213: 9187881167349043475
+    second: gato_sheet_21
+  - first:
+      213: 2311103880946085741
+    second: gato_sheet_22
+  - first:
+      213: 3299304243015169813
+    second: gato_sheet_23
+  - first:
+      213: 1553220732290511635
+    second: gato_sheet_24
+  - first:
+      213: 7398128329324637461
+    second: gato_sheet_25
+  - first:
+      213: 1124957053611250713
+    second: gato_sheet_26
+  - first:
+      213: -4118214906977796627
+    second: gato_sheet_27
+  - first:
+      213: 6254841012140186930
+    second: gato_sheet_28
+  - first:
+      213: 6845582498579747737
+    second: gato_sheet_29
+  - first:
+      213: 5660513279166858257
+    second: gato_sheet_30
+  - first:
+      213: 6649364574237097634
+    second: gato_sheet_31
+  - first:
+      213: -2523131278053905346
+    second: gato_sheet_32
+  - first:
+      213: 511354324277669393
+    second: gato_sheet_33
+  - first:
+      213: 7850303458814988906
+    second: gato_sheet_34
+  - first:
+      213: -5815383539577420960
+    second: gato_sheet_35
+  - first:
+      213: 2638049261681827820
+    second: gato_sheet_36
+  - first:
+      213: 6554946883919053852
+    second: gato_sheet_37
+  - first:
+      213: -129929603619163102
+    second: gato_sheet_38
+  - first:
+      213: -4185422559412289448
+    second: gato_sheet_39
+  - first:
+      213: -5943911361476164315
+    second: gato_sheet_40
+  - first:
+      213: -5334023005285483616
+    second: gato_sheet_41
+  - first:
+      213: -2499965462227967100
+    second: gato_sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gato_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2519
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdb36b6891478fc0800000000000000
+      internalID: -3492750863109997066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2519
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b07f4770db7910800000000000000
+      internalID: 1836290483936081943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2519
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf92a567b504e90800000000000000
+      internalID: -7043529253330486131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2519
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c3829fdda368d0800000000000000
+      internalID: -2854246563075339857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 2519
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a96b92bea151d0800000000000000
+      internalID: -3363715364534247018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2519
+        width: 240
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cf552ad0175c90800000000000000
+      internalID: -7181252551703019514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2159
+        width: 265
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190c7d74422c7c30800000000000000
+      internalID: 4358396216946198813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2159
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5595525ba4be670800000000000000
+      internalID: 8569024857878648238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2159
+        width: 284
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231196a9e60aeab0800000000000000
+      internalID: -4978158837512989911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2159
+        width: 281
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4adeafcfadddc0800000000000000
+      internalID: -3612538019554637226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2159
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64aa11433b6e4860800000000000000
+      internalID: 7516062696007705707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2159
+        width: 267
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177058408d531a00800000000000000
+      internalID: 726026770487211797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1799
+        width: 263
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb454363ea0afa450800000000000000
+      internalID: 6102272690204464319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1799
+        width: 260
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af17f93bc259c10800000000000000
+      internalID: 2059601554577685072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1799
+        width: 258
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfbb7411ee1e3870800000000000000
+      internalID: 8664396685167542201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1799
+        width: 256
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda35d037bc5e0350800000000000000
+      internalID: 5984822896690019037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1799
+        width: 256
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86ac71e473f37bf0800000000000000
+      internalID: -327650664543115636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1799
+        width: 255
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86e579b280b78d0800000000000000
+      internalID: -2847673356065544030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1439
+        width: 256
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f33f9ea49a1810800000000000000
+      internalID: 1736864084020950933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1439
+        width: 256
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d5dd2a9aa74a80800000000000000
+      internalID: -8482623793958365008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1439
+        width: 255
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db76e59833d53fc80800000000000000
+      internalID: -8290180013129570371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1439
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31157520e39e18f70800000000000000
+      internalID: 9187881167349043475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1439
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f61d62cb0b21020800000000000000
+      internalID: 2311103880946085741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1439
+        width: 255
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517bbd28abb79cd20800000000000000
+      internalID: 3299304243015169813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1079
+        width: 256
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b2f5d6062e8510800000000000000
+      internalID: 1553220732290511635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1079
+        width: 255
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2620c48e6ba660800000000000000
+      internalID: 7398128329324637461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1079
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149110ea76ac9f00800000000000000
+      internalID: 1124957053611250713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1079
+        width: 252
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedbed08c5929d6c0800000000000000
+      internalID: -4118214906977796627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1079
+        width: 250
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d192fc2c8adc650800000000000000
+      internalID: 6254841012140186930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1079
+        width: 251
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9931a745305600f50800000000000000
+      internalID: 6845582498579747737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 719
+        width: 253
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1144f1336de2e8e40800000000000000
+      internalID: 5660513279166858257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 719
+        width: 262
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef775b9d9474c50800000000000000
+      internalID: 6649364574237097634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 719
+        width: 274
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c6be188790cfcd0800000000000000
+      internalID: -2523131278053905346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 719
+        width: 277
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e2ee47c02b81700800000000000000
+      internalID: 511354324277669393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 719
+        width: 267
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6210b13761e1fc60800000000000000
+      internalID: 7850303458814988906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 719
+        width: 250
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06385d26b7b9b4fa0800000000000000
+      internalID: -5815383539577420960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 359
+        width: 239
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd68693db3c9420800000000000000
+      internalID: 2638049261681827820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 359
+        width: 231
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c148c891679d7fa50800000000000000
+      internalID: 6554946883919053852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 359
+        width: 228
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f872c6b5623ef0800000000000000
+      internalID: -129929603619163102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 359
+        width: 228
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85003578b546ae5c0800000000000000
+      internalID: -4185422559412289448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 359
+        width: 225
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250ec2eb1cf28da0800000000000000
+      internalID: -5943911361476164315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 359
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab723a665eb9f5b0800000000000000
+      internalID: -5334023005285483616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483282158a65e4dd0800000000000000
+      internalID: -2499965462227967100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gato_sheet_0: -3492750863109997066
+      gato_sheet_1: 1836290483936081943
+      gato_sheet_10: 7516062696007705707
+      gato_sheet_11: 726026770487211797
+      gato_sheet_12: 6102272690204464319
+      gato_sheet_13: 2059601554577685072
+      gato_sheet_14: 8664396685167542201
+      gato_sheet_15: 5984822896690019037
+      gato_sheet_16: -327650664543115636
+      gato_sheet_17: -2847673356065544030
+      gato_sheet_18: 1736864084020950933
+      gato_sheet_19: -8482623793958365008
+      gato_sheet_2: -7043529253330486131
+      gato_sheet_20: -8290180013129570371
+      gato_sheet_21: 9187881167349043475
+      gato_sheet_22: 2311103880946085741
+      gato_sheet_23: 3299304243015169813
+      gato_sheet_24: 1553220732290511635
+      gato_sheet_25: 7398128329324637461
+      gato_sheet_26: 1124957053611250713
+      gato_sheet_27: -4118214906977796627
+      gato_sheet_28: 6254841012140186930
+      gato_sheet_29: 6845582498579747737
+      gato_sheet_3: -2854246563075339857
+      gato_sheet_30: 5660513279166858257
+      gato_sheet_31: 6649364574237097634
+      gato_sheet_32: -2523131278053905346
+      gato_sheet_33: 511354324277669393
+      gato_sheet_34: 7850303458814988906
+      gato_sheet_35: -5815383539577420960
+      gato_sheet_36: 2638049261681827820
+      gato_sheet_37: 6554946883919053852
+      gato_sheet_38: -129929603619163102
+      gato_sheet_39: -4185422559412289448
+      gato_sheet_4: -3363715364534247018
+      gato_sheet_40: -5943911361476164315
+      gato_sheet_41: -5334023005285483616
+      gato_sheet_42: -2499965462227967100
+      gato_sheet_5: -7181252551703019514
+      gato_sheet_6: 4358396216946198813
+      gato_sheet_7: 8569024857878648238
+      gato_sheet_8: -4978158837512989911
+      gato_sheet_9: -3612538019554637226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

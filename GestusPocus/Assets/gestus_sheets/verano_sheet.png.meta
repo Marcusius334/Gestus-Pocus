@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 7c70e6fa3f655e645b3448c1d28a4232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5581780498059086059
+    second: verano_sheet_0
+  - first:
+      213: 4807232020878723734
+    second: verano_sheet_1
+  - first:
+      213: -5630981722590136199
+    second: verano_sheet_2
+  - first:
+      213: 168829328401755475
+    second: verano_sheet_3
+  - first:
+      213: -5313413607578849529
+    second: verano_sheet_4
+  - first:
+      213: 1872345716529648630
+    second: verano_sheet_5
+  - first:
+      213: 735804886026324327
+    second: verano_sheet_6
+  - first:
+      213: -2997637459314795944
+    second: verano_sheet_7
+  - first:
+      213: -2606312364647938330
+    second: verano_sheet_8
+  - first:
+      213: 1157453832130643730
+    second: verano_sheet_9
+  - first:
+      213: -3081617914106104459
+    second: verano_sheet_10
+  - first:
+      213: 437267043353560735
+    second: verano_sheet_11
+  - first:
+      213: -632976838412503433
+    second: verano_sheet_12
+  - first:
+      213: -7903434176346635987
+    second: verano_sheet_13
+  - first:
+      213: -2672062312726630441
+    second: verano_sheet_14
+  - first:
+      213: -5304485965337894266
+    second: verano_sheet_15
+  - first:
+      213: -5657675270028806306
+    second: verano_sheet_16
+  - first:
+      213: 3118444809082642857
+    second: verano_sheet_17
+  - first:
+      213: -5932610995465276748
+    second: verano_sheet_18
+  - first:
+      213: -5459561499039388612
+    second: verano_sheet_19
+  - first:
+      213: -7388644333916249491
+    second: verano_sheet_20
+  - first:
+      213: 8349568368590865383
+    second: verano_sheet_21
+  - first:
+      213: -5950612647069631005
+    second: verano_sheet_22
+  - first:
+      213: -5106633046936853355
+    second: verano_sheet_23
+  - first:
+      213: 4397379403720721402
+    second: verano_sheet_24
+  - first:
+      213: -8856846103034507272
+    second: verano_sheet_25
+  - first:
+      213: 4734425584036005180
+    second: verano_sheet_26
+  - first:
+      213: -482999846839249660
+    second: verano_sheet_27
+  - first:
+      213: 1138876707422096271
+    second: verano_sheet_28
+  - first:
+      213: 2008754306089675995
+    second: verano_sheet_29
+  - first:
+      213: 6761712220416831539
+    second: verano_sheet_30
+  - first:
+      213: 5222392370451818390
+    second: verano_sheet_31
+  - first:
+      213: 7078832258699939079
+    second: verano_sheet_32
+  - first:
+      213: 4444346954107470971
+    second: verano_sheet_33
+  - first:
+      213: 1100292409292783041
+    second: verano_sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verano_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1799
+        width: 238
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5173cf6e5388982b0800000000000000
+      internalID: -5581780498059086059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1799
+        width: 244
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0c5d9d08b6b240800000000000000
+      internalID: 4807232020878723734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1799
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783c4025fbbad1b0800000000000000
+      internalID: -5630981722590136199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1799
+        width: 263
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ded03316dc75200800000000000000
+      internalID: 168829328401755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1799
+        width: 268
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f298fb976f246b0800000000000000
+      internalID: -5313413607578849529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1799
+        width: 269
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f359725288ebf910800000000000000
+      internalID: 1872345716529648630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1439
+        width: 268
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769889735aa163a00800000000000000
+      internalID: 735804886026324327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1439
+        width: 266
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a1328ec904666d0800000000000000
+      internalID: -2997637459314795944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1439
+        width: 267
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6837396b484dbd0800000000000000
+      internalID: -2606312364647938330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1439
+        width: 272
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217cf0cb02a101010800000000000000
+      internalID: 1157453832130643730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1439
+        width: 278
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b93095d4eb35d0800000000000000
+      internalID: -3081617914106104459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1439
+        width: 284
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9603172f0c711600800000000000000
+      internalID: 437267043353560735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1079
+        width: 291
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767f5b4be63737f0800000000000000
+      internalID: -632976838412503433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1079
+        width: 296
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214d25ad7c515290800000000000000
+      internalID: -7903434176346635987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1079
+        width: 301
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df6838db7deaead0800000000000000
+      internalID: -2672062312726630441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1079
+        width: 303
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826dff6e1ea266b0800000000000000
+      internalID: -5304485965337894266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1079
+        width: 304
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57bb6b4156eb71b0800000000000000
+      internalID: -5657675270028806306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1079
+        width: 304
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a128091801f64b20800000000000000
+      internalID: 3118444809082642857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 719
+        width: 303
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b237b06bb12bada0800000000000000
+      internalID: -5932610995465276748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 719
+        width: 302
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cab5c1ebdbb34b0800000000000000
+      internalID: -5459561499039388612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 719
+        width: 303
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6228310023467990800000000000000
+      internalID: -7388644333916249491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 719
+        width: 305
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e342bd7130afd370800000000000000
+      internalID: 8349568368590865383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 719
+        width: 304
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb77f335d2b6da0800000000000000
+      internalID: -5950612647069631005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 719
+        width: 300
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594ee07cc489129b0800000000000000
+      internalID: -5106633046936853355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 359
+        width: 293
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38465f441a60d30800000000000000
+      internalID: 4397379403720721402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 359
+        width: 280
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff43561569261580800000000000000
+      internalID: -8856846103034507272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 359
+        width: 269
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35ccff0cfe04b140800000000000000
+      internalID: 4734425584036005180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 359
+        width: 257
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051496c23a0c49f0800000000000000
+      internalID: -482999846839249660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 359
+        width: 248
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b4cd4d45a1ecf00800000000000000
+      internalID: 1138876707422096271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 359
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdce287066780eb10800000000000000
+      internalID: 2008754306089675995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 234
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330fc5b707d66dd50800000000000000
+      internalID: 6761712220416831539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 232
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ad76013aa97840800000000000000
+      internalID: 5222392370451818390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 233
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc26c1f601d3260800000000000000
+      internalID: 7078832258699939079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 236
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744a22f10e7dad30800000000000000
+      internalID: 4444346954107470971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 0
+        width: 238
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd74fcdd16054f00800000000000000
+      internalID: 1100292409292783041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verano_sheet_0: -5581780498059086059
+      verano_sheet_1: 4807232020878723734
+      verano_sheet_10: -3081617914106104459
+      verano_sheet_11: 437267043353560735
+      verano_sheet_12: -632976838412503433
+      verano_sheet_13: -7903434176346635987
+      verano_sheet_14: -2672062312726630441
+      verano_sheet_15: -5304485965337894266
+      verano_sheet_16: -5657675270028806306
+      verano_sheet_17: 3118444809082642857
+      verano_sheet_18: -5932610995465276748
+      verano_sheet_19: -5459561499039388612
+      verano_sheet_2: -5630981722590136199
+      verano_sheet_20: -7388644333916249491
+      verano_sheet_21: 8349568368590865383
+      verano_sheet_22: -5950612647069631005
+      verano_sheet_23: -5106633046936853355
+      verano_sheet_24: 4397379403720721402
+      verano_sheet_25: -8856846103034507272
+      verano_sheet_26: 4734425584036005180
+      verano_sheet_27: -482999846839249660
+      verano_sheet_28: 1138876707422096271
+      verano_sheet_29: 2008754306089675995
+      verano_sheet_3: 168829328401755475
+      verano_sheet_30: 6761712220416831539
+      verano_sheet_31: 5222392370451818390
+      verano_sheet_32: 7078832258699939079
+      verano_sheet_33: 4444346954107470971
+      verano_sheet_34: 1100292409292783041
+      verano_sheet_4: -5313413607578849529
+      verano_sheet_5: 1872345716529648630
+      verano_sheet_6: 735804886026324327
+      verano_sheet_7: -2997637459314795944
+      verano_sheet_8: -2606312364647938330
+      verano_sheet_9: 1157453832130643730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

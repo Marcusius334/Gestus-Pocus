@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 980c2fc82d5c84b439b0cf51859eb43e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1998900574408860581
+    second: moto_sheet_0
+  - first:
+      213: 8311845330291107100
+    second: moto_sheet_1
+  - first:
+      213: 4532487937516283364
+    second: moto_sheet_2
+  - first:
+      213: 5860437081824356495
+    second: moto_sheet_3
+  - first:
+      213: -1812767139367282213
+    second: moto_sheet_4
+  - first:
+      213: 8846375539828014878
+    second: moto_sheet_5
+  - first:
+      213: -5137892328452282225
+    second: moto_sheet_6
+  - first:
+      213: -3866299698763003590
+    second: moto_sheet_7
+  - first:
+      213: -8238608782306478307
+    second: moto_sheet_8
+  - first:
+      213: -1207333887344869046
+    second: moto_sheet_9
+  - first:
+      213: -1216004399689345393
+    second: moto_sheet_10
+  - first:
+      213: 4302865716309040073
+    second: moto_sheet_11
+  - first:
+      213: -2014752614076677901
+    second: moto_sheet_12
+  - first:
+      213: 7212238299180704300
+    second: moto_sheet_13
+  - first:
+      213: 3439308254514917655
+    second: moto_sheet_14
+  - first:
+      213: -4483232766416172507
+    second: moto_sheet_15
+  - first:
+      213: -4707322843659713985
+    second: moto_sheet_16
+  - first:
+      213: -2753530081504758384
+    second: moto_sheet_17
+  - first:
+      213: 4148755261512349755
+    second: moto_sheet_18
+  - first:
+      213: 1643204363041411970
+    second: moto_sheet_19
+  - first:
+      213: -2383130695827519833
+    second: moto_sheet_20
+  - first:
+      213: 2529211490313664050
+    second: moto_sheet_21
+  - first:
+      213: 726213151894159618
+    second: moto_sheet_22
+  - first:
+      213: -1599155083904016091
+    second: moto_sheet_23
+  - first:
+      213: -2166585192713777122
+    second: moto_sheet_24
+  - first:
+      213: -5160209359010166853
+    second: moto_sheet_25
+  - first:
+      213: -3246221210295278635
+    second: moto_sheet_26
+  - first:
+      213: -7807916347116857377
+    second: moto_sheet_27
+  - first:
+      213: -2219803642412812751
+    second: moto_sheet_28
+  - first:
+      213: -4025458091307609269
+    second: moto_sheet_29
+  - first:
+      213: -9211940207496698015
+    second: moto_sheet_30
+  - first:
+      213: -8948753858479786890
+    second: moto_sheet_31
+  - first:
+      213: 2435636182835550362
+    second: moto_sheet_32
+  - first:
+      213: -3314678090788696456
+    second: moto_sheet_33
+  - first:
+      213: -9164951026945997603
+    second: moto_sheet_34
+  - first:
+      213: -4441563039770778544
+    second: moto_sheet_35
+  - first:
+      213: 5761060785029382445
+    second: moto_sheet_36
+  - first:
+      213: 7609007584381289357
+    second: moto_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moto_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2159
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e6f65b758dbb10800000000000000
+      internalID: 1998900574408860581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2159
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15adf33a4b995370800000000000000
+      internalID: 8311845330291107100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2159
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5a668d3c1a6ee30800000000000000
+      internalID: 4532487937516283364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2159
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88eaaad974745150800000000000000
+      internalID: 5860437081824356495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2159
+        width: 233
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9138524e1c7d6e0800000000000000
+      internalID: -1812767139367282213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2159
+        width: 255
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f3721fea3a4ca70800000000000000
+      internalID: 8846375539828014878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1799
+        width: 282
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88a564262a82b8b0800000000000000
+      internalID: -5137892328452282225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1799
+        width: 310
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39080498e4285ac0800000000000000
+      internalID: -3866299698763003590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1799
+        width: 331
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17753766f49aad80800000000000000
+      internalID: -8238608782306478307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1799
+        width: 342
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418487e930be3fe0800000000000000
+      internalID: -1207333887344869046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1799
+        width: 346
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86543fe072ef1fe0800000000000000
+      internalID: -1216004399689345393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1799
+        width: 346
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9ec84299d6bb30800000000000000
+      internalID: 4302865716309040073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1439
+        width: 343
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08baf0c292a04e0800000000000000
+      internalID: -2014752614076677901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1439
+        width: 342
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2222226584071460800000000000000
+      internalID: 7212238299180704300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1439
+        width: 342
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7113e6f92a0eabf20800000000000000
+      internalID: 3439308254514917655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1439
+        width: 341
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a4f585d8b58c1c0800000000000000
+      internalID: -4483232766416172507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1439
+        width: 341
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c49c60da3caeb0800000000000000
+      internalID: -4707322843659713985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1439
+        width: 340
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0957e8dcafe79c9d0800000000000000
+      internalID: -2753530081504758384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1079
+        width: 340
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f976ede6539930800000000000000
+      internalID: 4148755261512349755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1079
+        width: 339
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283947089a5ddc610800000000000000
+      internalID: 1643204363041411970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1079
+        width: 338
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60fdd224b6deed0800000000000000
+      internalID: -2383130695827519833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1079
+        width: 338
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2367bf93370991320800000000000000
+      internalID: 2529211490313664050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1079
+        width: 335
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014ed59307041a00800000000000000
+      internalID: 726213151894159618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 1079
+        width: 326
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52124238ce8aec9e0800000000000000
+      internalID: -1599155083904016091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 719
+        width: 314
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e109cac0f3ebee1e0800000000000000
+      internalID: -2166585192713777122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 719
+        width: 294
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78d8d8de04368b0800000000000000
+      internalID: -5160209359010166853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 719
+        width: 272
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e20a220b13f2d0800000000000000
+      internalID: -3246221210295278635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 719
+        width: 252
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7522e4375b4a390800000000000000
+      internalID: -7807916347116857377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 719
+        width: 237
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136bdd6295ca131e0800000000000000
+      internalID: -2219803642412812751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 719
+        width: 229
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4353699133b228c0800000000000000
+      internalID: -4025458091307609269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 228
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1676500303d982080800000000000000
+      internalID: -9211940207496698015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 359
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f7ea37c3afc380800000000000000
+      internalID: -8948753858479786890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 359
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985008243e1dc120800000000000000
+      internalID: 2435636182835550362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 359
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e05cd96d5eff1d0800000000000000
+      internalID: -3314678090788696456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 359
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44807599d8fc080800000000000000
+      internalID: -9164951026945997603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 359
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05465fe92f56c52c0800000000000000
+      internalID: -4441563039770778544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d210c15b24663ff40800000000000000
+      internalID: 5761060785029382445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moto_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83cc407510a89960800000000000000
+      internalID: 7609007584381289357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moto_sheet_0: 1998900574408860581
+      moto_sheet_1: 8311845330291107100
+      moto_sheet_10: -1216004399689345393
+      moto_sheet_11: 4302865716309040073
+      moto_sheet_12: -2014752614076677901
+      moto_sheet_13: 7212238299180704300
+      moto_sheet_14: 3439308254514917655
+      moto_sheet_15: -4483232766416172507
+      moto_sheet_16: -4707322843659713985
+      moto_sheet_17: -2753530081504758384
+      moto_sheet_18: 4148755261512349755
+      moto_sheet_19: 1643204363041411970
+      moto_sheet_2: 4532487937516283364
+      moto_sheet_20: -2383130695827519833
+      moto_sheet_21: 2529211490313664050
+      moto_sheet_22: 726213151894159618
+      moto_sheet_23: -1599155083904016091
+      moto_sheet_24: -2166585192713777122
+      moto_sheet_25: -5160209359010166853
+      moto_sheet_26: -3246221210295278635
+      moto_sheet_27: -7807916347116857377
+      moto_sheet_28: -2219803642412812751
+      moto_sheet_29: -4025458091307609269
+      moto_sheet_3: 5860437081824356495
+      moto_sheet_30: -9211940207496698015
+      moto_sheet_31: -8948753858479786890
+      moto_sheet_32: 2435636182835550362
+      moto_sheet_33: -3314678090788696456
+      moto_sheet_34: -9164951026945997603
+      moto_sheet_35: -4441563039770778544
+      moto_sheet_36: 5761060785029382445
+      moto_sheet_37: 7609007584381289357
+      moto_sheet_4: -1812767139367282213
+      moto_sheet_5: 8846375539828014878
+      moto_sheet_6: -5137892328452282225
+      moto_sheet_7: -3866299698763003590
+      moto_sheet_8: -8238608782306478307
+      moto_sheet_9: -1207333887344869046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 932f247a7ea673c49998153d10c49674
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8213082070595662795
+    second: cerdo_sheet_0
+  - first:
+      213: -2989167201073146746
+    second: cerdo_sheet_1
+  - first:
+      213: 418530726520157323
+    second: cerdo_sheet_2
+  - first:
+      213: 2776719240097187448
+    second: cerdo_sheet_3
+  - first:
+      213: 5374312841915073924
+    second: cerdo_sheet_4
+  - first:
+      213: -9222039993982968270
+    second: cerdo_sheet_5
+  - first:
+      213: -9061489537052894122
+    second: cerdo_sheet_6
+  - first:
+      213: 6942722127489532723
+    second: cerdo_sheet_7
+  - first:
+      213: 1095996806710702506
+    second: cerdo_sheet_8
+  - first:
+      213: 3447815951537139671
+    second: cerdo_sheet_9
+  - first:
+      213: -8459631041645925522
+    second: cerdo_sheet_10
+  - first:
+      213: 8920396306282040690
+    second: cerdo_sheet_11
+  - first:
+      213: -5419152691824720550
+    second: cerdo_sheet_12
+  - first:
+      213: 747586187746184062
+    second: cerdo_sheet_13
+  - first:
+      213: -2294667441740778138
+    second: cerdo_sheet_14
+  - first:
+      213: -1098430913294653260
+    second: cerdo_sheet_15
+  - first:
+      213: 763148668736331136
+    second: cerdo_sheet_16
+  - first:
+      213: 8540348501772296428
+    second: cerdo_sheet_17
+  - first:
+      213: -6642914778296378891
+    second: cerdo_sheet_18
+  - first:
+      213: -91385800266064700
+    second: cerdo_sheet_19
+  - first:
+      213: -6991734298262826445
+    second: cerdo_sheet_20
+  - first:
+      213: -5472218914091910710
+    second: cerdo_sheet_21
+  - first:
+      213: -4619182116965953317
+    second: cerdo_sheet_22
+  - first:
+      213: -8654818194206460162
+    second: cerdo_sheet_23
+  - first:
+      213: -6275712585574606467
+    second: cerdo_sheet_24
+  - first:
+      213: 4594278267180275368
+    second: cerdo_sheet_25
+  - first:
+      213: -7219770628503906203
+    second: cerdo_sheet_26
+  - first:
+      213: -6978048349336854861
+    second: cerdo_sheet_27
+  - first:
+      213: 432792680645555047
+    second: cerdo_sheet_28
+  - first:
+      213: 8440585094604371701
+    second: cerdo_sheet_29
+  - first:
+      213: 3466146544881774385
+    second: cerdo_sheet_30
+  - first:
+      213: 6074678070272469744
+    second: cerdo_sheet_31
+  - first:
+      213: -7600525926795891185
+    second: cerdo_sheet_32
+  - first:
+      213: -1478185653596093362
+    second: cerdo_sheet_33
+  - first:
+      213: 4462782228166582193
+    second: cerdo_sheet_34
+  - first:
+      213: -3793389659114888776
+    second: cerdo_sheet_35
+  - first:
+      213: -1701296076526284080
+    second: cerdo_sheet_36
+  - first:
+      213: 8709351727366172204
+    second: cerdo_sheet_37
+  - first:
+      213: -9017155785163632746
+    second: cerdo_sheet_38
+  - first:
+      213: -8185810316389989724
+    second: cerdo_sheet_39
+  - first:
+      213: 7101085445208123397
+    second: cerdo_sheet_40
+  - first:
+      213: 3483709296493227955
+    second: cerdo_sheet_41
+  - first:
+      213: -3804174472945746639
+    second: cerdo_sheet_42
+  - first:
+      213: -456300104976110980
+    second: cerdo_sheet_43
+  - first:
+      213: 2086431300701349042
+    second: cerdo_sheet_44
+  - first:
+      213: 1024640559347467386
+    second: cerdo_sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cerdo_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2519
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3fbf0e0aabaf170800000000000000
+      internalID: 8213082070595662795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2519
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68459c594485486d0800000000000000
+      internalID: -2989167201073146746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2519
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f1d17a7beec500800000000000000
+      internalID: 418530726520157323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2519
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8764cfaef63e88620800000000000000
+      internalID: 2776719240097187448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2519
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4850b2e2e05659a40800000000000000
+      internalID: 5374312841915073924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2519
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e13366c7bb40080800000000000000
+      internalID: -9222039993982968270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2159
+        width: 236
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c1b00a64f1f3280800000000000000
+      internalID: -9061489537052894122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2159
+        width: 263
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330247adf0895060800000000000000
+      internalID: 6942722127489532723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2159
+        width: 286
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa134f2f943c53f00800000000000000
+      internalID: 1095996806710702506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2159
+        width: 297
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfeb42375a19df20800000000000000
+      internalID: 3447815951537139671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2159
+        width: 299
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba3df736a599a80800000000000000
+      internalID: -8459631041645925522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 2159
+        width: 294
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc5a3ad2d9bcb70800000000000000
+      internalID: 8920396306282040690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1799
+        width: 288
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558f24b65d4bc4b0800000000000000
+      internalID: -5419152691824720550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1799
+        width: 285
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b89974da5ff5a00800000000000000
+      internalID: 747586187746184062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1799
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f2619e14b720e0800000000000000
+      internalID: -2294667441740778138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1799
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a3c277e691c0f0800000000000000
+      internalID: -1098430913294653260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1799
+        width: 284
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d57debbaf379a00800000000000000
+      internalID: 763148668736331136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1799
+        width: 285
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06d22b6b9658670800000000000000
+      internalID: 8540348501772296428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1439
+        width: 285
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9937e6430afc3a0800000000000000
+      internalID: -6642914778296378891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1439
+        width: 285
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc50ad49155bbef0800000000000000
+      internalID: -91385800266064700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1439
+        width: 284
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332112413be58fe90800000000000000
+      internalID: -6991734298262826445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1439
+        width: 284
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b06404e5ce04b0800000000000000
+      internalID: -5472218914091910710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1439
+        width: 284
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0586d865e55efb0800000000000000
+      internalID: -4619182116965953317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1439
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef67cb225b8e3e780800000000000000
+      internalID: -8654818194206460162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1079
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79906057a038e8a0800000000000000
+      internalID: -6275712585574606467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1079
+        width: 282
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6d3921eb722cf30800000000000000
+      internalID: 4594278267180275368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1079
+        width: 282
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d9388dd83ecb90800000000000000
+      internalID: -7219770628503906203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1079
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be96406ffdf82f90800000000000000
+      internalID: -6978048349336854861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1079
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763744766a6910600800000000000000
+      internalID: 432792680645555047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1079
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6b9546c6bf22570800000000000000
+      internalID: 8440585094604371701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f202b0be93a1030800000000000000
+      internalID: 3466146544881774385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 719
+        width: 283
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa227715879d4450800000000000000
+      internalID: 6074678070272469744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 719
+        width: 281
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e2f2b50f1858690800000000000000
+      internalID: -7600525926795891185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 719
+        width: 281
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e448355dafd6c7be0800000000000000
+      internalID: -1478185653596093362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 719
+        width: 283
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9bcbaaccfeed30800000000000000
+      internalID: 4462782228166582193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 719
+        width: 284
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b121d9043c2b5bc0800000000000000
+      internalID: -3793389659114888776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 359
+        width: 282
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d292e47b38c368e0800000000000000
+      internalID: -1701296076526284080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 359
+        width: 275
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e689d7045ddd870800000000000000
+      internalID: 8709351727366172204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 359
+        width: 264
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f86fc9690acd280800000000000000
+      internalID: -9017155785163632746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 359
+        width: 248
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2c8d433e8266e80800000000000000
+      internalID: -8185810316389989724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 359
+        width: 235
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a359d69f1c8260800000000000000
+      internalID: 7101085445208123397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 359
+        width: 227
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf643ec52f985030800000000000000
+      internalID: 3483709296493227955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 225
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13db574e87bd43bc0800000000000000
+      internalID: -3804174472945746639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aecebd875eaa9f0800000000000000
+      internalID: -456300104976110980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 223
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b46f8ea63e74fc10800000000000000
+      internalID: 2086431300701349042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerdo_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 222
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740d52f821483e00800000000000000
+      internalID: 1024640559347467386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cerdo_sheet_0: 8213082070595662795
+      cerdo_sheet_1: -2989167201073146746
+      cerdo_sheet_10: -8459631041645925522
+      cerdo_sheet_11: 8920396306282040690
+      cerdo_sheet_12: -5419152691824720550
+      cerdo_sheet_13: 747586187746184062
+      cerdo_sheet_14: -2294667441740778138
+      cerdo_sheet_15: -1098430913294653260
+      cerdo_sheet_16: 763148668736331136
+      cerdo_sheet_17: 8540348501772296428
+      cerdo_sheet_18: -6642914778296378891
+      cerdo_sheet_19: -91385800266064700
+      cerdo_sheet_2: 418530726520157323
+      cerdo_sheet_20: -6991734298262826445
+      cerdo_sheet_21: -5472218914091910710
+      cerdo_sheet_22: -4619182116965953317
+      cerdo_sheet_23: -8654818194206460162
+      cerdo_sheet_24: -6275712585574606467
+      cerdo_sheet_25: 4594278267180275368
+      cerdo_sheet_26: -7219770628503906203
+      cerdo_sheet_27: -6978048349336854861
+      cerdo_sheet_28: 432792680645555047
+      cerdo_sheet_29: 8440585094604371701
+      cerdo_sheet_3: 2776719240097187448
+      cerdo_sheet_30: 3466146544881774385
+      cerdo_sheet_31: 6074678070272469744
+      cerdo_sheet_32: -7600525926795891185
+      cerdo_sheet_33: -1478185653596093362
+      cerdo_sheet_34: 4462782228166582193
+      cerdo_sheet_35: -3793389659114888776
+      cerdo_sheet_36: -1701296076526284080
+      cerdo_sheet_37: 8709351727366172204
+      cerdo_sheet_38: -9017155785163632746
+      cerdo_sheet_39: -8185810316389989724
+      cerdo_sheet_4: 5374312841915073924
+      cerdo_sheet_40: 7101085445208123397
+      cerdo_sheet_41: 3483709296493227955
+      cerdo_sheet_42: -3804174472945746639
+      cerdo_sheet_43: -456300104976110980
+      cerdo_sheet_44: 2086431300701349042
+      cerdo_sheet_45: 1024640559347467386
+      cerdo_sheet_5: -9222039993982968270
+      cerdo_sheet_6: -9061489537052894122
+      cerdo_sheet_7: 6942722127489532723
+      cerdo_sheet_8: 1095996806710702506
+      cerdo_sheet_9: 3447815951537139671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

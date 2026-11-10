@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 4f9862ebb54b6504da41ef8c6453ab89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2091152538147218905
+    second: taxi_sheet_0
+  - first:
+      213: -7351654825614321829
+    second: taxi_sheet_1
+  - first:
+      213: 8098303572119320042
+    second: taxi_sheet_2
+  - first:
+      213: 6398562626757635919
+    second: taxi_sheet_3
+  - first:
+      213: 1405130691344327671
+    second: taxi_sheet_4
+  - first:
+      213: 1100059785591330461
+    second: taxi_sheet_5
+  - first:
+      213: 2199034507371409023
+    second: taxi_sheet_6
+  - first:
+      213: -2322977417318383560
+    second: taxi_sheet_7
+  - first:
+      213: 1847329974039035155
+    second: taxi_sheet_8
+  - first:
+      213: -5297094270946534153
+    second: taxi_sheet_9
+  - first:
+      213: 4901718556469379946
+    second: taxi_sheet_10
+  - first:
+      213: -1778477755755729742
+    second: taxi_sheet_11
+  - first:
+      213: -7100620085599763174
+    second: taxi_sheet_12
+  - first:
+      213: -2252347884385337765
+    second: taxi_sheet_13
+  - first:
+      213: -6700544237947067781
+    second: taxi_sheet_14
+  - first:
+      213: -2819482125852034211
+    second: taxi_sheet_15
+  - first:
+      213: 1184921919318148761
+    second: taxi_sheet_16
+  - first:
+      213: 4097118050704992852
+    second: taxi_sheet_17
+  - first:
+      213: -7899027452320907478
+    second: taxi_sheet_18
+  - first:
+      213: -6894973308894126384
+    second: taxi_sheet_19
+  - first:
+      213: 6594151127160404804
+    second: taxi_sheet_20
+  - first:
+      213: -6949962806924571953
+    second: taxi_sheet_21
+  - first:
+      213: 8081006628181789592
+    second: taxi_sheet_22
+  - first:
+      213: 713438244643030911
+    second: taxi_sheet_23
+  - first:
+      213: -4731595153605651663
+    second: taxi_sheet_24
+  - first:
+      213: 5993109255883017669
+    second: taxi_sheet_25
+  - first:
+      213: 426161462307058098
+    second: taxi_sheet_26
+  - first:
+      213: 7878417434914465113
+    second: taxi_sheet_27
+  - first:
+      213: -1762842788871709944
+    second: taxi_sheet_28
+  - first:
+      213: 1547501491079237697
+    second: taxi_sheet_29
+  - first:
+      213: -3406858668063250794
+    second: taxi_sheet_30
+  - first:
+      213: 1814047762930375754
+    second: taxi_sheet_31
+  - first:
+      213: 2308450356911158192
+    second: taxi_sheet_32
+  - first:
+      213: -8514310846525095436
+    second: taxi_sheet_33
+  - first:
+      213: 4623671210135055556
+    second: taxi_sheet_34
+  - first:
+      213: 7606374712364758907
+    second: taxi_sheet_35
+  - first:
+      213: 1793787374168588730
+    second: taxi_sheet_36
+  - first:
+      213: 4839522863737907298
+    second: taxi_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taxi_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2159
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5eb6f6724450d10800000000000000
+      internalID: 2091152538147218905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2159
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d8f703eca9f990800000000000000
+      internalID: -7351654825614321829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2159
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f2733134f26070800000000000000
+      internalID: 8098303572119320042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2159
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4faaf8dec24cc850800000000000000
+      internalID: 6398562626757635919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2159
+        width: 228
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e3984be6008310800000000000000
+      internalID: 1405130691344327671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2159
+        width: 242
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d961ddfeb82344f00800000000000000
+      internalID: 1100059785591330461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1799
+        width: 261
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee2b4cb3a848e10800000000000000
+      internalID: 2199034507371409023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1799
+        width: 274
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830cb7bb85023cfd0800000000000000
+      internalID: -2322977417318383560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1799
+        width: 281
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3785e2d803a910800000000000000
+      internalID: 1847329974039035155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1799
+        width: 285
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc997663d0fc76b0800000000000000
+      internalID: -5297094270946534153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1799
+        width: 288
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634c438e07660440800000000000000
+      internalID: 4901718556469379946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1799
+        width: 289
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcee3767e39157e0800000000000000
+      internalID: -1778477755755729742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1439
+        width: 293
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1582d027a7857d90800000000000000
+      internalID: -7100620085599763174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1439
+        width: 290
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5efb98588d0eb0e0800000000000000
+      internalID: -2252347884385337765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1439
+        width: 276
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72ef5f3482e203a0800000000000000
+      internalID: -6700544237947067781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1439
+        width: 273
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb60ed1ff2fd8d0800000000000000
+      internalID: -2819482125852034211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1439
+        width: 277
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99648872530b17010800000000000000
+      internalID: 1184921919318148761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1439
+        width: 276
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aac1fd823ebd830800000000000000
+      internalID: 4097118050704992852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1079
+        width: 277
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7a590264016290800000000000000
+      internalID: -7899027452320907478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1079
+        width: 276
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ded0938e422050a0800000000000000
+      internalID: -6894973308894126384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1079
+        width: 276
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b33a94381238b50800000000000000
+      internalID: 6594151127160404804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1079
+        width: 276
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca851b46a5cc8f90800000000000000
+      internalID: -6949962806924571953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1079
+        width: 277
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4a5c96b0852070800000000000000
+      internalID: 8081006628181789592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1079
+        width: 280
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f774025bd44a6e900800000000000000
+      internalID: 713438244643030911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 719
+        width: 281
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1331060e64ff55eb0800000000000000
+      internalID: -4731595153605651663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 719
+        width: 278
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd43098d1dcb2350800000000000000
+      internalID: 5993109255883017669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 719
+        width: 269
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1f5c197970ae500800000000000000
+      internalID: 426161462307058098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 719
+        width: 263
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95522585ae2c55d60800000000000000
+      internalID: 7878417434914465113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 719
+        width: 255
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b517ec2df1987e0800000000000000
+      internalID: -1762842788871709944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 719
+        width: 245
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1405a293864d97510800000000000000
+      internalID: 1547501491079237697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 359
+        width: 238
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696212a771868b0d0800000000000000
+      internalID: -3406858668063250794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 359
+        width: 231
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c9e0344dacc2910800000000000000
+      internalID: 1814047762930375754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 359
+        width: 227
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b330517e53490020800000000000000
+      internalID: 2308450356911158192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 359
+        width: 224
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1cd95556717d980800000000000000
+      internalID: -8514310846525095436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 359
+        width: 222
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccec46e7749a2040800000000000000
+      internalID: 4623671210135055556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f30720854f8960800000000000000
+      internalID: 7606374712364758907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab146e7ec10d4e810800000000000000
+      internalID: 1793787374168588730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268aa775760792340800000000000000
+      internalID: 4839522863737907298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      taxi_sheet_0: 2091152538147218905
+      taxi_sheet_1: -7351654825614321829
+      taxi_sheet_10: 4901718556469379946
+      taxi_sheet_11: -1778477755755729742
+      taxi_sheet_12: -7100620085599763174
+      taxi_sheet_13: -2252347884385337765
+      taxi_sheet_14: -6700544237947067781
+      taxi_sheet_15: -2819482125852034211
+      taxi_sheet_16: 1184921919318148761
+      taxi_sheet_17: 4097118050704992852
+      taxi_sheet_18: -7899027452320907478
+      taxi_sheet_19: -6894973308894126384
+      taxi_sheet_2: 8098303572119320042
+      taxi_sheet_20: 6594151127160404804
+      taxi_sheet_21: -6949962806924571953
+      taxi_sheet_22: 8081006628181789592
+      taxi_sheet_23: 713438244643030911
+      taxi_sheet_24: -4731595153605651663
+      taxi_sheet_25: 5993109255883017669
+      taxi_sheet_26: 426161462307058098
+      taxi_sheet_27: 7878417434914465113
+      taxi_sheet_28: -1762842788871709944
+      taxi_sheet_29: 1547501491079237697
+      taxi_sheet_3: 6398562626757635919
+      taxi_sheet_30: -3406858668063250794
+      taxi_sheet_31: 1814047762930375754
+      taxi_sheet_32: 2308450356911158192
+      taxi_sheet_33: -8514310846525095436
+      taxi_sheet_34: 4623671210135055556
+      taxi_sheet_35: 7606374712364758907
+      taxi_sheet_36: 1793787374168588730
+      taxi_sheet_37: 4839522863737907298
+      taxi_sheet_4: 1405130691344327671
+      taxi_sheet_5: 1100059785591330461
+      taxi_sheet_6: 2199034507371409023
+      taxi_sheet_7: -2322977417318383560
+      taxi_sheet_8: 1847329974039035155
+      taxi_sheet_9: -5297094270946534153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

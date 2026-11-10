@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 6da0ef88279ab044eaed91411e2c2f7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8582490518662735456
+    second: vaca_sheet_0
+  - first:
+      213: -3317883320363972156
+    second: vaca_sheet_1
+  - first:
+      213: -7652191753035891552
+    second: vaca_sheet_2
+  - first:
+      213: 2796220322283994629
+    second: vaca_sheet_3
+  - first:
+      213: 6652783363404475356
+    second: vaca_sheet_4
+  - first:
+      213: -2493912968278900935
+    second: vaca_sheet_5
+  - first:
+      213: -436565378093171390
+    second: vaca_sheet_6
+  - first:
+      213: 6267832408202532261
+    second: vaca_sheet_7
+  - first:
+      213: 6502739192298266338
+    second: vaca_sheet_8
+  - first:
+      213: -2958513291321035902
+    second: vaca_sheet_9
+  - first:
+      213: -2493761532690795754
+    second: vaca_sheet_10
+  - first:
+      213: 4638059587901672386
+    second: vaca_sheet_11
+  - first:
+      213: 6890159671228404915
+    second: vaca_sheet_12
+  - first:
+      213: 2265500770052066738
+    second: vaca_sheet_13
+  - first:
+      213: -6433128784825516959
+    second: vaca_sheet_14
+  - first:
+      213: -2905028841441653744
+    second: vaca_sheet_15
+  - first:
+      213: 4230481458122594354
+    second: vaca_sheet_16
+  - first:
+      213: -2936704481363583665
+    second: vaca_sheet_17
+  - first:
+      213: -3372880995532063766
+    second: vaca_sheet_18
+  - first:
+      213: 5933486888039145694
+    second: vaca_sheet_19
+  - first:
+      213: -295271610574433536
+    second: vaca_sheet_20
+  - first:
+      213: 6431304383117817578
+    second: vaca_sheet_21
+  - first:
+      213: 532101689461644411
+    second: vaca_sheet_22
+  - first:
+      213: -2076833882639745020
+    second: vaca_sheet_23
+  - first:
+      213: -4780960533567752717
+    second: vaca_sheet_24
+  - first:
+      213: 3552164162996442822
+    second: vaca_sheet_25
+  - first:
+      213: -7535851877325204080
+    second: vaca_sheet_26
+  - first:
+      213: -6282919831135289092
+    second: vaca_sheet_27
+  - first:
+      213: -2800865528256864303
+    second: vaca_sheet_28
+  - first:
+      213: 4181322711101252499
+    second: vaca_sheet_29
+  - first:
+      213: 1745523422028542445
+    second: vaca_sheet_30
+  - first:
+      213: -2408555192277753006
+    second: vaca_sheet_31
+  - first:
+      213: -5499264196186665587
+    second: vaca_sheet_32
+  - first:
+      213: -4922804901716213744
+    second: vaca_sheet_33
+  - first:
+      213: -2802811804346613793
+    second: vaca_sheet_34
+  - first:
+      213: 1634819720502070068
+    second: vaca_sheet_35
+  - first:
+      213: 4164094624646235622
+    second: vaca_sheet_36
+  - first:
+      213: -2303573775267009968
+    second: vaca_sheet_37
+  - first:
+      213: -8598041512657458696
+    second: vaca_sheet_38
+  - first:
+      213: 3259242755640540317
+    second: vaca_sheet_39
+  - first:
+      213: 6285180794667087210
+    second: vaca_sheet_40
+  - first:
+      213: -8080589416292541771
+    second: vaca_sheet_41
+  - first:
+      213: -6714072573127661760
+    second: vaca_sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vaca_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2519
+        width: 218
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a913f2685ed4e880800000000000000
+      internalID: -8582490518662735456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2519
+        width: 218
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c90383f2b284f1d0800000000000000
+      internalID: -3317883320363972156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2519
+        width: 218
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac3f17c424fdc590800000000000000
+      internalID: -7652191753035891552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2519
+        width: 218
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e377f619b2ec620800000000000000
+      internalID: 2796220322283994629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 2519
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb2a57983f635c50800000000000000
+      internalID: 6652783363404475356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2519
+        width: 249
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffef06e57d36dd0800000000000000
+      internalID: -2493912968278900935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2159
+        width: 282
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db5850a1201f9f0800000000000000
+      internalID: -436565378093171390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2159
+        width: 310
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5d79aed50dbf650800000000000000
+      internalID: 6267832408202532261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2159
+        width: 325
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed2f7a7de5e3a50800000000000000
+      internalID: 6502739192298266338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2159
+        width: 327
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b98f16df31f6d0800000000000000
+      internalID: -2958513291321035902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1799
+        width: 304
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137e693911646dd0800000000000000
+      internalID: -2493761532690795754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2159
+        width: 321
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb49f72f92bd5040800000000000000
+      internalID: 4638059587901672386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 2159
+        width: 314
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49a4127b3ce9f50800000000000000
+      internalID: 6890159671228404915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1799
+        width: 309
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc35d72fca07f10800000000000000
+      internalID: 2265500770052066738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1799
+        width: 305
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c7222547fe8b6a0800000000000000
+      internalID: -6433128784825516959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1799
+        width: 305
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0b9309a34fa7d0800000000000000
+      internalID: -2905028841441653744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1439
+        width: 306
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238164cd870b5ba30800000000000000
+      internalID: 4230481458122594354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1799
+        width: 306
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d960265dabe37d0800000000000000
+      internalID: -2936704481363583665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1799
+        width: 306
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb35a7da9e1131d0800000000000000
+      internalID: -3372880995532063766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1439
+        width: 307
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e20143eaf75250800000000000000
+      internalID: 5933486888039145694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1439
+        width: 306
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003147bd80cf6ebf0800000000000000
+      internalID: -295271610574433536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1439
+        width: 305
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6762e0345904950800000000000000
+      internalID: 6431304383117817578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1439
+        width: 306
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c1fb8daa7626700800000000000000
+      internalID: 532101689461644411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1439
+        width: 306
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40043c7569a9d23e0800000000000000
+      internalID: -2076833882639745020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1079
+        width: 306
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5388fa9bd96adb0800000000000000
+      internalID: -4780960533567752717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1079
+        width: 306
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6964f6c72db4130800000000000000
+      internalID: 3552164162996442822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1079
+        width: 307
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095121ce4a64b6790800000000000000
+      internalID: -7535851877325204080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1079
+        width: 306
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf08ce0b3b59ec8a0800000000000000
+      internalID: -6282919831135289092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1079
+        width: 302
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfdc9444a35129d0800000000000000
+      internalID: -2800865528256864303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1079
+        width: 293
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a6762ada070a30800000000000000
+      internalID: 4181322711101252499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 719
+        width: 275
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b22ddd48593810800000000000000
+      internalID: 1745523422028542445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 719
+        width: 255
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253ac5e40d7139ed0800000000000000
+      internalID: -2408555192277753006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 719
+        width: 239
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d05449950bea3b0800000000000000
+      internalID: -5499264196186665587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 719
+        width: 229
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01047a6260faeabb0800000000000000
+      internalID: -4922804901716213744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 719
+        width: 226
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff5ad83896a19d0800000000000000
+      internalID: -2802811804346613793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 719
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4458cfdb00b610800000000000000
+      internalID: 1634819720502070068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 359
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50721bff5d9c930800000000000000
+      internalID: 4164094624646235622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 359
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aed433bdf0800e0800000000000000
+      internalID: -2303573775267009968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 359
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96df17cce9da880800000000000000
+      internalID: -8598041512657458696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 359
+        width: 222
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c38be94082b3d20800000000000000
+      internalID: 3259242755640540317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 359
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653d37e1a2793750800000000000000
+      internalID: 6285180794667087210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 359
+        width: 221
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1a1a1dbafbdf80800000000000000
+      internalID: -8080589416292541771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vaca_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04768824192d2d2a0800000000000000
+      internalID: -6714072573127661760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vaca_sheet_0: -8582490518662735456
+      vaca_sheet_1: -3317883320363972156
+      vaca_sheet_10: -2493761532690795754
+      vaca_sheet_11: 4638059587901672386
+      vaca_sheet_12: 6890159671228404915
+      vaca_sheet_13: 2265500770052066738
+      vaca_sheet_14: -6433128784825516959
+      vaca_sheet_15: -2905028841441653744
+      vaca_sheet_16: 4230481458122594354
+      vaca_sheet_17: -2936704481363583665
+      vaca_sheet_18: -3372880995532063766
+      vaca_sheet_19: 5933486888039145694
+      vaca_sheet_2: -7652191753035891552
+      vaca_sheet_20: -295271610574433536
+      vaca_sheet_21: 6431304383117817578
+      vaca_sheet_22: 532101689461644411
+      vaca_sheet_23: -2076833882639745020
+      vaca_sheet_24: -4780960533567752717
+      vaca_sheet_25: 3552164162996442822
+      vaca_sheet_26: -7535851877325204080
+      vaca_sheet_27: -6282919831135289092
+      vaca_sheet_28: -2800865528256864303
+      vaca_sheet_29: 4181322711101252499
+      vaca_sheet_3: 2796220322283994629
+      vaca_sheet_30: 1745523422028542445
+      vaca_sheet_31: -2408555192277753006
+      vaca_sheet_32: -5499264196186665587
+      vaca_sheet_33: -4922804901716213744
+      vaca_sheet_34: -2802811804346613793
+      vaca_sheet_35: 1634819720502070068
+      vaca_sheet_36: 4164094624646235622
+      vaca_sheet_37: -2303573775267009968
+      vaca_sheet_38: -8598041512657458696
+      vaca_sheet_39: 3259242755640540317
+      vaca_sheet_4: 6652783363404475356
+      vaca_sheet_40: 6285180794667087210
+      vaca_sheet_41: -8080589416292541771
+      vaca_sheet_42: -6714072573127661760
+      vaca_sheet_5: -2493912968278900935
+      vaca_sheet_6: -436565378093171390
+      vaca_sheet_7: 6267832408202532261
+      vaca_sheet_8: 6502739192298266338
+      vaca_sheet_9: -2958513291321035902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

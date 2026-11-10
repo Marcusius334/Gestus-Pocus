@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: f43b17029132a7b4ca53de9f9415755c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3220989869273998604
+    second: coche_sheet_0
+  - first:
+      213: 1460139702412369959
+    second: coche_sheet_1
+  - first:
+      213: 7567854505685165694
+    second: coche_sheet_2
+  - first:
+      213: 3681972964279923683
+    second: coche_sheet_3
+  - first:
+      213: -373258675903565298
+    second: coche_sheet_4
+  - first:
+      213: 7097678383716252445
+    second: coche_sheet_5
+  - first:
+      213: -6294189306554972786
+    second: coche_sheet_6
+  - first:
+      213: 8667853584676352286
+    second: coche_sheet_7
+  - first:
+      213: 2182108111774519268
+    second: coche_sheet_8
+  - first:
+      213: -7252592473631287148
+    second: coche_sheet_9
+  - first:
+      213: 7167980832058693380
+    second: coche_sheet_10
+  - first:
+      213: -1448689434423047950
+    second: coche_sheet_11
+  - first:
+      213: 5854195305235044390
+    second: coche_sheet_12
+  - first:
+      213: -8295604112999439520
+    second: coche_sheet_13
+  - first:
+      213: 7305188570441571409
+    second: coche_sheet_14
+  - first:
+      213: 8234419766744228619
+    second: coche_sheet_15
+  - first:
+      213: -4879918484319699136
+    second: coche_sheet_16
+  - first:
+      213: -41703912883483147
+    second: coche_sheet_17
+  - first:
+      213: 2620354742647184751
+    second: coche_sheet_18
+  - first:
+      213: -3724058480685259556
+    second: coche_sheet_19
+  - first:
+      213: -8057049928483200832
+    second: coche_sheet_20
+  - first:
+      213: 7021260588882508592
+    second: coche_sheet_21
+  - first:
+      213: -7131798730035109886
+    second: coche_sheet_22
+  - first:
+      213: 5951962429854950303
+    second: coche_sheet_23
+  - first:
+      213: 4200866905211292688
+    second: coche_sheet_24
+  - first:
+      213: 8170529608961154543
+    second: coche_sheet_25
+  - first:
+      213: 4921156268662515195
+    second: coche_sheet_26
+  - first:
+      213: -332761498845732716
+    second: coche_sheet_27
+  - first:
+      213: -742689153707576144
+    second: coche_sheet_28
+  - first:
+      213: 8439323909120510453
+    second: coche_sheet_29
+  - first:
+      213: 6033164183480175970
+    second: coche_sheet_30
+  - first:
+      213: 860480681547634858
+    second: coche_sheet_31
+  - first:
+      213: 3333503981476333617
+    second: coche_sheet_32
+  - first:
+      213: 8578974529688434946
+    second: coche_sheet_33
+  - first:
+      213: 5866361741155438336
+    second: coche_sheet_34
+  - first:
+      213: -7957235184810426955
+    second: coche_sheet_35
+  - first:
+      213: -1931554289550792257
+    second: coche_sheet_36
+  - first:
+      213: -5479962061410438248
+    second: coche_sheet_37
+  - first:
+      213: 4406287627681177515
+    second: coche_sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coche_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2159
+        width: 227
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056537783143bc20800000000000000
+      internalID: 3220989869273998604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2159
+        width: 227
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ebbcb255734410800000000000000
+      internalID: 1460139702412369959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2159
+        width: 227
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e762433a39b660960800000000000000
+      internalID: 7567854505685165694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2159
+        width: 231
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e33f7037eef81330800000000000000
+      internalID: 3681972964279923683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2159
+        width: 239
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e027f6d363be1daf0800000000000000
+      internalID: -373258675903565298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2159
+        width: 252
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b306782e4008260800000000000000
+      internalID: 7097678383716252445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1799
+        width: 265
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858ab97c2c86a8a0800000000000000
+      internalID: -6294189306554972786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1799
+        width: 277
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11fab739e66a4870800000000000000
+      internalID: 8667853584676352286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1799
+        width: 280
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef81df24c7684e10800000000000000
+      internalID: 2182108111774519268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1799
+        width: 274
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981984329d995b90800000000000000
+      internalID: -7252592473631287148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1799
+        width: 266
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407daa3d698c97360800000000000000
+      internalID: 7167980832058693380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1799
+        width: 265
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84a5782a835ebe0800000000000000
+      internalID: -1448689434423047950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1439
+        width: 271
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6285b4efc974e3150800000000000000
+      internalID: 5854195305235044390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1439
+        width: 275
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063266fd20810ec80800000000000000
+      internalID: -8295604112999439520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1439
+        width: 273
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd96edc4e316560800000000000000
+      internalID: 7305188570441571409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1439
+        width: 273
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03ae386629864270800000000000000
+      internalID: 8234419766744228619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1439
+        width: 272
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff2415efb074cb0800000000000000
+      internalID: -4879918484319699136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1439
+        width: 272
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd06de1386db6ff0800000000000000
+      internalID: -41703912883483147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1079
+        width: 275
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ddef451ce5d5420800000000000000
+      internalID: 2620354742647184751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1079
+        width: 273
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd469ffea8c715cc0800000000000000
+      internalID: -3724058480685259556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1079
+        width: 274
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02c2337cb9f2090800000000000000
+      internalID: -8057049928483200832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1079
+        width: 275
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bbacb2e47807160800000000000000
+      internalID: 7021260588882508592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1079
+        width: 277
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200eca647d2c60d90800000000000000
+      internalID: -7131798730035109886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1079
+        width: 281
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93a9fb8b4e999250800000000000000
+      internalID: 5951962429854950303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 719
+        width: 281
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c40d1713a7c4a30800000000000000
+      internalID: 4200866905211292688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 719
+        width: 276
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedd0f8d36d836170800000000000000
+      internalID: 8170529608961154543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 719
+        width: 267
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5e0dd8d857b4440800000000000000
+      internalID: 4921156268662515195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 719
+        width: 257
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490af5a0e2bc16bf0800000000000000
+      internalID: -332761498845732716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 719
+        width: 247
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b479be462071b5f0800000000000000
+      internalID: -742689153707576144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 719
+        width: 239
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c693c1608e1570800000000000000
+      internalID: 8439323909120510453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 233
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d02fb1cda1ab350800000000000000
+      internalID: 6033164183480175970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 359
+        width: 229
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89bbfee9a01fb00800000000000000
+      internalID: 860480681547634858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 359
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384f31a53cf24e20800000000000000
+      internalID: 3333503981476333617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 359
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f333a1e3ae0770800000000000000
+      internalID: 8578974529688434946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 359
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f03891ce0896150800000000000000
+      internalID: 5866361741155438336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 359
+        width: 224
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd722732c8329190800000000000000
+      internalID: -7957235184810426955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb961f28b9db135e0800000000000000
+      internalID: -1931554289550792257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893730b0a8343f3b0800000000000000
+      internalID: -5479962061410438248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coche_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf922a7047462d30800000000000000
+      internalID: 4406287627681177515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coche_sheet_0: 3220989869273998604
+      coche_sheet_1: 1460139702412369959
+      coche_sheet_10: 7167980832058693380
+      coche_sheet_11: -1448689434423047950
+      coche_sheet_12: 5854195305235044390
+      coche_sheet_13: -8295604112999439520
+      coche_sheet_14: 7305188570441571409
+      coche_sheet_15: 8234419766744228619
+      coche_sheet_16: -4879918484319699136
+      coche_sheet_17: -41703912883483147
+      coche_sheet_18: 2620354742647184751
+      coche_sheet_19: -3724058480685259556
+      coche_sheet_2: 7567854505685165694
+      coche_sheet_20: -8057049928483200832
+      coche_sheet_21: 7021260588882508592
+      coche_sheet_22: -7131798730035109886
+      coche_sheet_23: 5951962429854950303
+      coche_sheet_24: 4200866905211292688
+      coche_sheet_25: 8170529608961154543
+      coche_sheet_26: 4921156268662515195
+      coche_sheet_27: -332761498845732716
+      coche_sheet_28: -742689153707576144
+      coche_sheet_29: 8439323909120510453
+      coche_sheet_3: 3681972964279923683
+      coche_sheet_30: 6033164183480175970
+      coche_sheet_31: 860480681547634858
+      coche_sheet_32: 3333503981476333617
+      coche_sheet_33: 8578974529688434946
+      coche_sheet_34: 5866361741155438336
+      coche_sheet_35: -7957235184810426955
+      coche_sheet_36: -1931554289550792257
+      coche_sheet_37: -5479962061410438248
+      coche_sheet_38: 4406287627681177515
+      coche_sheet_4: -373258675903565298
+      coche_sheet_5: 7097678383716252445
+      coche_sheet_6: -6294189306554972786
+      coche_sheet_7: 8667853584676352286
+      coche_sheet_8: 2182108111774519268
+      coche_sheet_9: -7252592473631287148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

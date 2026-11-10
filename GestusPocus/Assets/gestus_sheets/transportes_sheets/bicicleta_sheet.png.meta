@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 879d6f29bca4cf2408a642fdf74261a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 160050097394369774
+    second: bicicleta_sheet_0
+  - first:
+      213: -8274956868646111627
+    second: bicicleta_sheet_1
+  - first:
+      213: -1801067728022862217
+    second: bicicleta_sheet_2
+  - first:
+      213: -7092215162196605564
+    second: bicicleta_sheet_3
+  - first:
+      213: 6616214555651915091
+    second: bicicleta_sheet_4
+  - first:
+      213: 4907667381846829132
+    second: bicicleta_sheet_5
+  - first:
+      213: -6930243607238348021
+    second: bicicleta_sheet_6
+  - first:
+      213: 2113890004013731544
+    second: bicicleta_sheet_7
+  - first:
+      213: 7275111754825330703
+    second: bicicleta_sheet_8
+  - first:
+      213: 4624737629828285916
+    second: bicicleta_sheet_9
+  - first:
+      213: 5089092399451629283
+    second: bicicleta_sheet_10
+  - first:
+      213: -6534394691158663568
+    second: bicicleta_sheet_11
+  - first:
+      213: -286430367847502328
+    second: bicicleta_sheet_12
+  - first:
+      213: 1865910943057644280
+    second: bicicleta_sheet_13
+  - first:
+      213: 3995515878995853402
+    second: bicicleta_sheet_14
+  - first:
+      213: 6482139634880455227
+    second: bicicleta_sheet_15
+  - first:
+      213: -1952571564574382614
+    second: bicicleta_sheet_16
+  - first:
+      213: 5218010405633061622
+    second: bicicleta_sheet_17
+  - first:
+      213: -4266028097559547529
+    second: bicicleta_sheet_18
+  - first:
+      213: 5354323986783492076
+    second: bicicleta_sheet_19
+  - first:
+      213: 6935839106965894276
+    second: bicicleta_sheet_20
+  - first:
+      213: 1614821407457673689
+    second: bicicleta_sheet_21
+  - first:
+      213: -8734904446536949703
+    second: bicicleta_sheet_22
+  - first:
+      213: 6864659581056097643
+    second: bicicleta_sheet_23
+  - first:
+      213: -6062935168295461959
+    second: bicicleta_sheet_24
+  - first:
+      213: -2742133105158879276
+    second: bicicleta_sheet_25
+  - first:
+      213: -7046063319289942906
+    second: bicicleta_sheet_26
+  - first:
+      213: -7673317839645373645
+    second: bicicleta_sheet_27
+  - first:
+      213: 5806453016352860450
+    second: bicicleta_sheet_28
+  - first:
+      213: 1096266241783107061
+    second: bicicleta_sheet_29
+  - first:
+      213: 2997938283301864232
+    second: bicicleta_sheet_30
+  - first:
+      213: -6387530388154864917
+    second: bicicleta_sheet_31
+  - first:
+      213: -3999913798982698606
+    second: bicicleta_sheet_32
+  - first:
+      213: -980052638688064575
+    second: bicicleta_sheet_33
+  - first:
+      213: -8667454872538876922
+    second: bicicleta_sheet_34
+  - first:
+      213: 5194530100613339020
+    second: bicicleta_sheet_35
+  - first:
+      213: 2033140644096351978
+    second: bicicleta_sheet_36
+  - first:
+      213: -2718772066584343281
+    second: bicicleta_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bicicleta_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2159
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4457137bc983200800000000000000
+      internalID: 160050097394369774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2159
+        width: 225
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5767ba01292792d80800000000000000
+      internalID: -8274956868646111627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2159
+        width: 231
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77607ce91725107e0800000000000000
+      internalID: -1801067728022862217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2159
+        width: 245
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c1aad2e3639d90800000000000000
+      internalID: -7092215162196605564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2159
+        width: 258
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35db66b851481db50800000000000000
+      internalID: 6616214555651915091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 2159
+        width: 267
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4860ca5b798b1440800000000000000
+      internalID: 4907667381846829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1799
+        width: 263
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f2af3824d2df90800000000000000
+      internalID: -6930243607238348021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1799
+        width: 256
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8decc7f32cb065d10800000000000000
+      internalID: 2113890004013731544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1799
+        width: 251
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f1a7889366f460800000000000000
+      internalID: 7275111754825330703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1799
+        width: 249
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd50c451f5e5e2040800000000000000
+      internalID: 4624737629828285916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1799
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6647af29610a640800000000000000
+      internalID: 5089092399451629283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1799
+        width: 256
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e1a4b26aa2155a0800000000000000
+      internalID: -6534394691158663568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1439
+        width: 257
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ea0971915660cf0800000000000000
+      internalID: -286430367847502328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1439
+        width: 255
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa077fdd1c05e910800000000000000
+      internalID: 1865910943057644280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1439
+        width: 251
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500bf5d58ce27730800000000000000
+      internalID: 3995515878995853402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1439
+        width: 248
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a78177af25f950800000000000000
+      internalID: 6482139634880455227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1439
+        width: 249
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e307d18217e4e0800000000000000
+      internalID: -1952571564574382614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1439
+        width: 249
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2fc0651d81a6840800000000000000
+      internalID: 5218010405633061622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1079
+        width: 247
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771b0233c060cc4c0800000000000000
+      internalID: -4266028097559547529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1079
+        width: 245
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7559c2c416e4a40800000000000000
+      internalID: 5354323986783492076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1079
+        width: 248
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f6fd8bec014060800000000000000
+      internalID: 6935839106965894276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1079
+        width: 251
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1063fa38ff86610800000000000000
+      internalID: 1614821407457673689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1079
+        width: 249
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9306f257fa267c680800000000000000
+      internalID: -8734904446536949703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1079
+        width: 247
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d94d8b48b244f50800000000000000
+      internalID: 6864659581056097643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 719
+        width: 247
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb968556902cdba0800000000000000
+      internalID: -6062935168295461959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 719
+        width: 244
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78a24287cf1f9d0800000000000000
+      internalID: -2742133105158879276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 719
+        width: 236
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c20d42eba573e90800000000000000
+      internalID: -7046063319289942906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 719
+        width: 229
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b054f6416e28590800000000000000
+      internalID: -7673317839645373645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 719
+        width: 225
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22925b4214aa49050800000000000000
+      internalID: 5806453016352860450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 719
+        width: 225
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd0cb0b658b63f00800000000000000
+      internalID: 1096266241783107061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 359
+        width: 228
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82380c22cf0da9920800000000000000
+      internalID: 2997938283301864232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 359
+        width: 227
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea240e54feea57a0800000000000000
+      internalID: -6387530388154864917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f37f97937d78c0800000000000000
+      internalID: -3999913798982698606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 359
+        width: 222
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb40d151572662f0800000000000000
+      internalID: -980052638688064575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604779f27b307b780800000000000000
+      internalID: -8667454872538876922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 359
+        width: 223
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d12eca9da61840800000000000000
+      internalID: 5194530100613339020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee95cdc4aa273c10800000000000000
+      internalID: 2033140644096351978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bicicleta_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4cf9c53bf44ad0800000000000000
+      internalID: -2718772066584343281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bicicleta_sheet_0: 160050097394369774
+      bicicleta_sheet_1: -8274956868646111627
+      bicicleta_sheet_10: 5089092399451629283
+      bicicleta_sheet_11: -6534394691158663568
+      bicicleta_sheet_12: -286430367847502328
+      bicicleta_sheet_13: 1865910943057644280
+      bicicleta_sheet_14: 3995515878995853402
+      bicicleta_sheet_15: 6482139634880455227
+      bicicleta_sheet_16: -1952571564574382614
+      bicicleta_sheet_17: 5218010405633061622
+      bicicleta_sheet_18: -4266028097559547529
+      bicicleta_sheet_19: 5354323986783492076
+      bicicleta_sheet_2: -1801067728022862217
+      bicicleta_sheet_20: 6935839106965894276
+      bicicleta_sheet_21: 1614821407457673689
+      bicicleta_sheet_22: -8734904446536949703
+      bicicleta_sheet_23: 6864659581056097643
+      bicicleta_sheet_24: -6062935168295461959
+      bicicleta_sheet_25: -2742133105158879276
+      bicicleta_sheet_26: -7046063319289942906
+      bicicleta_sheet_27: -7673317839645373645
+      bicicleta_sheet_28: 5806453016352860450
+      bicicleta_sheet_29: 1096266241783107061
+      bicicleta_sheet_3: -7092215162196605564
+      bicicleta_sheet_30: 2997938283301864232
+      bicicleta_sheet_31: -6387530388154864917
+      bicicleta_sheet_32: -3999913798982698606
+      bicicleta_sheet_33: -980052638688064575
+      bicicleta_sheet_34: -8667454872538876922
+      bicicleta_sheet_35: 5194530100613339020
+      bicicleta_sheet_36: 2033140644096351978
+      bicicleta_sheet_37: -2718772066584343281
+      bicicleta_sheet_4: 6616214555651915091
+      bicicleta_sheet_5: 4907667381846829132
+      bicicleta_sheet_6: -6930243607238348021
+      bicicleta_sheet_7: 2113890004013731544
+      bicicleta_sheet_8: 7275111754825330703
+      bicicleta_sheet_9: 4624737629828285916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

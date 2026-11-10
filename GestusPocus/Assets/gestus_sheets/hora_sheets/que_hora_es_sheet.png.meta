@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: 354d35d4033714141a1848004c509a2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4820962215878427793
+    second: que_hora_es_sheet_0
+  - first:
+      213: -8644247307645598389
+    second: que_hora_es_sheet_1
+  - first:
+      213: -5784005477688641663
+    second: que_hora_es_sheet_2
+  - first:
+      213: 1049552994738120891
+    second: que_hora_es_sheet_3
+  - first:
+      213: 1657913288148651619
+    second: que_hora_es_sheet_4
+  - first:
+      213: 8834638210658117272
+    second: que_hora_es_sheet_5
+  - first:
+      213: -7284111249888904701
+    second: que_hora_es_sheet_6
+  - first:
+      213: 1181617605219646121
+    second: que_hora_es_sheet_7
+  - first:
+      213: -5294903479995910016
+    second: que_hora_es_sheet_8
+  - first:
+      213: 1796277605129818987
+    second: que_hora_es_sheet_9
+  - first:
+      213: 3009627570988544494
+    second: que_hora_es_sheet_10
+  - first:
+      213: -2751426315400660535
+    second: que_hora_es_sheet_11
+  - first:
+      213: -6687202336168223121
+    second: que_hora_es_sheet_12
+  - first:
+      213: -6907031188990978380
+    second: que_hora_es_sheet_13
+  - first:
+      213: -2305197536815470409
+    second: que_hora_es_sheet_14
+  - first:
+      213: -2820245867073878985
+    second: que_hora_es_sheet_15
+  - first:
+      213: 619258336813330039
+    second: que_hora_es_sheet_16
+  - first:
+      213: 8313157963567427696
+    second: que_hora_es_sheet_17
+  - first:
+      213: -6667424504033947075
+    second: que_hora_es_sheet_18
+  - first:
+      213: -1880113876088930760
+    second: que_hora_es_sheet_19
+  - first:
+      213: -8740604493835074995
+    second: que_hora_es_sheet_20
+  - first:
+      213: -8311594818889637932
+    second: que_hora_es_sheet_21
+  - first:
+      213: -4251420724490576392
+    second: que_hora_es_sheet_22
+  - first:
+      213: -4101142551163347568
+    second: que_hora_es_sheet_23
+  - first:
+      213: 5582020562642944077
+    second: que_hora_es_sheet_24
+  - first:
+      213: -8551990918503041979
+    second: que_hora_es_sheet_25
+  - first:
+      213: -8001296425676566860
+    second: que_hora_es_sheet_26
+  - first:
+      213: 2142931124760518848
+    second: que_hora_es_sheet_27
+  - first:
+      213: 2155333547470166584
+    second: que_hora_es_sheet_28
+  - first:
+      213: -6159156695708929801
+    second: que_hora_es_sheet_29
+  - first:
+      213: -2485260057021840409
+    second: que_hora_es_sheet_30
+  - first:
+      213: -1107552096041883683
+    second: que_hora_es_sheet_31
+  - first:
+      213: -344669331815009464
+    second: que_hora_es_sheet_32
+  - first:
+      213: 1939679607138277381
+    second: que_hora_es_sheet_33
+  - first:
+      213: 1866108403827397303
+    second: que_hora_es_sheet_34
+  - first:
+      213: 6484669579901727350
+    second: que_hora_es_sheet_35
+  - first:
+      213: 3636881578888092025
+    second: que_hora_es_sheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: que_hora_es_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2159
+        width: 229
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948301c79f77e240800000000000000
+      internalID: 4820962215878427793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2159
+        width: 229
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4548257fd6790880800000000000000
+      internalID: -8644247307645598389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2159
+        width: 229
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187747bb9a51bbfa0800000000000000
+      internalID: -5784005477688641663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2159
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8205053e2c09e00800000000000000
+      internalID: 1049552994738120891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2159
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e00800a57120710800000000000000
+      internalID: 1657913288148651619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2159
+        width: 230
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896ae5905a0fa9a70800000000000000
+      internalID: 8834638210658117272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1799
+        width: 231
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af1fd3963a9ea90800000000000000
+      internalID: -7284111249888904701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1799
+        width: 236
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf67393f2f56010800000000000000
+      internalID: 1181617605219646121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1799
+        width: 248
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0883ddaa659b486b0800000000000000
+      internalID: -5294903479995910016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1799
+        width: 257
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6390cbf6f8ade810800000000000000
+      internalID: 1796277605129818987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1799
+        width: 260
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee17ef2845854c920800000000000000
+      internalID: 3009627570988544494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1799
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b1e40858f0d9d0800000000000000
+      internalID: -2751426315400660535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1439
+        width: 253
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed783d7e84233a0800000000000000
+      internalID: -6687202336168223121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1439
+        width: 253
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b616a78abb4520a0800000000000000
+      internalID: -6907031188990978380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1439
+        width: 255
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b82201cd0b4200e0800000000000000
+      internalID: -2305197536815470409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1439
+        width: 256
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7344cc183597cd8d0800000000000000
+      internalID: -2820245867073878985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1439
+        width: 256
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e25f52d2c089800800000000000000
+      internalID: 619258336813330039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1439
+        width: 256
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07075247f154e5370800000000000000
+      internalID: 8313157963567427696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1079
+        width: 257
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3252563dbc8873a0800000000000000
+      internalID: -6667424504033947075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1079
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ebf66146e78e5e0800000000000000
+      internalID: -1880113876088930760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1079
+        width: 257
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4207c6c58223b680800000000000000
+      internalID: -8740604493835074995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1079
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1b178c8847ac80800000000000000
+      internalID: -8311594818889637932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1079
+        width: 259
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5106406beff4c0800000000000000
+      internalID: -4251420724490576392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1079
+        width: 265
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5ba81490d517c0800000000000000
+      internalID: -4101142551163347568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 719
+        width: 271
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40424d7022577d40800000000000000
+      internalID: 5582020562642944077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 719
+        width: 275
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544724ce199315980800000000000000
+      internalID: -8551990918503041979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 719
+        width: 273
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be02f42b4fa5f090800000000000000
+      internalID: -8001296425676566860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 719
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0aa7511883dbd10800000000000000
+      internalID: 2142931124760518848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 719
+        width: 260
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a1175217849ed10800000000000000
+      internalID: 2155333547470166584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 719
+        width: 254
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fc4c2e97468aa0800000000000000
+      internalID: -6159156695708929801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 246
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30fb64525928dd0800000000000000
+      internalID: -2485260057021840409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 359
+        width: 239
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd72f299c3f21a0f0800000000000000
+      internalID: -1107552096041883683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 359
+        width: 234
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f130a11d773bf0800000000000000
+      internalID: -344669331815009464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 359
+        width: 230
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508db8963502bea10800000000000000
+      internalID: 1939679607138277381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 359
+        width: 229
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d08ac4bfb5e910800000000000000
+      internalID: 1866108403827397303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 359
+        width: 231
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f2db20ac2ef950800000000000000
+      internalID: 6484669579901727350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: que_hora_es_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 230
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97959c7e68cc87230800000000000000
+      internalID: 3636881578888092025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      que_hora_es_sheet_0: 4820962215878427793
+      que_hora_es_sheet_1: -8644247307645598389
+      que_hora_es_sheet_10: 3009627570988544494
+      que_hora_es_sheet_11: -2751426315400660535
+      que_hora_es_sheet_12: -6687202336168223121
+      que_hora_es_sheet_13: -6907031188990978380
+      que_hora_es_sheet_14: -2305197536815470409
+      que_hora_es_sheet_15: -2820245867073878985
+      que_hora_es_sheet_16: 619258336813330039
+      que_hora_es_sheet_17: 8313157963567427696
+      que_hora_es_sheet_18: -6667424504033947075
+      que_hora_es_sheet_19: -1880113876088930760
+      que_hora_es_sheet_2: -5784005477688641663
+      que_hora_es_sheet_20: -8740604493835074995
+      que_hora_es_sheet_21: -8311594818889637932
+      que_hora_es_sheet_22: -4251420724490576392
+      que_hora_es_sheet_23: -4101142551163347568
+      que_hora_es_sheet_24: 5582020562642944077
+      que_hora_es_sheet_25: -8551990918503041979
+      que_hora_es_sheet_26: -8001296425676566860
+      que_hora_es_sheet_27: 2142931124760518848
+      que_hora_es_sheet_28: 2155333547470166584
+      que_hora_es_sheet_29: -6159156695708929801
+      que_hora_es_sheet_3: 1049552994738120891
+      que_hora_es_sheet_30: -2485260057021840409
+      que_hora_es_sheet_31: -1107552096041883683
+      que_hora_es_sheet_32: -344669331815009464
+      que_hora_es_sheet_33: 1939679607138277381
+      que_hora_es_sheet_34: 1866108403827397303
+      que_hora_es_sheet_35: 6484669579901727350
+      que_hora_es_sheet_36: 3636881578888092025
+      que_hora_es_sheet_4: 1657913288148651619
+      que_hora_es_sheet_5: 8834638210658117272
+      que_hora_es_sheet_6: -7284111249888904701
+      que_hora_es_sheet_7: 1181617605219646121
+      que_hora_es_sheet_8: -5294903479995910016
+      que_hora_es_sheet_9: 1796277605129818987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

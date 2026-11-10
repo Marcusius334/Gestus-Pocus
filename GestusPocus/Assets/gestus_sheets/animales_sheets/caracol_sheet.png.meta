@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 22a9c56a139d77647bd6abdc3c7c6291
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7322729126032190764
+    second: caracol_sheet_0
+  - first:
+      213: 136147941229474009
+    second: caracol_sheet_1
+  - first:
+      213: 6312970105244664345
+    second: caracol_sheet_2
+  - first:
+      213: -499450285323148934
+    second: caracol_sheet_3
+  - first:
+      213: 2949983286718815094
+    second: caracol_sheet_4
+  - first:
+      213: -7261947834359638191
+    second: caracol_sheet_5
+  - first:
+      213: 6807770633376333836
+    second: caracol_sheet_6
+  - first:
+      213: 6022769632553802936
+    second: caracol_sheet_7
+  - first:
+      213: 5779836406544152277
+    second: caracol_sheet_8
+  - first:
+      213: 6577031060483136417
+    second: caracol_sheet_9
+  - first:
+      213: 1791265823703202586
+    second: caracol_sheet_10
+  - first:
+      213: -3806419551254625673
+    second: caracol_sheet_11
+  - first:
+      213: -6341389845539092656
+    second: caracol_sheet_12
+  - first:
+      213: 694443877009327575
+    second: caracol_sheet_13
+  - first:
+      213: 4551783704791327456
+    second: caracol_sheet_14
+  - first:
+      213: -7089997639757277131
+    second: caracol_sheet_15
+  - first:
+      213: -6675357490659264118
+    second: caracol_sheet_16
+  - first:
+      213: -8989365505233182561
+    second: caracol_sheet_17
+  - first:
+      213: 2324075306416738455
+    second: caracol_sheet_18
+  - first:
+      213: 6682946563552541481
+    second: caracol_sheet_19
+  - first:
+      213: -1953205838889083792
+    second: caracol_sheet_20
+  - first:
+      213: -8549003151802147303
+    second: caracol_sheet_21
+  - first:
+      213: 2646229330630273798
+    second: caracol_sheet_22
+  - first:
+      213: -9153408154599348539
+    second: caracol_sheet_23
+  - first:
+      213: -812771104576577180
+    second: caracol_sheet_24
+  - first:
+      213: 8063187300186060260
+    second: caracol_sheet_25
+  - first:
+      213: -6135323267437751443
+    second: caracol_sheet_26
+  - first:
+      213: 4400291605339445438
+    second: caracol_sheet_27
+  - first:
+      213: 7603431925707279352
+    second: caracol_sheet_28
+  - first:
+      213: -7812154231386931909
+    second: caracol_sheet_29
+  - first:
+      213: 2337039126053427475
+    second: caracol_sheet_30
+  - first:
+      213: 517433436914568553
+    second: caracol_sheet_31
+  - first:
+      213: 2303190414255484163
+    second: caracol_sheet_32
+  - first:
+      213: 2214209003537221326
+    second: caracol_sheet_33
+  - first:
+      213: -4844680878471529241
+    second: caracol_sheet_34
+  - first:
+      213: 4918687814578003942
+    second: caracol_sheet_35
+  - first:
+      213: 612080537671367630
+    second: caracol_sheet_36
+  - first:
+      213: -7065586554369290341
+    second: caracol_sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caracol_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2159
+        width: 226
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d17848a0706a90800000000000000
+      internalID: -7322729126032190764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2159
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d032e9c4d1b3e100800000000000000
+      internalID: 136147941229474009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2159
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c4c8fcdc2c9750800000000000000
+      internalID: 6312970105244664345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2159
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a8589c989119f0800000000000000
+      internalID: -499450285323148934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2159
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bd63a6b2270f820800000000000000
+      internalID: 2949983286718815094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2159
+        width: 235
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157939b8be0683b90800000000000000
+      internalID: -7261947834359638191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1799
+        width: 268
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c008bba625f0a7e50800000000000000
+      internalID: 6807770633376333836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1799
+        width: 302
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc1160221d259350800000000000000
+      internalID: 6022769632553802936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1799
+        width: 328
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d63fefb69a163050800000000000000
+      internalID: 5779836406544152277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1799
+        width: 336
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abdec427ee464b50800000000000000
+      internalID: 6577031060483136417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1799
+        width: 336
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b7020b6cadbd810800000000000000
+      internalID: 1791265823703202586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1799
+        width: 332
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772cd5dd591ec2bc0800000000000000
+      internalID: -3806419551254625673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1439
+        width: 325
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578f5a988bdef7a0800000000000000
+      internalID: -6341389845539092656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1439
+        width: 319
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5069dd60923a900800000000000000
+      internalID: 694443877009327575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1439
+        width: 313
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2af72c92f2b2f30800000000000000
+      internalID: 4551783704791327456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1439
+        width: 307
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d8e706b44b9d90800000000000000
+      internalID: -7089997639757277131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1439
+        width: 301
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89f284dabd5c53a0800000000000000
+      internalID: -6675357490659264118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1439
+        width: 298
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902d6063bb5f3380800000000000000
+      internalID: -8989365505233182561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1079
+        width: 291
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901a3e7d26c04020800000000000000
+      internalID: 2324075306416738455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1079
+        width: 286
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7775ed789ebc50800000000000000
+      internalID: 6682946563552541481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1079
+        width: 283
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c1cc753a1d4e4e0800000000000000
+      internalID: -1953205838889083792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1079
+        width: 278
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e53219de6db5980800000000000000
+      internalID: -8549003151802147303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1079
+        width: 272
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bef6e4e8b49b420800000000000000
+      internalID: 2646229330630273798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1079
+        width: 265
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c621fcb7cf88f080800000000000000
+      internalID: -9153408154599348539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 719
+        width: 260
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e2049cf478b4f0800000000000000
+      internalID: -812771104576577180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 719
+        width: 256
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f701012236ef60800000000000000
+      internalID: 8063187300186060260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 719
+        width: 253
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631f2e9ef3fadaa0800000000000000
+      internalID: -6135323267437751443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 719
+        width: 251
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8146cb6e9f01d30800000000000000
+      internalID: 4400291605339445438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 719
+        width: 252
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb85ad3d01d48960800000000000000
+      internalID: 7603431925707279352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 719
+        width: 253
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dfd9bfd17a59390800000000000000
+      internalID: -7812154231386931909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 253
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3199a96f3b4de6020800000000000000
+      internalID: 2337039126053427475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 359
+        width: 260
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dc33a28fa4e2700800000000000000
+      internalID: 517433436914568553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 359
+        width: 276
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d68cb9a7396ff10800000000000000
+      internalID: 2303190414255484163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 359
+        width: 294
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ce4a7b537abe10800000000000000
+      internalID: 2214209003537221326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 359
+        width: 301
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecb394c86c34ccb0800000000000000
+      internalID: -4844680878471529241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 359
+        width: 297
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd6fcc180b24440800000000000000
+      internalID: 4918687814578003942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 285
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf4dd810c8e7800800000000000000
+      internalID: 612080537671367630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caracol_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 270
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fca01c67ef1fd90800000000000000
+      internalID: -7065586554369290341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caracol_sheet_0: -7322729126032190764
+      caracol_sheet_1: 136147941229474009
+      caracol_sheet_10: 1791265823703202586
+      caracol_sheet_11: -3806419551254625673
+      caracol_sheet_12: -6341389845539092656
+      caracol_sheet_13: 694443877009327575
+      caracol_sheet_14: 4551783704791327456
+      caracol_sheet_15: -7089997639757277131
+      caracol_sheet_16: -6675357490659264118
+      caracol_sheet_17: -8989365505233182561
+      caracol_sheet_18: 2324075306416738455
+      caracol_sheet_19: 6682946563552541481
+      caracol_sheet_2: 6312970105244664345
+      caracol_sheet_20: -1953205838889083792
+      caracol_sheet_21: -8549003151802147303
+      caracol_sheet_22: 2646229330630273798
+      caracol_sheet_23: -9153408154599348539
+      caracol_sheet_24: -812771104576577180
+      caracol_sheet_25: 8063187300186060260
+      caracol_sheet_26: -6135323267437751443
+      caracol_sheet_27: 4400291605339445438
+      caracol_sheet_28: 7603431925707279352
+      caracol_sheet_29: -7812154231386931909
+      caracol_sheet_3: -499450285323148934
+      caracol_sheet_30: 2337039126053427475
+      caracol_sheet_31: 517433436914568553
+      caracol_sheet_32: 2303190414255484163
+      caracol_sheet_33: 2214209003537221326
+      caracol_sheet_34: -4844680878471529241
+      caracol_sheet_35: 4918687814578003942
+      caracol_sheet_36: 612080537671367630
+      caracol_sheet_37: -7065586554369290341
+      caracol_sheet_4: 2949983286718815094
+      caracol_sheet_5: -7261947834359638191
+      caracol_sheet_6: 6807770633376333836
+      caracol_sheet_7: 6022769632553802936
+      caracol_sheet_8: 5779836406544152277
+      caracol_sheet_9: 6577031060483136417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

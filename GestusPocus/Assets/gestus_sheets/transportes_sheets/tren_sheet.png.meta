@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 07a27ba8ffec68b45b911af1cecbbc34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6216766507177997909
+    second: tren_sheet_0
+  - first:
+      213: 4627088822232631626
+    second: tren_sheet_1
+  - first:
+      213: -4618864873323514448
+    second: tren_sheet_2
+  - first:
+      213: 1506407793859202640
+    second: tren_sheet_3
+  - first:
+      213: -6481258875338512654
+    second: tren_sheet_4
+  - first:
+      213: 7793738251721689246
+    second: tren_sheet_5
+  - first:
+      213: -1187040244674509106
+    second: tren_sheet_6
+  - first:
+      213: -5228505043530824018
+    second: tren_sheet_7
+  - first:
+      213: 452680286706524642
+    second: tren_sheet_8
+  - first:
+      213: 9026637586599638191
+    second: tren_sheet_9
+  - first:
+      213: 7404590302166811052
+    second: tren_sheet_10
+  - first:
+      213: 5134851786166929851
+    second: tren_sheet_11
+  - first:
+      213: 546699084542801365
+    second: tren_sheet_12
+  - first:
+      213: 1462695800662119208
+    second: tren_sheet_13
+  - first:
+      213: -90302568492187758
+    second: tren_sheet_14
+  - first:
+      213: 2391298873177314213
+    second: tren_sheet_15
+  - first:
+      213: 1946267692519219742
+    second: tren_sheet_16
+  - first:
+      213: 7492470430360377198
+    second: tren_sheet_17
+  - first:
+      213: -3647717032040234838
+    second: tren_sheet_18
+  - first:
+      213: -7368699469716403214
+    second: tren_sheet_19
+  - first:
+      213: -8497695872918513125
+    second: tren_sheet_20
+  - first:
+      213: 1394436060673245269
+    second: tren_sheet_21
+  - first:
+      213: -6715679204075742278
+    second: tren_sheet_22
+  - first:
+      213: 2605749097443276963
+    second: tren_sheet_23
+  - first:
+      213: -7712021644565426236
+    second: tren_sheet_24
+  - first:
+      213: -2285472357156919330
+    second: tren_sheet_25
+  - first:
+      213: 3915506299764869334
+    second: tren_sheet_26
+  - first:
+      213: 3733067344066049344
+    second: tren_sheet_27
+  - first:
+      213: 884802304900415848
+    second: tren_sheet_28
+  - first:
+      213: -3079386702945539550
+    second: tren_sheet_29
+  - first:
+      213: 3352571931136895498
+    second: tren_sheet_30
+  - first:
+      213: 5002946682047114763
+    second: tren_sheet_31
+  - first:
+      213: 8203774670316444303
+    second: tren_sheet_32
+  - first:
+      213: 1572483683318085415
+    second: tren_sheet_33
+  - first:
+      213: 5666646776520575852
+    second: tren_sheet_34
+  - first:
+      213: 198462255781662700
+    second: tren_sheet_35
+  - first:
+      213: 4797163874483807217
+    second: tren_sheet_36
+  - first:
+      213: 5350480268605285437
+    second: tren_sheet_37
+  - first:
+      213: -9133900931476920511
+    second: tren_sheet_38
+  - first:
+      213: 2320998368741802437
+    second: tren_sheet_39
+  - first:
+      213: 2477111486015901748
+    second: tren_sheet_40
+  - first:
+      213: 2886492313260512693
+    second: tren_sheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tren_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2159
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba90c10bccb99b9a0800000000000000
+      internalID: -6216766507177997909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2159
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a494b59b4c8b63040800000000000000
+      internalID: 4627088822232631626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2159
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b5089ede76efb0800000000000000
+      internalID: -4618864873323514448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2159
+        width: 223
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8bdf38e5d7e410800000000000000
+      internalID: 1506407793859202640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2159
+        width: 226
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6a91e5461fd06a0800000000000000
+      internalID: -6481258875338512654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 2159
+        width: 245
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98ce3e95abe82c60800000000000000
+      internalID: 7793738251721689246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1799
+        width: 270
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6451acf29c68fe0800000000000000
+      internalID: -1187040244674509106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1799
+        width: 291
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c10e5d5e9077b0800000000000000
+      internalID: -5228505043530824018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1799
+        width: 297
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e6f5825e384600800000000000000
+      internalID: 452680286706524642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1799
+        width: 292
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f5715f0f054d70800000000000000
+      internalID: 9026637586599638191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1799
+        width: 287
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca184fb06a362c660800000000000000
+      internalID: 7404590302166811052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1799
+        width: 283
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb982c07e78a24740800000000000000
+      internalID: 5134851786166929851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1439
+        width: 280
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5743dbbe3469700800000000000000
+      internalID: 546699084542801365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1439
+        width: 275
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823dbecb41a8c4410800000000000000
+      internalID: 1462695800662119208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1439
+        width: 269
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fb7bada4e2fbef0800000000000000
+      internalID: -90302568492187758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1439
+        width: 261
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3968fc7a99f2120800000000000000
+      internalID: 2391298873177314213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1439
+        width: 251
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126d629728820b10800000000000000
+      internalID: 1946267692519219742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1439
+        width: 238
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679fbbd82a9af760800000000000000
+      internalID: 7492470430360377198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1079
+        width: 227
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa089109fa4b06dc0800000000000000
+      internalID: -3647717032040234838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1079
+        width: 217
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc1f29fde1db990800000000000000
+      internalID: -7368699469716403214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1079
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a936550ae121a80800000000000000
+      internalID: -8497695872918513125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1079
+        width: 203
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5508c6a85380a5310800000000000000
+      internalID: 1394436060673245269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1079
+        width: 200
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb5697585d1dc2a0800000000000000
+      internalID: -6715679204075742278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1079
+        width: 201
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b6ee8ffa792420800000000000000
+      internalID: 2605749097443276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 719
+        width: 201
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfcd8f9c2569f490800000000000000
+      internalID: -7712021644565426236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 719
+        width: 207
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7efa7000f5840e0800000000000000
+      internalID: -2285472357156919330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 719
+        width: 226
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d80a410c3ca65630800000000000000
+      internalID: 3915506299764869334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 719
+        width: 250
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045faa588f48ec330800000000000000
+      internalID: 3733067344066049344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 719
+        width: 261
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86149082203774c00800000000000000
+      internalID: 884802304900415848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 719
+        width: 256
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aaed4eb12d345d0800000000000000
+      internalID: -3079386702945539550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 359
+        width: 250
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a2c5f986ab68e20800000000000000
+      internalID: 3352571931136895498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 359
+        width: 245
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e23a520890e6540800000000000000
+      internalID: 5002946682047114763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 359
+        width: 242
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1f81e899a9d170800000000000000
+      internalID: 8203774670316444303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 359
+        width: 238
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b54f149592d510800000000000000
+      internalID: 1572483683318085415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 359
+        width: 234
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0f165839f3ae40800000000000000
+      internalID: 5666646776520575852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 359
+        width: 229
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4031ce5411c200800000000000000
+      internalID: 198462255781662700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 225
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a1fb9023f29240800000000000000
+      internalID: 4797163874483807217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 223
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3464fbc479b04a40800000000000000
+      internalID: 5350480268605285437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14765bd0f7ddd3180800000000000000
+      internalID: -9133900931476920511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1cd1d18b7d53020800000000000000
+      internalID: 2320998368741802437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4309401b5c7706220800000000000000
+      internalID: 2477111486015901748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tren_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 0
+        width: 225
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d9c23771ee0820800000000000000
+      internalID: 2886492313260512693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tren_sheet_0: -6216766507177997909
+      tren_sheet_1: 4627088822232631626
+      tren_sheet_10: 7404590302166811052
+      tren_sheet_11: 5134851786166929851
+      tren_sheet_12: 546699084542801365
+      tren_sheet_13: 1462695800662119208
+      tren_sheet_14: -90302568492187758
+      tren_sheet_15: 2391298873177314213
+      tren_sheet_16: 1946267692519219742
+      tren_sheet_17: 7492470430360377198
+      tren_sheet_18: -3647717032040234838
+      tren_sheet_19: -7368699469716403214
+      tren_sheet_2: -4618864873323514448
+      tren_sheet_20: -8497695872918513125
+      tren_sheet_21: 1394436060673245269
+      tren_sheet_22: -6715679204075742278
+      tren_sheet_23: 2605749097443276963
+      tren_sheet_24: -7712021644565426236
+      tren_sheet_25: -2285472357156919330
+      tren_sheet_26: 3915506299764869334
+      tren_sheet_27: 3733067344066049344
+      tren_sheet_28: 884802304900415848
+      tren_sheet_29: -3079386702945539550
+      tren_sheet_3: 1506407793859202640
+      tren_sheet_30: 3352571931136895498
+      tren_sheet_31: 5002946682047114763
+      tren_sheet_32: 8203774670316444303
+      tren_sheet_33: 1572483683318085415
+      tren_sheet_34: 5666646776520575852
+      tren_sheet_35: 198462255781662700
+      tren_sheet_36: 4797163874483807217
+      tren_sheet_37: 5350480268605285437
+      tren_sheet_38: -9133900931476920511
+      tren_sheet_39: 2320998368741802437
+      tren_sheet_4: -6481258875338512654
+      tren_sheet_40: 2477111486015901748
+      tren_sheet_41: 2886492313260512693
+      tren_sheet_5: 7793738251721689246
+      tren_sheet_6: -1187040244674509106
+      tren_sheet_7: -5228505043530824018
+      tren_sheet_8: 452680286706524642
+      tren_sheet_9: 9026637586599638191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
