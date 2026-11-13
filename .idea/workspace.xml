@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b504fb6f-78d9-427b-bc3a-525e26081a07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/SpriteSheetAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/SpriteSheetAnimator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/Explanation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/Explanation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/SpellMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GestusPocus/Assets/Scripts/SpellMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestusPocus/ProjectSettings/ProjectAuditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/GestusPocus/ProjectSettings/ProjectAuditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GestusPocus/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/GestusPocus/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GestusPocus/Assets/Scripts/Explanation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GestusPocus/Assets/Scripts/SpellSelectManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:\Users\Arsalan\Documents\GitHub\Gestus-Pocus\Assets\Scripts\Explanation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:\Users\Arsalan\Documents\GitHub\Gestus-Pocus\Assets\Scripts\SpellMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:\Users\Arsalan\Documents\GitHub\Gestus-Pocus\Assets\Scripts\SpriteSheetAnimator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0159533144641748" />
+      <entry key="MS500" value="1.4370893102051865" />
+      <entry key="S2" value="1.8130973512263382" />
+      <entry key="S5" value="1.9205704381852882" />
+      <entry key="S10" value="1.9597143350127453" />
+      <entry key="S30" value="2.185735009155274" />
+      <entry key="S60" value="3.2001194226773895" />
+      <entry key="M2" value="5.1819781504580895" />
+      <entry key="M5" value="7.885628963845139" />
+      <entry key="M10" value="9.266958275120377" />
+      <entry key="M15" value="9.801294651249204" />
+      <entry key="M30" value="10.37779326802182" />
+      <entry key="H1" value="10.682949585317207" />
+      <entry key="H2" value="10.839957745012956" />
+      <entry key="H4" value="10.919595754290892" />
+      <entry key="D1" value="10.986545750869734" />
+      <entry key="W1" value="10.99807664885495" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9676264999083946" />
+      <entry key="MS500" value="1.4220126512202305" />
+      <entry key="S2" value="1.8081420451497634" />
+      <entry key="S5" value="1.9184526555932095" />
+      <entry key="S10" value="1.95863075984511" />
+      <entry key="S30" value="2.1853330712353967" />
+      <entry key="S60" value="3.1998282312287607" />
+      <entry key="M2" value="5.181743808158214" />
+      <entry key="M5" value="7.885486542798322" />
+      <entry key="M10" value="9.266874593621042" />
+      <entry key="M15" value="9.801235644391397" />
+      <entry key="M30" value="10.377762027131688" />
+      <entry key="H1" value="10.682933504860447" />
+      <entry key="H2" value="10.839949586420843" />
+      <entry key="H4" value="10.919591644973721" />
+      <entry key="D1" value="10.986545061776951" />
+      <entry key="W1" value="10.998076550309618" />
+    </decayedShown>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Mark__v3",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.intellij.air.settings.ai.providers"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+</project>
