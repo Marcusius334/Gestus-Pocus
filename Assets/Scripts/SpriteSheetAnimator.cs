@@ -79,7 +79,7 @@ public class SpriteSheetAnimator : MonoBehaviour
 
     private void Start()
     {
-        if (Application.isPlaying && playOnStart)
+        if (Application.isPlaying && playOnStart && FrameCount > 0)
             Play();
     }
 
@@ -161,6 +161,16 @@ public class SpriteSheetAnimator : MonoBehaviour
             return;
         }
         SetSheet(SortByFrameNumber(loaded), play);
+    }
+
+    /// <summary>Stops and removes all frames, leaving the renderer's current sprite untouched.</summary>
+    public void Clear()
+    {
+        isPlaying = false;
+        frames = Array.Empty<Sprite>();
+        currentFrame = 0;
+        direction = 1;
+        timer = 0f;
     }
 
     public void SetTint(Color color)
@@ -281,21 +291,33 @@ public class SpriteSheetAnimator : MonoBehaviour
     [ContextMenu("Reload Frames From Sheet")]
     private void LoadFramesFromSheet()
     {
-        if (spriteSheet == null) return;
+        Sprite[] sprites = LoadFramesFromTexture(spriteSheet, this);
+        if (sprites.Length == 0) return;
 
-        string path = AssetDatabase.GetAssetPath(spriteSheet);
+        Undo.RecordObject(this, "Load sprite sheet frames");
+        frames = sprites;
+        EditorUtility.SetDirty(this);
+    }
+
+    /// <summary>
+    /// Editor only: returns the sliced sprites of a sprite sheet texture, sorted by frame number.
+    /// Other scripts can use this in their own OnValidate to store frames for builds.
+    /// </summary>
+    public static Sprite[] LoadFramesFromTexture(Texture2D sheet, UnityEngine.Object context = null)
+    {
+        if (sheet == null) return Array.Empty<Sprite>();
+
+        string path = AssetDatabase.GetAssetPath(sheet);
         Sprite[] sprites = AssetDatabase.LoadAllAssetsAtPath(path).OfType<Sprite>().ToArray();
 
         if (sprites.Length == 0)
         {
-            Debug.LogWarning($"[{nameof(SpriteSheetAnimator)}] '{spriteSheet.name}' has no sprites. " +
-                             "Set Texture Type = Sprite, Sprite Mode = Multiple and slice it in the Sprite Editor.", this);
-            return;
+            Debug.LogWarning($"[{nameof(SpriteSheetAnimator)}] '{sheet.name}' has no sprites. " +
+                             "Set Texture Type = Sprite, Sprite Mode = Multiple and slice it in the Sprite Editor.", context);
+            return Array.Empty<Sprite>();
         }
 
-        Undo.RecordObject(this, "Load sprite sheet frames");
-        frames = SortByFrameNumber(sprites);
-        EditorUtility.SetDirty(this);
+        return SortByFrameNumber(sprites);
     }
 #endif
 }

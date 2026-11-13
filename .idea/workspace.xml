@@ -12,11 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d62c9f07-26b0-4a95-a8b5-6299a8878614" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Explanation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Explanation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpellMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpellMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpriteSheetAnimator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpriteSheetAnimator.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,68 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Explanation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteSheetAnimator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000009243" />
+      <entry key="MS500" value="1.0100536150214576" />
+      <entry key="S2" value="1.7580139033186768" />
+      <entry key="S5" value="3.9977709958393874" />
+      <entry key="S10" value="8.080130952391418" />
+      <entry key="S30" value="20.95350916234311" />
+      <entry key="S60" value="31.551476724526005" />
+      <entry key="M2" value="40.310313951663986" />
+      <entry key="M5" value="47.33994656002187" />
+      <entry key="M10" value="50.06125430876386" />
+      <entry key="M15" value="51.015751939044506" />
+      <entry key="M30" value="51.99509399944376" />
+      <entry key="H1" value="52.494305693207075" />
+      <entry key="H2" value="52.74633671806889" />
+      <entry key="H4" value="52.872963596911056" />
+      <entry key="D1" value="52.978798764786866" />
+      <entry key="W1" value="52.99697055330749" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9330329915456128" />
+      <entry key="MS500" value="0.9961892307885535" />
+      <entry key="S2" value="1.7527214948498877" />
+      <entry key="S5" value="3.9935206611736276" />
+      <entry key="S10" value="8.076103189232102" />
+      <entry key="S30" value="20.950078818429553" />
+      <entry key="S60" value="31.54884434561248" />
+      <entry key="M2" value="40.30860658349913" />
+      <entry key="M5" value="47.339135748847326" />
+      <entry key="M10" value="50.060823928282126" />
+      <entry key="M15" value="51.01545916072594" />
+      <entry key="M30" value="51.99494460036516" />
+      <entry key="H1" value="52.494230225632286" />
+      <entry key="H2" value="52.74629879029394" />
+      <entry key="H4" value="52.87294458427714" />
+      <entry key="D1" value="52.978795589222976" />
+      <entry key="W1" value="52.99697009948891" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
