@@ -98,7 +98,7 @@ public class SpellMovement : MonoBehaviour
 
                 Debug.Log("spellCheck -> "+spellCheck);
 
-                if (spellCheck != null)
+                if (spellCheck != null && spellCheck.ValidActivation())
                 {
                     if (spellCheck.spellRequired == spellName){
                         if (spellCheck.linkedObject != null)
