@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GestusPocus/Assets/Scripts/Cutscenes.meta
 guid: 895bb9c4b7be692499985b8dc6c8fdaa
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+========
+guid: b3e23f87ec9398a40bb826a9cafa554e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>>> e71d517871f77c04c1c97f5af73c90123e033dd2:GestusPocus/Assets/Animations/Summer.anim.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 

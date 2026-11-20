@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GestusPocus/Assets/Scripts/Audio.meta
 guid: 894172d0aaeb86e4f8815cae58850245
 folderAsset: yes
 DefaultImporter:
+========
+guid: beb73dbe80fdef842ab263bf0d8e2092
+PrefabImporter:
+>>>>>>>> e71d517871f77c04c1c97f5af73c90123e033dd2:GestusPocus/Assets/Prefabs/Main Camera.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
