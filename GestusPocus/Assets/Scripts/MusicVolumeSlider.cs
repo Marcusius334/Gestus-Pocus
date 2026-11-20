@@ -167,14 +167,14 @@ public class MusicVolumeSlider : MonoBehaviour
 
         // Background panel in the top right corner.
         panel = CreateRect("MusicVolumePanel", canvasGO.transform);
-        panel.anchorMin = new Vector2(1f, 1f);
-        panel.anchorMax = new Vector2(1f, 1f);
-        panel.pivot = new Vector2(1f, 1f);
+        panel.anchorMin = new Vector2(1f, 0.15f);
+        panel.anchorMax = new Vector2(1f, 0.15f);
+        panel.pivot = new Vector2(1f, 0f);
         panel.anchoredPosition = new Vector2(-Margin, -Margin);
         panel.sizeDelta = new Vector2(PanelWidth, PanelHeight);
 
         Image panelImage = panel.gameObject.AddComponent<Image>();
-        panelImage.color = new Color(0f, 0f, 0f, 0.55f);
+        panelImage.color = new Color(0f, 0f, 0f, 1f);
 
         // "Música" label on the left.
         TMP_Text label = CreateText("Label", panel, "Música", TextAlignmentOptions.MidlineLeft);

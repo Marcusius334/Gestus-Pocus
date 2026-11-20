@@ -150,6 +150,7 @@ public class Explanation : MonoBehaviour
         if (spell != null && spell.ExplanationFrames != null && spell.ExplanationFrames.Length > 0)
         {
             thisSprite.color = Color.white;
+            FitAnimationToArea(spell.ExplanationFrames);
             SpriteSheetAnimator animator = GetAnimator();
             animator.FramesPerSecond = spell.ExplanationFps;
             animator.SetSheet(spell.ExplanationFrames);
