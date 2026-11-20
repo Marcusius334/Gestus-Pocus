@@ -24,6 +24,9 @@ public class Owl : MonoBehaviour
 
     private void OnMouseDown()
     {
+        // Clicks on the music volume slider are not for this object.
+        if (MusicVolumeSlider.IsPointerOver()) return;
+
         if(clueCounter >= levelClues.Length){
             clueCounter = levelClues.Length-1;
         }

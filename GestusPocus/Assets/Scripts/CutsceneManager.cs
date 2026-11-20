@@ -78,6 +78,9 @@ public class CutsceneManager : MonoBehaviour
 
     private void OnMouseDown()
     {
+        // Clicks on the music volume slider are not for this object.
+        if (MusicVolumeSlider.IsPointerOver()) return;
+
         if(!exitEnabled){
             exitEnabled = true;
             exit.SetActive(true);

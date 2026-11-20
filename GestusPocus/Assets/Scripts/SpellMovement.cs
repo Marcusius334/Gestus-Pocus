@@ -46,6 +46,9 @@ public class SpellMovement : MonoBehaviour
 
     private void OnMouseDown()
     {
+        // Clicks on the music volume slider are not for this object.
+        if (MusicVolumeSlider.IsPointerOver()) return;
+
         if (mainCamera == null) return;
 
         dragging = true;
