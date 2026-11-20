@@ -53,10 +53,22 @@ public class Explanation : MonoBehaviour
 
         previousGameObject = gameObject;
 
-        StopAnimation();
         SpriteRenderer thisSprite = this.GetComponent<SpriteRenderer>();
-        SpriteRenderer otherSprite = gameObject.GetComponent<SpriteRenderer>();
+        CodexSpells spell = gameObject.GetComponent<CodexSpells>();
 
+        // Spell has a sprite sheet: play it animated.
+        if (spell != null && spell.ExplanationFrames != null && spell.ExplanationFrames.Length > 0)
+        {
+            thisSprite.color = Color.white;
+            SpriteSheetAnimator animator = GetAnimator();
+            animator.FramesPerSecond = spell.ExplanationFps;
+            animator.SetSheet(spell.ExplanationFrames);
+            return;
+        }
+
+        // No sheet: show the spell's static sprite like before.
+        StopAnimation();
+        SpriteRenderer otherSprite = gameObject.GetComponent<SpriteRenderer>();
         thisSprite.sprite = otherSprite.sprite;
         thisSprite.color = otherSprite.color;
     }

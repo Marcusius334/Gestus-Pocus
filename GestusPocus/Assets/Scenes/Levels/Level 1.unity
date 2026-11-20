@@ -1302,10 +1302,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1987089316}
     - target: {fileID: 5740392763296769482, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
-      propertyPath: explanationSheet
-      value: 
-      objectReference: {fileID: 2800000, guid: 22a9c56a139d77647bd6abdc3c7c6291, type: 3}
-    - target: {fileID: 5740392763296769482, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
       propertyPath: loadedExplanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: 22a9c56a139d77647bd6abdc3c7c6291, type: 3}
@@ -1477,10 +1473,6 @@ PrefabInstance:
       propertyPath: errorManager
       value: 
       objectReference: {fileID: 1987089316}
-    - target: {fileID: 8524287116754902068, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
-      propertyPath: explanationSheet
-      value: 
-      objectReference: {fileID: 2800000, guid: 0d26cb7da6a5def4eb8c8f96b67a71aa, type: 3}
     - target: {fileID: 8524287116754902068, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
       propertyPath: loadedExplanationSheet
       value: 

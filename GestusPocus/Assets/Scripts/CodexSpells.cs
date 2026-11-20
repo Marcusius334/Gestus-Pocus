@@ -2,6 +2,19 @@ using UnityEngine;
 
 public class CodexSpells : MonoBehaviour
 {
+    [Header("Explanation animation")]
+    [Tooltip("Sliced sprite sheet shown animated in the Explanation object when this spell is clicked. " +
+             "If empty, the spell's own sprite is shown instead.")]
+    [SerializeField] private Texture2D explanationSheet;
+    [SerializeField] private float explanationFps = 12f;
+    // Frames taken from explanationSheet in the editor, saved so they also work in builds.
+    [SerializeField, HideInInspector] private Sprite[] explanationFrames = new Sprite[0];
+    [SerializeField, HideInInspector] private Texture2D loadedExplanationSheet;
+
+    public Sprite[] ExplanationFrames => explanationFrames;
+    public float ExplanationFps => explanationFps;
+
+    [Header("Managers")]
     public Explanation explanation;
     public bool explaining;
 
@@ -18,4 +31,19 @@ public class CodexSpells : MonoBehaviour
             explanation.ExplainCodex(gameObject);
         }
     }
+#if UNITY_EDITOR
+    private void OnValidate()
+    {
+        if (explanationSheet == null)
+        {
+            explanationFrames = new Sprite[0];
+            loadedExplanationSheet = null;
+        }
+        else if (explanationSheet != loadedExplanationSheet)
+        {
+            explanationFrames = SpriteSheetAnimator.LoadFramesFromTexture(explanationSheet, this);
+            loadedExplanationSheet = explanationSheet;
+        }
+    }
+#endif
 }
