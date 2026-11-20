@@ -30,10 +30,13 @@ public static class GameManager
                 return "Level 1 Cutscene";
             
             case 2:
-                return "Level 2";
+                return "Summer";
             
             case 3:
-                return "Level 3";
+                return "Autumn";
+
+            case 4:
+                return "Winter";
 
             default:
                 Debug.Log("Unknown level");
