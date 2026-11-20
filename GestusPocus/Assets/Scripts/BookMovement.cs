@@ -109,6 +109,5 @@ public class Bookdisplacement : MonoBehaviour
         yield return new WaitForSeconds(0.01f);
 
         owl.disableClueBook();
-    }
-        
+    }   
 }
