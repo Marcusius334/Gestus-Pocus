@@ -7,7 +7,7 @@ public class Timer : MonoBehaviour
     public SceneLoader sceneLoader;
     public string sceneLoad;
 
-    void Awake(){
+    void Start(){
         StartCoroutine(Timeado(duration));
     }
 
