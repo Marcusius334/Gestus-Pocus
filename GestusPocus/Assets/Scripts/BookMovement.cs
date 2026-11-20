@@ -31,6 +31,9 @@ public class Bookdisplacement : MonoBehaviour
 
     private void OnMouseDown()
     {
+        // Clicks on the music volume slider are not for this object.
+        if (MusicVolumeSlider.IsPointerOver()) return;
+
         if(errorManager.bookUses <= 0){
             //Si no quedan usos de libros no hace nada
             return;
