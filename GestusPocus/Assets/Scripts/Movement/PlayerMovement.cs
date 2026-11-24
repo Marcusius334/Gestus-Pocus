@@ -98,8 +98,17 @@ public class PlayerMovement : MonoBehaviour
             case 3:
                 StartCoroutine(Animation3(endPosition));
                 break;
-             case 4:
+            case 4:
                 StartCoroutine(Animation4(endPosition));
+                break;
+            case 5:
+                StartCoroutine(Animation5(endPosition));
+                break;
+            case 6:
+                StartCoroutine(Animation6(endPosition));
+                break;
+            case 7:
+                StartCoroutine(Animation7(endPosition));
                 break;
             default:
                 animating = false;
@@ -185,7 +194,7 @@ public class PlayerMovement : MonoBehaviour
 
         while (elapsedTime < duration2)
         {
-            float t = elapsedTime / duration;
+            float t = elapsedTime / duration2;
 
             transform.position = new Vector3(
                 transform.position.x,
@@ -216,7 +225,7 @@ public class PlayerMovement : MonoBehaviour
         elapsedTime = 0f;
         while (elapsedTime < duration2)
         {
-            float t = elapsedTime / duration;
+            float t = elapsedTime / duration2;
 
             transform.position = new Vector3(
                 transform.position.x,
@@ -251,7 +260,7 @@ public class PlayerMovement : MonoBehaviour
 
         while (elapsedTime < duration2)
         {
-            float t = elapsedTime / duration;
+            float t = elapsedTime / duration2;
 
             transform.position = new Vector3(
                 transform.position.x,
@@ -274,6 +283,110 @@ public class PlayerMovement : MonoBehaviour
                 transform.position.z
             );
 
+
+            elapsedTime += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = endPosition;
+        sprite.color = originalColor;
+        transform.localScale = originalScale;
+        animating = false;
+    }
+
+    private IEnumerator Animation5(Vector3 endPosition)
+    {
+        SpriteRenderer sprite = GetComponent<SpriteRenderer>();
+        Color originalColor = sprite.color;
+        Vector3 originalScale = transform.localScale;
+
+        Vector3 startPosition = transform.position;
+
+        sprite.color = Color.red;
+        transform.localScale = originalScale * 0.5f;
+        transform.localScale = new Vector3(
+                originalScale.x * 1.5f,
+                originalScale.y * 0.75f,
+                originalScale.z
+            );
+
+        float duration1 = 0.5f;
+        float elapsedTime = 0f;
+        
+        while (elapsedTime < duration1)
+        {
+            float t = elapsedTime / duration1;
+
+            transform.position = Vector3.Lerp(startPosition, endPosition, t);
+
+            elapsedTime += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = endPosition;
+        sprite.color = originalColor;
+        transform.localScale = originalScale;
+        animating = false;
+    }
+
+    private IEnumerator Animation6(Vector3 endPosition)
+    {
+        SpriteRenderer sprite = GetComponent<SpriteRenderer>();
+        Color originalColor = sprite.color;
+        Vector3 originalScale = transform.localScale;
+
+        Vector3 startPosition = transform.position;
+
+        sprite.color = Color.yellow;
+        transform.localScale = originalScale * 0.5f;
+        transform.localScale = new Vector3(
+                originalScale.x * 2f,
+                originalScale.y * 1.25f,
+                originalScale.z
+            );
+
+        float duration = 1f;
+        float elapsedTime = 0f;
+        
+        while (elapsedTime < duration)
+        {
+            float t = elapsedTime / duration;
+
+            transform.position = Vector3.Lerp(startPosition, endPosition, t);
+
+            elapsedTime += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = endPosition;
+        sprite.color = originalColor;
+        transform.localScale = originalScale;
+        animating = false;
+    }
+
+    private IEnumerator Animation7(Vector3 endPosition)
+    {
+        SpriteRenderer sprite = GetComponent<SpriteRenderer>();
+        Color originalColor = sprite.color;
+        Vector3 originalScale = transform.localScale;
+
+        Vector3 startPosition = transform.position;
+
+        sprite.color = Color.magenta;
+        transform.localScale = new Vector3(
+                originalScale.x * 1.25f,
+                originalScale.y * 0.5f,
+                originalScale.z
+            );
+
+        float duration = 1f;
+        float elapsedTime = 0f;
+        
+        while (elapsedTime < duration)
+        {
+            float t = elapsedTime / duration;
+
+            transform.position = Vector3.Lerp(startPosition, endPosition, t);
 
             elapsedTime += Time.deltaTime;
             yield return null;
