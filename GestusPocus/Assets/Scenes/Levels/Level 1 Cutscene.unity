@@ -5380,7 +5380,7 @@ MonoBehaviour:
   speedDecrement: 0.5
   exit: {fileID: 699930595}
   sceneLoader: {fileID: 1938739336}
-  sceneLoad: Level 1
+  sceneLoad: Spring
 --- !u!61 &1886209574
 BoxCollider2D:
   m_ObjectHideFlags: 0

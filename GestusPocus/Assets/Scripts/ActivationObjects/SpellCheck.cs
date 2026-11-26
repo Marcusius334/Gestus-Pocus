@@ -6,6 +6,7 @@ public class SpellCheck : MonoBehaviour
     public string spellRequired;
     public GameObject linkedGameObject;
     public LinkedObject linkedObject;
+    public int numberPuzzle;
 
     [Header("Owl")]
     public Owl owl;
@@ -18,7 +19,11 @@ public class SpellCheck : MonoBehaviour
     public void ActivateSpell(){
         owl.clueCounter++;
         linkedObject.ActivateSpell();
-        Destroy(gameObject);
+        Destroy(gameObject);    
+    }
+
+    public bool ValidActivation(){
+        return owl.clueCounter == numberPuzzle;
     }
     
 }
