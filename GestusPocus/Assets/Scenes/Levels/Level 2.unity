@@ -4332,7 +4332,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2808762751258989589, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3756649319983090595, guid: d3d2c40261a9d0e4e9a8415139fbba17, type: 3}
       propertyPath: m_Name
@@ -4802,6 +4802,18 @@ PrefabInstance:
       propertyPath: audioManager
       value: 
       objectReference: {fileID: 84232677}
+    - target: {fileID: 1364584012950864267, guid: 3ab58c14f5b5d7a418db30f04b4b7297, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 7687370606936794b94477cf2280f5f3, type: 2}
+    - target: {fileID: 1364584012950864267, guid: 3ab58c14f5b5d7a418db30f04b4b7297, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1364584012950864267, guid: 3ab58c14f5b5d7a418db30f04b4b7297, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7051720459289588780, guid: 3ab58c14f5b5d7a418db30f04b4b7297, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.33
