@@ -1,6 +1,4 @@
-using System.Text.RegularExpressions;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 /// <summary>
 /// Animates the mage (Idle, Run, Jump) with the sprite sheet of the current level:
@@ -215,18 +213,7 @@ public class MageAnimator : MonoBehaviour
     /// <summary>Sheet for this level: forced level, else "Level N" scene name, else the level chosen in the menu.</summary>
     private Texture2D ChooseSheet()
     {
-        int level = forceLevel;
-
-        if (level == 0)
-        {
-            Match match = Regex.Match(SceneManager.GetActiveScene().name, @"^Level\s*(\d+)$");
-            level = match.Success ? int.Parse(match.Groups[1].Value) : GameManager.actualLevel;
-        }
-
-        if (levelSheets == null || levelSheets.Length == 0) return null;
-
-        int index = Mathf.Clamp(level, 1, levelSheets.Length) - 1;
-        return levelSheets[index];
+        return LevelSheets.Choose(levelSheets, forceLevel);
     }
 
     private void BuildFrames(Texture2D sheet)
