@@ -193,16 +193,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1254805993259577132, guid: 459305e224ac23347927a2d3003b996b, type: 3}
     - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
-      propertyPath: m_Color.b
-      value: 1
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2773160150633372885, guid: 459305e224ac23347927a2d3003b996b, type: 3}
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.2
       objectReference: {fileID: 0}
-    - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
-      propertyPath: m_Color.g
-      value: 0.765115
-      objectReference: {fileID: 0}
-    - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
-      propertyPath: m_Color.r
-      value: 0
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 3.45
       objectReference: {fileID: 0}
     - target: {fileID: 7330555554071651260, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
       propertyPath: m_Name

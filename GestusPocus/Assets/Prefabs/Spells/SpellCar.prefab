@@ -180,6 +180,18 @@ PrefabInstance:
       propertyPath: 'explanationFrames.Array.data[38]'
       value: 
       objectReference: {fileID: 4406287627681177515, guid: f43b17029132a7b4ca53de9f9415755c, type: 3}
+    - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2182108111774519268, guid: f43b17029132a7b4ca53de9f9415755c, type: 3}
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.8000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 3.48
+      objectReference: {fileID: 0}
     - target: {fileID: 7330555554071651260, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
       propertyPath: m_Name
       value: SpellCar
