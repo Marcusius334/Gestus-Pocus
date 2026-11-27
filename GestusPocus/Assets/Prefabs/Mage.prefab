@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   speed: 5
-  jumpSpeed: 5.5
+  jumpSpeed: 8
   sceneLoader: {fileID: 0}
   audioManager: {fileID: 0}
 --- !u!114 &7323989726830420089
@@ -375,7 +375,7 @@ MonoBehaviour:
     level: 3
     sheet: {fileID: 2800000, guid: bf0664b8dd1e8c54d9f1e35c124f54ff, type: 3}
     sheetSize: {x: 2172, y: 724}
-    height: 2.0
+    height: 2
     framesPerSecond: 12
     slotWidth: 362
     frameEdges:

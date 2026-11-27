@@ -2521,39 +2521,39 @@ PrefabInstance:
       objectReference: {fileID: 1987089316}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: levelClues.Array.size
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[0]'
-      value: 
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[1]'
-      value: "F\xEDjate en el reloj"
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[2]'
-      value: 1 hora?
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[3]'
-      value: "F\xEDjate en el reloj"
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[4]'
-      value: 5 minutos?
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[5]'
-      value: "F\xEDjate en el reloj"
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[6]'
-      value: 10 segundos?
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4253756726711388575, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: 'levelClues.Array.data[7]'
-      value: "F\xEDjate en el reloj"
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6399875215519033137, guid: 50d961e2009d1684484aca1458e787c4, type: 3}
       propertyPath: m_LocalPosition.x

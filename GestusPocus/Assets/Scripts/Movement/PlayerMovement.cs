@@ -270,8 +270,8 @@ public class PlayerMovement : MonoBehaviour
         sprite.color = Color.white;
         transform.localScale = originalScale * 0.5f;
 
-        float duration = 1f;
-        float duration2 = 1f;
+        float duration = 0.75f;
+        float duration2 = 2f;
         float elapsedTime = 0f;
 
         while (elapsedTime < duration2)
