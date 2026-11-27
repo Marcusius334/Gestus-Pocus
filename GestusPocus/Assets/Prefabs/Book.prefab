@@ -142,11 +142,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bookdisplacement
   duration: 0.3
-  displacement: 8
+  displacement: 7.5
   layerNames:
   - SpellCheck
   - Owl
   errorManager: {fileID: 0}
+  audioManager: {fileID: 0}
 --- !u!61 &9063448407630468731
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -176,13 +176,17 @@ PrefabInstance:
       propertyPath: 'explanationFrames.Array.data[37]'
       value: 
       objectReference: {fileID: -2718772066584343281, guid: 879d6f29bca4cf2408a642fdf74261a8, type: 3}
-    - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
-      propertyPath: m_Color.b
-      value: 0.906317
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
       objectReference: {fileID: 0}
-    - target: {fileID: 2102638815533427206, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
-      propertyPath: m_Color.g
-      value: 0
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 7019740782967746940, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 7330555554071651260, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
       propertyPath: m_Name

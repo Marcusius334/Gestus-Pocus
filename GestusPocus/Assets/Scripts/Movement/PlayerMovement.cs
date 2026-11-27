@@ -71,8 +71,12 @@ public class PlayerMovement : MonoBehaviour
             if(GameManager.levelsUnlocked == GameManager.actualLevel){
                 GameManager.UnlockLevel();
             }
-
-            sceneLoader.LoadScene("Win");
+            if(GameManager.actualLevel==4){
+                sceneLoader.LoadScene("Complete");
+            }else{
+                sceneLoader.LoadScene("Win");
+            }
+            
         }
     }
 
@@ -278,7 +282,7 @@ public class PlayerMovement : MonoBehaviour
             float t = elapsedTime / duration;
 
             transform.position = new Vector3(
-                Mathf.Lerp(startPosition.x, endPosition.x, t),
+                Mathf.Lerp(transform.position.x, endPosition.x, t),
                 endPosition.y,
                 transform.position.z
             );

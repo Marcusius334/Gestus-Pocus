@@ -18,12 +18,18 @@ public class SpellMovement : MonoBehaviour
              "If empty, the spell's own sprite is shown instead.")]
     [SerializeField] private Texture2D explanationSheet;
     [SerializeField] private float explanationFps = 12f;
+    [Tooltip("Spanish name of the sign, shown in the book to the left of the animation. " +
+             "If empty, it is taken from the sprite sheet name (e.g. caracol_sheet -> Caracol).")]
+    [SerializeField] private string signName;
     // Frames taken from explanationSheet in the editor, saved so they also work in builds.
     [SerializeField, HideInInspector] private Sprite[] explanationFrames = new Sprite[0];
     [SerializeField, HideInInspector] private Texture2D loadedExplanationSheet;
 
     public Sprite[] ExplanationFrames => explanationFrames;
     public float ExplanationFps => explanationFps;
+    public string SignName => !string.IsNullOrWhiteSpace(signName)
+        ? signName.Trim()
+        : SignNames.FromSheet(explanationSheet, explanationFrames);
 
     [Header("Managers")]
     public ErrorsManager errorManager;
