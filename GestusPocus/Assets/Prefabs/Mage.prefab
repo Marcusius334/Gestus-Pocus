@@ -104,6 +104,7 @@ GameObject:
   - component: {fileID: 1364584012950864267}
   - component: {fileID: 4650916238777511699}
   - component: {fileID: -6068690695394378830}
+  - component: {fileID: 7323989726830420089}
   m_Layer: 0
   m_Name: Mage
   m_TagString: Untagged
@@ -177,7 +178,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0, g: 0.5079991, b: 0.5471698, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -203,16 +204,16 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7687370606936794b94477cf2280f5f3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!70 &4650916238777511699
 CapsuleCollider2D:
@@ -264,4 +265,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   speed: 5
-  jumpSpeed: 7.5
+  jumpSpeed: 5.5
+  sceneLoader: {fileID: 0}
+  audioManager: {fileID: 0}
+--- !u!114 &7323989726830420089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992620851814302935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b030f60df5614619aefb97bf7adc942c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MageAnimator
+  levelSheets:
+  - {fileID: 2800000, guid: 05515dec2405f93408371b510134fd2b, type: 3}
+  - {fileID: 2800000, guid: 6f520fcaabd3c624589a5a16fd935b82, type: 3}
+  - {fileID: 2800000, guid: be1d7f51f78ced5488165e5a966f9280, type: 3}
+  - {fileID: 2800000, guid: 80a7e1de530cc6e479bfd2d35cd0ca53, type: 3}
+  forceLevel: 0
+  characterHeight: 2.3
+  runFps: 12
+  idleOpenTime: 1.2
+  blinkTime: 0.15
+  landingTime: 0.12
+  runSpeedThreshold: 0.1
+  jumpApexSpeed: 2

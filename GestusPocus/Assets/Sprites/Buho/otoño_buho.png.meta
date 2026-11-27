@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: b2ce80d7db9e0294d861d97cd7b901e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -597867077011898322
+    second: "oto\xF1o_buho_0"
+  - first:
+      213: 4866194897001907826
+    second: "oto\xF1o_buho_1"
+  - first:
+      213: -3986348226498545019
+    second: "oto\xF1o_buho_2"
+  - first:
+      213: 2481081062507034631
+    second: "oto\xF1o_buho_3"
+  - first:
+      213: 3339221290520970054
+    second: "oto\xF1o_buho_4"
+  - first:
+      213: -283424134423780860
+    second: "oto\xF1o_buho_5"
+  - first:
+      213: 5858539715474820593
+    second: "oto\xF1o_buho_6"
+  - first:
+      213: 8317796652500208283
+    second: "oto\xF1o_buho_7"
+  - first:
+      213: -271798185359084877
+    second: "oto\xF1o_buho_8"
+  - first:
+      213: 7962831372420952948
+    second: "oto\xF1o_buho_9"
+  - first:
+      213: 2561888297669511542
+    second: "oto\xF1o_buho_10"
+  - first:
+      213: -8024780202694375810
+    second: "oto\xF1o_buho_11"
+  - first:
+      213: 6104167293009297238
+    second: "oto\xF1o_buho_12"
+  - first:
+      213: 7265364931650420097
+    second: "oto\xF1o_buho_13"
+  - first:
+      213: -3414593946886007553
+    second: "oto\xF1o_buho_14"
+  - first:
+      213: -3428516972910361307
+    second: "oto\xF1o_buho_15"
+  - first:
+      213: -3859259316298494096
+    second: "oto\xF1o_buho_16"
+  - first:
+      213: 705022626772947229
+    second: "oto\xF1o_buho_17"
+  - first:
+      213: 2326692300660501454
+    second: "oto\xF1o_buho_18"
+  - first:
+      213: -1105345149445153442
+    second: "oto\xF1o_buho_19"
+  - first:
+      213: 3423323196105449311
+    second: "oto\xF1o_buho_20"
+  - first:
+      213: 1618051765116499962
+    second: "oto\xF1o_buho_21"
+  - first:
+      213: -3150711435603585513
+    second: "oto\xF1o_buho_22"
+  - first:
+      213: -2317406499738515322
+    second: "oto\xF1o_buho_23"
+  - first:
+      213: 1169819191417114977
+    second: "oto\xF1o_buho_24"
+  - first:
+      213: 1024681955595306397
+    second: "oto\xF1o_buho_25"
+  - first:
+      213: -2345506115079283624
+    second: "oto\xF1o_buho_26"
+  - first:
+      213: 2786104736859130405
+    second: "oto\xF1o_buho_27"
+  - first:
+      213: -4953516357221093000
+    second: "oto\xF1o_buho_28"
+  - first:
+      213: -2765912134521956541
+    second: "oto\xF1o_buho_29"
+  - first:
+      213: 4909106242477857533
+    second: "oto\xF1o_buho_30"
+  - first:
+      213: -1006523467184259845
+    second: "oto\xF1o_buho_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 576
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200ec3af03f3b7f0800000000000000
+      internalID: -597867077011898322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_1"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 516
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760e930a72388340800000000000000
+      internalID: 4866194897001907826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_2"
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 659
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58abb889865ada8c0800000000000000
+      internalID: -3986348226498545019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_3"
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 618
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7083eadb4129e6220800000000000000
+      internalID: 2481081062507034631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_4"
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 701
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438cef521c475e20800000000000000
+      internalID: 3339221290520970054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_5"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e5ea5043111cf0800000000000000
+      internalID: -283424134423780860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_6"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0563d4d6bd4150800000000000000
+      internalID: 5858539715474820593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_7"
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 681
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a45326cffbe6370800000000000000
+      internalID: 8317796652500208283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_8"
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 51
+        width: 500
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2731f8df06a3cf0800000000000000
+      internalID: -271798185359084877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_9"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 661
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473bc7fb1f8a18e60800000000000000
+      internalID: 7962831372420952948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_10"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 640
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67942d055d7ad8320800000000000000
+      internalID: 2561888297669511542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_11"
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 640
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7680d93ce042a090800000000000000
+      internalID: -8024780202694375810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_12"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 620
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f706dcfcb56b450800000000000000
+      internalID: 6104167293009297238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_13"
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 577
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7a9a69e2c3d460800000000000000
+      internalID: 7265364931650420097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_14"
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 128
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff419a785ecec90d0800000000000000
+      internalID: -3414593946886007553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_15"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 55
+        width: 211
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525c74b6af57b60d0800000000000000
+      internalID: -3428516972910361307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_16"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 130
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f49eb5918217ac0800000000000000
+      internalID: -3859259316298494096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_17"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 53
+        width: 251
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111a6bf75eb8c900800000000000000
+      internalID: 705022626772947229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_18"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 102
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6182f1521a4020800000000000000
+      internalID: 2326692300660501454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_19"
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 110
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dde15617609a0f0800000000000000
+      internalID: -1105345149445153442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_20"
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 59
+        width: 198
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f583f2f46128f20800000000000000
+      internalID: 3423323196105449311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_21"
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 15
+        width: 256
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af776ffe189747610800000000000000
+      internalID: 1618051765116499962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_22"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 49
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716561b74ac6644d0800000000000000
+      internalID: -3150711435603585513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_23"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68887ee011be6dfd0800000000000000
+      internalID: -2317406499738515322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_24"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1611adb4b580c3010800000000000000
+      internalID: 1169819191417114977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_25"
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95c2034fc6683e00800000000000000
+      internalID: 1024681955595306397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_26"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 95
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c51388d96137fd0800000000000000
+      internalID: -2345506115079283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_27"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a858b2f7b3aa620800000000000000
+      internalID: 2786104736859130405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_28"
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871ffb23e13914bb0800000000000000
+      internalID: -4953516357221093000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_29"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34750ed61918d99d0800000000000000
+      internalID: -2765912134521956541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_30"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa9b833e16a02440800000000000000
+      internalID: 4909106242477857533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "oto\xF1o_buho_31"
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc33684d3c1802f0800000000000000
+      internalID: -1006523467184259845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "oto\xF1o_buho_0": -597867077011898322
+      "oto\xF1o_buho_1": 4866194897001907826
+      "oto\xF1o_buho_10": 2561888297669511542
+      "oto\xF1o_buho_11": -8024780202694375810
+      "oto\xF1o_buho_12": 6104167293009297238
+      "oto\xF1o_buho_13": 7265364931650420097
+      "oto\xF1o_buho_14": -3414593946886007553
+      "oto\xF1o_buho_15": -3428516972910361307
+      "oto\xF1o_buho_16": -3859259316298494096
+      "oto\xF1o_buho_17": 705022626772947229
+      "oto\xF1o_buho_18": 2326692300660501454
+      "oto\xF1o_buho_19": -1105345149445153442
+      "oto\xF1o_buho_2": -3986348226498545019
+      "oto\xF1o_buho_20": 3423323196105449311
+      "oto\xF1o_buho_21": 1618051765116499962
+      "oto\xF1o_buho_22": -3150711435603585513
+      "oto\xF1o_buho_23": -2317406499738515322
+      "oto\xF1o_buho_24": 1169819191417114977
+      "oto\xF1o_buho_25": 1024681955595306397
+      "oto\xF1o_buho_26": -2345506115079283624
+      "oto\xF1o_buho_27": 2786104736859130405
+      "oto\xF1o_buho_28": -4953516357221093000
+      "oto\xF1o_buho_29": -2765912134521956541
+      "oto\xF1o_buho_3": 2481081062507034631
+      "oto\xF1o_buho_30": 4909106242477857533
+      "oto\xF1o_buho_31": -1006523467184259845
+      "oto\xF1o_buho_4": 3339221290520970054
+      "oto\xF1o_buho_5": -283424134423780860
+      "oto\xF1o_buho_6": 5858539715474820593
+      "oto\xF1o_buho_7": 8317796652500208283
+      "oto\xF1o_buho_8": -271798185359084877
+      "oto\xF1o_buho_9": 7962831372420952948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

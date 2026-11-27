@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 80a7e1de530cc6e479bfd2d35cd0ca53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8288887198470354929
+    second: invierno_mago_0
+  - first:
+      213: 736689493966456460
+    second: invierno_mago_1
+  - first:
+      213: 6124384895377936661
+    second: invierno_mago_2
+  - first:
+      213: 6000715101203614832
+    second: invierno_mago_3
+  - first:
+      213: -7618274200948568254
+    second: invierno_mago_4
+  - first:
+      213: -5711387419263304534
+    second: invierno_mago_5
+  - first:
+      213: 7101428552004433387
+    second: invierno_mago_6
+  - first:
+      213: 2933639168265638719
+    second: invierno_mago_7
+  - first:
+      213: -4360169776170042551
+    second: invierno_mago_8
+  - first:
+      213: -5427819210780374800
+    second: invierno_mago_9
+  - first:
+      213: -5808341190938289606
+    second: invierno_mago_10
+  - first:
+      213: -1648361552740883449
+    second: invierno_mago_11
+  - first:
+      213: -4932391133278198736
+    second: invierno_mago_12
+  - first:
+      213: 7690108985270143876
+    second: invierno_mago_13
+  - first:
+      213: -6627104867026395706
+    second: invierno_mago_14
+  - first:
+      213: -8743230252378424015
+    second: invierno_mago_15
+  - first:
+      213: 4420835973498034624
+    second: invierno_mago_16
+  - first:
+      213: 6449189302496297752
+    second: invierno_mago_17
+  - first:
+      213: -3281521274268427150
+    second: invierno_mago_18
+  - first:
+      213: -3358935459027667734
+    second: invierno_mago_19
+  - first:
+      213: 7660283977117016015
+    second: invierno_mago_20
+  - first:
+      213: -5981695891012261608
+    second: invierno_mago_21
+  - first:
+      213: 3775861181421089986
+    second: invierno_mago_22
+  - first:
+      213: 844471411988968101
+    second: invierno_mago_23
+  - first:
+      213: 8513765641151437818
+    second: invierno_mago_24
+  - first:
+      213: -6450747422338462946
+    second: invierno_mago_25
+  - first:
+      213: 9093078846338689400
+    second: invierno_mago_26
+  - first:
+      213: 654201990315940594
+    second: invierno_mago_27
+  - first:
+      213: -9215933716210869854
+    second: invierno_mago_28
+  - first:
+      213: 6137353624331483884
+    second: invierno_mago_29
+  - first:
+      213: 221275086896271264
+    second: invierno_mago_30
+  - first:
+      213: 1450177075602241478
+    second: invierno_mago_31
+  - first:
+      213: 1194906349140790905
+    second: invierno_mago_32
+  - first:
+      213: 4476948006711708375
+    second: invierno_mago_33
+  - first:
+      213: 5261607999299951043
+    second: invierno_mago_34
+  - first:
+      213: -783644144023848009
+    second: invierno_mago_35
+  - first:
+      213: -183031241069362863
+    second: invierno_mago_36
+  - first:
+      213: 526486012480129446
+    second: invierno_mago_37
+  - first:
+      213: -6699986407505904280
+    second: invierno_mago_38
+  - first:
+      213: -8452136663914628006
+    second: invierno_mago_39
+  - first:
+      213: -5479207528263307411
+    second: invierno_mago_40
+  - first:
+      213: -6100065189190500783
+    second: invierno_mago_41
+  - first:
+      213: -7997440809503046177
+    second: invierno_mago_42
+  - first:
+      213: -8452229719025602245
+    second: invierno_mago_43
+  - first:
+      213: -5390462560797585533
+    second: invierno_mago_44
+  - first:
+      213: 1478180311026392686
+    second: invierno_mago_45
+  - first:
+      213: 3268476595316791304
+    second: invierno_mago_46
+  - first:
+      213: -1388791234767418826
+    second: invierno_mago_47
+  - first:
+      213: -6613624901259536225
+    second: invierno_mago_48
+  - first:
+      213: 1751351751848720333
+    second: invierno_mago_49
+  - first:
+      213: 3814200125821015930
+    second: invierno_mago_50
+  - first:
+      213: 4841370524966362042
+    second: invierno_mago_51
+  - first:
+      213: -3863313434944901861
+    second: invierno_mago_52
+  - first:
+      213: -6423432779835963526
+    second: invierno_mago_53
+  - first:
+      213: -1327177125613456919
+    second: invierno_mago_54
+  - first:
+      213: 3059494937574841187
+    second: invierno_mago_55
+  - first:
+      213: -7780969305518516163
+    second: invierno_mago_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: invierno_mago_0
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 554
+        width: 13
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0844e76205f7fc80800000000000000
+      internalID: -8288887198470354929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 627
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8602ad013f393a00800000000000000
+      internalID: 736689493966456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 627
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51115cc2d9f2ef450800000000000000
+      internalID: 6124384895377936661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 627
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c40956792d64350800000000000000
+      internalID: 6000715101203614832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23396664a28bb00800000000000000
+      internalID: 844471411988968101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e2a6980b113e70800000000000000
+      internalID: 9093078846338689400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_27
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa922c7e31341900800000000000000
+      internalID: 654201990315940594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_29
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafb3faa924c2550800000000000000
+      internalID: 6137353624331483884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8818e480221300800000000000000
+      internalID: 221275086896271264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_31
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 353
+        width: 220
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7bfaced50102410800000000000000
+      internalID: 1450177075602241478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 45
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac1f10e70512e30800000000000000
+      internalID: 4476948006711708375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_34
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 45
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c990a1299cf40940800000000000000
+      internalID: 5261607999299951043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 45
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a907192d347e4700800000000000000
+      internalID: 526486012480129446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_38
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 45
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3aa44cddd403a0800000000000000
+      internalID: -6699986407505904280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_mago_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 45
+        width: 240
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e54b0492d838410800000000000000
+      internalID: 1478180311026392686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de8fdb24e516d75498bb02800af3ebc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      invierno_mago_0: -8288887198470354929
+      invierno_mago_1: 736689493966456460
+      invierno_mago_10: -5808341190938289606
+      invierno_mago_11: -1648361552740883449
+      invierno_mago_12: -4932391133278198736
+      invierno_mago_13: 7690108985270143876
+      invierno_mago_14: -6627104867026395706
+      invierno_mago_15: -8743230252378424015
+      invierno_mago_16: 4420835973498034624
+      invierno_mago_17: 6449189302496297752
+      invierno_mago_18: -3281521274268427150
+      invierno_mago_19: -3358935459027667734
+      invierno_mago_2: 6124384895377936661
+      invierno_mago_20: 7660283977117016015
+      invierno_mago_21: -5981695891012261608
+      invierno_mago_22: 3775861181421089986
+      invierno_mago_23: 844471411988968101
+      invierno_mago_24: 8513765641151437818
+      invierno_mago_25: -6450747422338462946
+      invierno_mago_26: 9093078846338689400
+      invierno_mago_27: 654201990315940594
+      invierno_mago_28: -9215933716210869854
+      invierno_mago_29: 6137353624331483884
+      invierno_mago_3: 6000715101203614832
+      invierno_mago_30: 221275086896271264
+      invierno_mago_31: 1450177075602241478
+      invierno_mago_32: 1194906349140790905
+      invierno_mago_33: 4476948006711708375
+      invierno_mago_34: 5261607999299951043
+      invierno_mago_35: -783644144023848009
+      invierno_mago_36: -183031241069362863
+      invierno_mago_37: 526486012480129446
+      invierno_mago_38: -6699986407505904280
+      invierno_mago_39: -8452136663914628006
+      invierno_mago_4: -7618274200948568254
+      invierno_mago_40: -5479207528263307411
+      invierno_mago_41: -6100065189190500783
+      invierno_mago_42: -7997440809503046177
+      invierno_mago_43: -8452229719025602245
+      invierno_mago_44: -5390462560797585533
+      invierno_mago_45: 1478180311026392686
+      invierno_mago_46: 3268476595316791304
+      invierno_mago_47: -1388791234767418826
+      invierno_mago_48: -6613624901259536225
+      invierno_mago_49: 1751351751848720333
+      invierno_mago_5: -5711387419263304534
+      invierno_mago_50: 3814200125821015930
+      invierno_mago_51: 4841370524966362042
+      invierno_mago_52: -3863313434944901861
+      invierno_mago_53: -6423432779835963526
+      invierno_mago_54: -1327177125613456919
+      invierno_mago_55: 3059494937574841187
+      invierno_mago_56: -7780969305518516163
+      invierno_mago_6: 7101428552004433387
+      invierno_mago_7: 2933639168265638719
+      invierno_mago_8: -4360169776170042551
+      invierno_mago_9: -5427819210780374800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: fea3efe31a41d954c883b14bd7791dda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3745062989931113371
+    second: primavera_buho_0
+  - first:
+      213: 911992625616113790
+    second: primavera_buho_1
+  - first:
+      213: 6370972111751308047
+    second: primavera_buho_2
+  - first:
+      213: 8471015417921310793
+    second: primavera_buho_3
+  - first:
+      213: 7409696986024702250
+    second: primavera_buho_4
+  - first:
+      213: 900813639513101162
+    second: primavera_buho_5
+  - first:
+      213: 6703189932040870053
+    second: primavera_buho_6
+  - first:
+      213: -6818943231802150853
+    second: primavera_buho_7
+  - first:
+      213: -1236673655549916472
+    second: primavera_buho_8
+  - first:
+      213: 1034710919257640249
+    second: primavera_buho_9
+  - first:
+      213: 4891516691391238588
+    second: primavera_buho_10
+  - first:
+      213: -4571044698749462529
+    second: primavera_buho_11
+  - first:
+      213: -73605065211670490
+    second: primavera_buho_12
+  - first:
+      213: -4456952979682686139
+    second: primavera_buho_13
+  - first:
+      213: 8195769085680914256
+    second: primavera_buho_14
+  - first:
+      213: 7168795156320618592
+    second: primavera_buho_15
+  - first:
+      213: -5708579548895010997
+    second: primavera_buho_16
+  - first:
+      213: 2147052152327034651
+    second: primavera_buho_17
+  - first:
+      213: -4054410683900851246
+    second: primavera_buho_18
+  - first:
+      213: -696363975815783934
+    second: primavera_buho_19
+  - first:
+      213: -103658503905215645
+    second: primavera_buho_20
+  - first:
+      213: 1330515731598594532
+    second: primavera_buho_21
+  - first:
+      213: 3594379259079084530
+    second: primavera_buho_22
+  - first:
+      213: -555862122197394886
+    second: primavera_buho_23
+  - first:
+      213: -4270655605387712228
+    second: primavera_buho_24
+  - first:
+      213: 3563137326239284780
+    second: primavera_buho_25
+  - first:
+      213: 1533209215485903415
+    second: primavera_buho_26
+  - first:
+      213: -6413475944954542567
+    second: primavera_buho_27
+  - first:
+      213: 3013063901564283919
+    second: primavera_buho_28
+  - first:
+      213: 6959345737974586670
+    second: primavera_buho_29
+  - first:
+      213: 5107451631796566314
+    second: primavera_buho_30
+  - first:
+      213: 3987951099028440110
+    second: primavera_buho_31
+  - first:
+      213: -2069498728674442318
+    second: primavera_buho_32
+  - first:
+      213: -499785459062914915
+    second: primavera_buho_33
+  - first:
+      213: 2811167541197314537
+    second: primavera_buho_34
+  - first:
+      213: 1643985120805435514
+    second: primavera_buho_35
+  - first:
+      213: 1683934698211820077
+    second: primavera_buho_36
+  - first:
+      213: -5719162848338430858
+    second: primavera_buho_37
+  - first:
+      213: 102173409392611401
+    second: primavera_buho_38
+  - first:
+      213: -6864279661006582899
+    second: primavera_buho_39
+  - first:
+      213: -774944393001657944
+    second: primavera_buho_40
+  - first:
+      213: -5613834225023785972
+    second: primavera_buho_41
+  - first:
+      213: -7820970147517420660
+    second: primavera_buho_42
+  - first:
+      213: 6401141302224893551
+    second: primavera_buho_43
+  - first:
+      213: 4140683320111289745
+    second: primavera_buho_44
+  - first:
+      213: 3298092818132765794
+    second: primavera_buho_45
+  - first:
+      213: -567738166427376234
+    second: primavera_buho_46
+  - first:
+      213: -7326491618369099351
+    second: primavera_buho_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_buho_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 532
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56491b78d0dd60cc0800000000000000
+      internalID: -3745062989931113371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 95
+        width: 590
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70df97067c08ac00800000000000000
+      internalID: 911992625616113790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 570
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f036bda716d3a6850800000000000000
+      internalID: 6370972111751308047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 94
+        width: 530
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9409e0824a71f8570800000000000000
+      internalID: 8471015417921310793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_4
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 23
+        width: 530
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21f849862884d660800000000000000
+      internalID: 7409696986024702250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 466
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6351008b35508c00800000000000000
+      internalID: 900813639513101162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_6
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 214
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a855496ab3860d50800000000000000
+      internalID: 6703189932040870053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_7
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 232
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f0ec424f3e51a0800000000000000
+      internalID: -6818943231802150853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_8
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 125
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0dd9ccd376dee0800000000000000
+      internalID: -1236673655549916472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_9
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 160
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc19359180c5e00800000000000000
+      internalID: 1034710919257640249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_10
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 162
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1d443b38822e340800000000000000
+      internalID: 4891516691391238588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71b9e90136090c0800000000000000
+      internalID: -4571044698749462529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 129
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620936a45908afef0800000000000000
+      internalID: -73605065211670490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 27
+        width: 234
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b056101e8b522c0800000000000000
+      internalID: -4456952979682686139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_14
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 39
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f83257f883db170800000000000000
+      internalID: 8195769085680914256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_15
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 49
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0680808763dac7360800000000000000
+      internalID: 7168795156320618592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_16
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 128
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9d08452d07c0b0800000000000000
+      internalID: -5708579548895010997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 128
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d0b59e8cdbcd10800000000000000
+      internalID: 2147052152327034651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8a84d6f6dbb7c0800000000000000
+      internalID: -4054410683900851246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 253
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a1f1b47a40656f0800000000000000
+      internalID: -696363975815783934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 71
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bf7c0d32bbf8ef0800000000000000
+      internalID: -103658503905215645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 59
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d00e2201f67210800000000000000
+      internalID: 1330515731598594532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_22
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9c07d64ecc1e130800000000000000
+      internalID: 3594379259079084530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a545e485e2948f0800000000000000
+      internalID: -555862122197394886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_24
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a5d29a559bb4c0800000000000000
+      internalID: -4270655605387712228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_25
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 91
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e7d68158ec27130800000000000000
+      internalID: 3563137326239284780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_26
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 39
+        width: 232
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732846f78ad074510800000000000000
+      internalID: 1533209215485903415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_27
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c87dab91cef6a0800000000000000
+      internalID: -6413475944954542567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_28
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 49
+        width: 260
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0caa4297ad80d920800000000000000
+      internalID: 3013063901564283919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d9a159310949060800000000000000
+      internalID: 6959345737974586670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2939bcd23051e640800000000000000
+      internalID: 5107451631796566314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_31
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24083f356c085730800000000000000
+      internalID: 3987951099028440110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 59
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3cc36fed9a743e0800000000000000
+      internalID: -2069498728674442318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_33
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 27
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9046a0e5c76019f0800000000000000
+      internalID: -499785459062914915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_34
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e99c290cf5430720800000000000000
+      internalID: 2811167541197314537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_35
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 93
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b2a5d1cb90d610800000000000000
+      internalID: 1643985120805435514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_36
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 96
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ced7afa98e5710800000000000000
+      internalID: 1683934698211820077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_37
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 93
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743d2cd0b371a0b0800000000000000
+      internalID: -5719162848338430858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_38
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 94
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940565cac2efa6100800000000000000
+      internalID: 102173409392611401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_39
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 77
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b83ce440e2db0a0800000000000000
+      internalID: -6864279661006582899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_40
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9947e2e28de35f0800000000000000
+      internalID: -774944393001657944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_41
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e6850487a712b0800000000000000
+      internalID: -5613834225023785972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_42
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 21
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b2a4e8615567390800000000000000
+      internalID: -7820970147517420660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_43
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 53
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f663234891c65d850800000000000000
+      internalID: 6401141302224893551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 25
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955e969a89a67930800000000000000
+      internalID: 4140683320111289745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_45
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c021da1fd25cd20800000000000000
+      internalID: 3298092818132765794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_46
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 37
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952aa8452dfe18f0800000000000000
+      internalID: -567738166427376234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_buho_47
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 39
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ab35c0b2135a90800000000000000
+      internalID: -7326491618369099351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_buho_0: -3745062989931113371
+      primavera_buho_1: 911992625616113790
+      primavera_buho_10: 4891516691391238588
+      primavera_buho_11: -4571044698749462529
+      primavera_buho_12: -73605065211670490
+      primavera_buho_13: -4456952979682686139
+      primavera_buho_14: 8195769085680914256
+      primavera_buho_15: 7168795156320618592
+      primavera_buho_16: -5708579548895010997
+      primavera_buho_17: 2147052152327034651
+      primavera_buho_18: -4054410683900851246
+      primavera_buho_19: -696363975815783934
+      primavera_buho_2: 6370972111751308047
+      primavera_buho_20: -103658503905215645
+      primavera_buho_21: 1330515731598594532
+      primavera_buho_22: 3594379259079084530
+      primavera_buho_23: -555862122197394886
+      primavera_buho_24: -4270655605387712228
+      primavera_buho_25: 3563137326239284780
+      primavera_buho_26: 1533209215485903415
+      primavera_buho_27: -6413475944954542567
+      primavera_buho_28: 3013063901564283919
+      primavera_buho_29: 6959345737974586670
+      primavera_buho_3: 8471015417921310793
+      primavera_buho_30: 5107451631796566314
+      primavera_buho_31: 3987951099028440110
+      primavera_buho_32: -2069498728674442318
+      primavera_buho_33: -499785459062914915
+      primavera_buho_34: 2811167541197314537
+      primavera_buho_35: 1643985120805435514
+      primavera_buho_36: 1683934698211820077
+      primavera_buho_37: -5719162848338430858
+      primavera_buho_38: 102173409392611401
+      primavera_buho_39: -6864279661006582899
+      primavera_buho_4: 7409696986024702250
+      primavera_buho_40: -774944393001657944
+      primavera_buho_41: -5613834225023785972
+      primavera_buho_42: -7820970147517420660
+      primavera_buho_43: 6401141302224893551
+      primavera_buho_44: 4140683320111289745
+      primavera_buho_45: 3298092818132765794
+      primavera_buho_46: -567738166427376234
+      primavera_buho_47: -7326491618369099351
+      primavera_buho_5: 900813639513101162
+      primavera_buho_6: 6703189932040870053
+      primavera_buho_7: -6818943231802150853
+      primavera_buho_8: -1236673655549916472
+      primavera_buho_9: 1034710919257640249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

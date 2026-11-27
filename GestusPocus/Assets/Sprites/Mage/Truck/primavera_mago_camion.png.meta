@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 83564d3609df51d4189eb8efb0b389b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6884623033054880413
+    second: primavera_mago_camion_0
+  - first:
+      213: 5648460759414705550
+    second: primavera_mago_camion_1
+  - first:
+      213: 3192685745417345526
+    second: primavera_mago_camion_2
+  - first:
+      213: 8373181942466261768
+    second: primavera_mago_camion_3
+  - first:
+      213: 2057254132295052668
+    second: primavera_mago_camion_4
+  - first:
+      213: 5791024088653853314
+    second: primavera_mago_camion_5
+  - first:
+      213: -7669250834733467570
+    second: primavera_mago_camion_6
+  - first:
+      213: 2595420852257378657
+    second: primavera_mago_camion_7
+  - first:
+      213: -6655018761079128583
+    second: primavera_mago_camion_8
+  - first:
+      213: 4821986837930268588
+    second: primavera_mago_camion_9
+  - first:
+      213: -5192635375298001476
+    second: primavera_mago_camion_10
+  - first:
+      213: 7270143272662234494
+    second: primavera_mago_camion_11
+  - first:
+      213: 6435840852221093632
+    second: primavera_mago_camion_12
+  - first:
+      213: -8444042508020440506
+    second: primavera_mago_camion_13
+  - first:
+      213: -9190125334242833916
+    second: primavera_mago_camion_14
+  - first:
+      213: -2277562049460897253
+    second: primavera_mago_camion_15
+  - first:
+      213: 8614111174382743400
+    second: primavera_mago_camion_16
+  - first:
+      213: 5582333044769422247
+    second: primavera_mago_camion_17
+  - first:
+      213: -6773198817768816275
+    second: primavera_mago_camion_18
+  - first:
+      213: -8360220096312328893
+    second: primavera_mago_camion_19
+  - first:
+      213: 8169023463560641043
+    second: primavera_mago_camion_20
+  - first:
+      213: 3733564852086330299
+    second: primavera_mago_camion_21
+  - first:
+      213: 7068290491822204320
+    second: primavera_mago_camion_22
+  - first:
+      213: 5144443066360505005
+    second: primavera_mago_camion_23
+  - first:
+      213: 1525502551696561509
+    second: primavera_mago_camion_24
+  - first:
+      213: 4581931475902794126
+    second: primavera_mago_camion_25
+  - first:
+      213: -2929859095900348454
+    second: primavera_mago_camion_26
+  - first:
+      213: 8060810682188497813
+    second: primavera_mago_camion_27
+  - first:
+      213: -58226488518406169
+    second: primavera_mago_camion_28
+  - first:
+      213: 1360053438408080751
+    second: primavera_mago_camion_29
+  - first:
+      213: 1531475293335520325
+    second: primavera_mago_camion_30
+  - first:
+      213: 7308551925088311521
+    second: primavera_mago_camion_31
+  - first:
+      213: -3086386875238319626
+    second: primavera_mago_camion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_mago_camion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 419
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9265b91c281b8f50800000000000000
+      internalID: 6884623033054880413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 548
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d85a4422d536e40800000000000000
+      internalID: 5648460759414705550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 645
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9dd0715c2be4c20800000000000000
+      internalID: 3192685745417345526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 226
+        width: 425
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ba681d94833470800000000000000
+      internalID: 8373181942466261768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_4
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 570
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da628cbb5dc8c10800000000000000
+      internalID: 2057254132295052668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_5
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 548
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28271f9f9b9dd5050800000000000000
+      internalID: 5791024088653853314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 615
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48f75ecff8519590800000000000000
+      internalID: -7669250834733467570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_7
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 612
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16151759389c40420800000000000000
+      internalID: 2595420852257378657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_8
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 614
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd715452bf94a3a0800000000000000
+      internalID: -6655018761079128583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_9
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 570
+        width: 172
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7517a2b732be240800000000000000
+      internalID: 4821986837930268588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 586
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54c3f43ad00f7b0800000000000000
+      internalID: -5192635375298001476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_11
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 596
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e757a31a9ccb4e460800000000000000
+      internalID: 7270143272662234494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_12
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 528
+        width: 243
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007e5931823b05950800000000000000
+      internalID: 6435840852221093632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_13
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 554
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a421d31cb0da80800000000000000
+      internalID: -8444042508020440506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_14
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a432b23bd167080800000000000000
+      internalID: -9190125334242833916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_15
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 546
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af8ff02697460e0800000000000000
+      internalID: -2277562049460897253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6ecc39787b8770800000000000000
+      internalID: 8614111174382743400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abf767e35e687d40800000000000000
+      internalID: 5582333044769422247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d614bc9af83c002a0800000000000000
+      internalID: -6773198817768816275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 17
+        width: 501
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34db833ed188afb80800000000000000
+      internalID: -8360220096312328893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 114
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31afc5b0f833e5170800000000000000
+      internalID: 8169023463560641043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb35d72a37940d330800000000000000
+      internalID: 3733564852086330299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_22
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 79
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5655eb0cc971260800000000000000
+      internalID: 7068290491822204320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_23
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 71
+        width: 200
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a3a166bbb46740800000000000000
+      internalID: 5144443066360505005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_24
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 224
+        width: 340
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56553d10d7cab2510800000000000000
+      internalID: 1525502551696561509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_25
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 115
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890e56b66a469f30800000000000000
+      internalID: 4581931475902794126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_26
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 79
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf99e2ecac0757d0800000000000000
+      internalID: -2929859095900348454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_27
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 103
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59305818b90cddf60800000000000000
+      internalID: 8060810682188497813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_28
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 106
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef87533153213ff0800000000000000
+      internalID: -58226488518406169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_29
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 104
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dbcd77561efd210800000000000000
+      internalID: 1360053438408080751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_30
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 71
+        width: 524
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5440d894aa4e04510800000000000000
+      internalID: 1531475293335520325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_31
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 79
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d265e0413d6560800000000000000
+      internalID: 7308551925088311521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_camion_32
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 71
+        width: 345
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9fdf54d73fa25d0800000000000000
+      internalID: -3086386875238319626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_mago_camion_0: 6884623033054880413
+      primavera_mago_camion_1: 5648460759414705550
+      primavera_mago_camion_10: -5192635375298001476
+      primavera_mago_camion_11: 7270143272662234494
+      primavera_mago_camion_12: 6435840852221093632
+      primavera_mago_camion_13: -8444042508020440506
+      primavera_mago_camion_14: -9190125334242833916
+      primavera_mago_camion_15: -2277562049460897253
+      primavera_mago_camion_16: 8614111174382743400
+      primavera_mago_camion_17: 5582333044769422247
+      primavera_mago_camion_18: -6773198817768816275
+      primavera_mago_camion_19: -8360220096312328893
+      primavera_mago_camion_2: 3192685745417345526
+      primavera_mago_camion_20: 8169023463560641043
+      primavera_mago_camion_21: 3733564852086330299
+      primavera_mago_camion_22: 7068290491822204320
+      primavera_mago_camion_23: 5144443066360505005
+      primavera_mago_camion_24: 1525502551696561509
+      primavera_mago_camion_25: 4581931475902794126
+      primavera_mago_camion_26: -2929859095900348454
+      primavera_mago_camion_27: 8060810682188497813
+      primavera_mago_camion_28: -58226488518406169
+      primavera_mago_camion_29: 1360053438408080751
+      primavera_mago_camion_3: 8373181942466261768
+      primavera_mago_camion_30: 1531475293335520325
+      primavera_mago_camion_31: 7308551925088311521
+      primavera_mago_camion_32: -3086386875238319626
+      primavera_mago_camion_4: 2057254132295052668
+      primavera_mago_camion_5: 5791024088653853314
+      primavera_mago_camion_6: -7669250834733467570
+      primavera_mago_camion_7: 2595420852257378657
+      primavera_mago_camion_8: -6655018761079128583
+      primavera_mago_camion_9: 4821986837930268588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

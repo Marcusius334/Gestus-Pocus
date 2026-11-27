@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 81c6f7404aca7d8478d90bedac5fa69a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3429667388404910582
+    second: primavera_mago_gato_0
+  - first:
+      213: -918055803348855269
+    second: primavera_mago_gato_1
+  - first:
+      213: -7823563317150206846
+    second: primavera_mago_gato_2
+  - first:
+      213: 8020756880168750977
+    second: primavera_mago_gato_3
+  - first:
+      213: 5156546777505330678
+    second: primavera_mago_gato_4
+  - first:
+      213: 2372950504803545234
+    second: primavera_mago_gato_5
+  - first:
+      213: 5567084297886747597
+    second: primavera_mago_gato_6
+  - first:
+      213: -5446909500856863352
+    second: primavera_mago_gato_7
+  - first:
+      213: 9075156767366150314
+    second: primavera_mago_gato_8
+  - first:
+      213: 4688615231137242511
+    second: primavera_mago_gato_9
+  - first:
+      213: 2660431461579172662
+    second: primavera_mago_gato_10
+  - first:
+      213: -5510983242557116580
+    second: primavera_mago_gato_11
+  - first:
+      213: 2083345050435814484
+    second: primavera_mago_gato_12
+  - first:
+      213: 1309958513015272275
+    second: primavera_mago_gato_13
+  - first:
+      213: -7128454416475648808
+    second: primavera_mago_gato_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_mago_gato_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 387
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cd9f8150a89f20800000000000000
+      internalID: 3429667388404910582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 661
+        width: 107
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d7656c196243f0800000000000000
+      internalID: -918055803348855269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_2
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 196
+        width: 352
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2843c733d9e1d6390800000000000000
+      internalID: -7823563317150206846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_3
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 65
+        width: 353
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8a3003e37f4f60800000000000000
+      internalID: 8020756880168750977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_4
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 55
+        width: 362
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f3ec39fbbf8740800000000000000
+      internalID: 5156546777505330678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_5
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 31
+        width: 341
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290366469e96ee020800000000000000
+      internalID: 2372950504803545234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc13a5ca1424d40800000000000000
+      internalID: 5567084297886747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 191
+        width: 342
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f9bdfaa0b864b0800000000000000
+      internalID: -5446909500856863352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 49
+        width: 319
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa877d76ffe61fd70800000000000000
+      internalID: 9075156767366150314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 55
+        width: 110
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ddb6c16be411140800000000000000
+      internalID: 4688615231137242511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_10
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 79
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b23b89150cbe420800000000000000
+      internalID: 2660431461579172662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 95
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa04870fd0583b0800000000000000
+      internalID: -5510983242557116580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548bcb094789ec10800000000000000
+      internalID: 2083345050435814484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35336ceb358ed2210800000000000000
+      internalID: 1309958513015272275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_gato_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 33
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc8764f974a21d90800000000000000
+      internalID: -7128454416475648808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_mago_gato_0: 3429667388404910582
+      primavera_mago_gato_1: -918055803348855269
+      primavera_mago_gato_10: 2660431461579172662
+      primavera_mago_gato_11: -5510983242557116580
+      primavera_mago_gato_12: 2083345050435814484
+      primavera_mago_gato_13: 1309958513015272275
+      primavera_mago_gato_14: -7128454416475648808
+      primavera_mago_gato_2: -7823563317150206846
+      primavera_mago_gato_3: 8020756880168750977
+      primavera_mago_gato_4: 5156546777505330678
+      primavera_mago_gato_5: 2372950504803545234
+      primavera_mago_gato_6: 5567084297886747597
+      primavera_mago_gato_7: -5446909500856863352
+      primavera_mago_gato_8: 9075156767366150314
+      primavera_mago_gato_9: 4688615231137242511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

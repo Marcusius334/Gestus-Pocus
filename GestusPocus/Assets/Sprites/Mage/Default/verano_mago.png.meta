@@ -1,0 +1,2355 @@
+fileFormatVersion: 2
+guid: 6f520fcaabd3c624589a5a16fd935b82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3234314027415803694
+    second: verano_mago_0
+  - first:
+      213: 2226798766954466790
+    second: verano_mago_1
+  - first:
+      213: -7736333899166818099
+    second: verano_mago_2
+  - first:
+      213: -252644307775868077
+    second: verano_mago_3
+  - first:
+      213: -8694710882551116143
+    second: verano_mago_4
+  - first:
+      213: -5973731823109695151
+    second: verano_mago_5
+  - first:
+      213: -1425047358967395923
+    second: verano_mago_6
+  - first:
+      213: -4877264360765498985
+    second: verano_mago_7
+  - first:
+      213: 5689329562305108781
+    second: verano_mago_8
+  - first:
+      213: -6179694529498528024
+    second: verano_mago_9
+  - first:
+      213: 354627860666412525
+    second: verano_mago_10
+  - first:
+      213: -1177437725417411335
+    second: verano_mago_11
+  - first:
+      213: 2556964960333487255
+    second: verano_mago_12
+  - first:
+      213: 1161432245264460351
+    second: verano_mago_13
+  - first:
+      213: -8656544855751671411
+    second: verano_mago_14
+  - first:
+      213: 3207660482065781287
+    second: verano_mago_15
+  - first:
+      213: -2674082198729239970
+    second: verano_mago_16
+  - first:
+      213: -9063615520096758814
+    second: verano_mago_17
+  - first:
+      213: -6935650267765424136
+    second: verano_mago_18
+  - first:
+      213: 9074582765552775232
+    second: verano_mago_19
+  - first:
+      213: 2848253926464193468
+    second: verano_mago_20
+  - first:
+      213: 3668775938066961183
+    second: verano_mago_21
+  - first:
+      213: -8656362470951949888
+    second: verano_mago_22
+  - first:
+      213: -6963698109352681294
+    second: verano_mago_23
+  - first:
+      213: -1532970658154055690
+    second: verano_mago_24
+  - first:
+      213: 1912180805568951747
+    second: verano_mago_25
+  - first:
+      213: 6192153366556489497
+    second: verano_mago_26
+  - first:
+      213: 4365468939207592311
+    second: verano_mago_27
+  - first:
+      213: 7558362371192229107
+    second: verano_mago_28
+  - first:
+      213: -1882068281193850082
+    second: verano_mago_29
+  - first:
+      213: -144908976917879610
+    second: verano_mago_30
+  - first:
+      213: 5200717361701179552
+    second: verano_mago_31
+  - first:
+      213: 759853449413487329
+    second: verano_mago_32
+  - first:
+      213: -925232884157370380
+    second: verano_mago_33
+  - first:
+      213: 6021101830385058088
+    second: verano_mago_34
+  - first:
+      213: -777828644564329140
+    second: verano_mago_35
+  - first:
+      213: -7094003104748708200
+    second: verano_mago_36
+  - first:
+      213: -6218157582625931550
+    second: verano_mago_37
+  - first:
+      213: -8517554735762732907
+    second: verano_mago_38
+  - first:
+      213: -1353172422642923608
+    second: verano_mago_39
+  - first:
+      213: -4808451285811665990
+    second: verano_mago_40
+  - first:
+      213: -473889129102986334
+    second: verano_mago_41
+  - first:
+      213: -3804519180336816265
+    second: verano_mago_42
+  - first:
+      213: 8454747980558741665
+    second: verano_mago_43
+  - first:
+      213: -8561858127079381979
+    second: verano_mago_44
+  - first:
+      213: -8623551499955462074
+    second: verano_mago_45
+  - first:
+      213: -8259099429496504377
+    second: verano_mago_46
+  - first:
+      213: -4932551656141412042
+    second: verano_mago_47
+  - first:
+      213: -259437237891771604
+    second: verano_mago_48
+  - first:
+      213: 2127865916132226294
+    second: verano_mago_49
+  - first:
+      213: -5695941238387307917
+    second: verano_mago_50
+  - first:
+      213: 3710476042550916133
+    second: verano_mago_51
+  - first:
+      213: 171091856511681474
+    second: verano_mago_52
+  - first:
+      213: 1471987015336507642
+    second: verano_mago_53
+  - first:
+      213: 5610840097435790498
+    second: verano_mago_54
+  - first:
+      213: 3768717595453779999
+    second: verano_mago_55
+  - first:
+      213: -429201968648597884
+    second: verano_mago_56
+  - first:
+      213: 905422550875954979
+    second: verano_mago_57
+  - first:
+      213: 304325312323750380
+    second: verano_mago_58
+  - first:
+      213: 8746876516302994336
+    second: verano_mago_59
+  - first:
+      213: -2303373625506484598
+    second: verano_mago_60
+  - first:
+      213: 2259149200851877273
+    second: verano_mago_61
+  - first:
+      213: 2586984569711175646
+    second: verano_mago_62
+  - first:
+      213: -2189177467580359359
+    second: verano_mago_63
+  - first:
+      213: 3064559016491805555
+    second: verano_mago_64
+  - first:
+      213: 6037120806022999470
+    second: verano_mago_65
+  - first:
+      213: 3391580090364007117
+    second: verano_mago_66
+  - first:
+      213: -8215066126016732909
+    second: verano_mago_67
+  - first:
+      213: -4261694673854231510
+    second: verano_mago_68
+  - first:
+      213: 8551534371998372253
+    second: verano_mago_69
+  - first:
+      213: 7699822897111341787
+    second: verano_mago_70
+  - first:
+      213: 3991728139205830384
+    second: verano_mago_71
+  - first:
+      213: -4262567499445980097
+    second: verano_mago_72
+  - first:
+      213: 5633129896335127484
+    second: verano_mago_73
+  - first:
+      213: 8467109701860984564
+    second: verano_mago_74
+  - first:
+      213: -3490322133218521925
+    second: verano_mago_75
+  - first:
+      213: 2234611642047105148
+    second: verano_mago_76
+  - first:
+      213: 5230061706361356378
+    second: verano_mago_77
+  - first:
+      213: -384506644490614090
+    second: verano_mago_78
+  - first:
+      213: 8209924336006986481
+    second: verano_mago_79
+  - first:
+      213: 685999778517281607
+    second: verano_mago_80
+  - first:
+      213: -3581344070022155760
+    second: verano_mago_81
+  - first:
+      213: 7377608362275190984
+    second: verano_mago_82
+  - first:
+      213: 8234400284520092637
+    second: verano_mago_83
+  - first:
+      213: -208098995340712974
+    second: verano_mago_84
+  - first:
+      213: 445552250630020311
+    second: verano_mago_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verano_mago_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 223
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279e28c87792ec20800000000000000
+      internalID: 3234314027415803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 812
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed49923ead27ee10800000000000000
+      internalID: 2226798766954466790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 626
+        width: 204
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0695cbe4503a490800000000000000
+      internalID: -7736333899166818099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 624
+        width: 227
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353be74375d6e7cf0800000000000000
+      internalID: -252644307775868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 624
+        width: 189
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e41d4d48e265780800000000000000
+      internalID: -8694710882551116143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 596
+        width: 247
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159991c9e8a091da0800000000000000
+      internalID: -5973731823109695151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_6
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 813
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c3ac2af6393ce0800000000000000
+      internalID: -1425047358967395923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_7
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 813
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79956ec97e9705cb0800000000000000
+      internalID: -4877264360765498985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 596
+        width: 189
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b1353f71f84fe40800000000000000
+      internalID: 5689329562305108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_9
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 711
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c0dc11905d3aa0800000000000000
+      internalID: -6179694529498528024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 725
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6a7e0924ebe400800000000000000
+      internalID: 354627860666412525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_11
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 756
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce95780a6e8afe0800000000000000
+      internalID: -1177437725417411335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_12
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 712
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5cc3851a2c7320800000000000000
+      internalID: 2556964960333487255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 613
+        width: 70
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a2ca9397c3e1010800000000000000
+      internalID: 1161432245264460351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_14
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 728
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81cfaa6156cdd780800000000000000
+      internalID: -8656544855751671411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_15
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 732
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d699a636e38c20800000000000000
+      internalID: 3207660482065781287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525c8c7860c3ead0800000000000000
+      internalID: -2674082198729239970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 676
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35aef94b1973280800000000000000
+      internalID: -9063615520096758814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 676
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbf7ff3de9fbf90800000000000000
+      internalID: -6935650267765424136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_19
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 634
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b7a132f46fed70800000000000000
+      internalID: 9074582765552775232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_20
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 660
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3820dfad7078720800000000000000
+      internalID: 2848253926464193468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 636
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f135bf4174c1ae230800000000000000
+      internalID: 3668775938066961183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 616
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e2ef223c6ed780800000000000000
+      internalID: -8656362470951949888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 610
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b069fcf679fb5f90800000000000000
+      internalID: -6963698109352681294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_24
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 692
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f771a5fe4bc9bae0800000000000000
+      internalID: -1532970658154055690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_25
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 700
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f14ebf4e698a10800000000000000
+      internalID: 1912180805568951747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_26
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 601
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b650fda2fee550800000000000000
+      internalID: 6192153366556489497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_27
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 692
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794877fed2459c30800000000000000
+      internalID: 4365468939207592311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_28
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 690
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc879ad782b4e860800000000000000
+      internalID: 7558362371192229107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_29
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 636
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b1960bedc81e5e0800000000000000
+      internalID: -1882068281193850082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_30
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 670
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46b02ad0e2dfdf0800000000000000
+      internalID: -144908976917879610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_31
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 628
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d769c2e8ac2840800000000000000
+      internalID: 5200717361701179552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_32
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 708
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea65a5bfaa8b8a00800000000000000
+      internalID: 759853449413487329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_33
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 596
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff2a4d0899e823f0800000000000000
+      internalID: -925232884157370380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_34
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 696
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214e8ca6304f8350800000000000000
+      internalID: 6021101830385058088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_35
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 678
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9e9808f89435f0800000000000000
+      internalID: -777828644564329140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_36
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 635
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5fe903c90d8d90800000000000000
+      internalID: -7094003104748708200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_37
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 618
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eefd22bf9aa4b9a0800000000000000
+      internalID: -6218157582625931550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_38
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 644
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5988ae388119bc980800000000000000
+      internalID: -8517554735762732907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_39
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 648
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7838cd9d0983de0800000000000000
+      internalID: -1353172422642923608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_40
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 706
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ec652803f44db0800000000000000
+      internalID: -4808451285811665990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_41
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 619
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b5ec09586c69f0800000000000000
+      internalID: -473889129102986334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_42
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 620
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1dd276f1a33bc0800000000000000
+      internalID: -3804519180336816265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_43
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 632
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b7ae3e7c455570800000000000000
+      internalID: 8454747980558741665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_44
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 618
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5246426656b2e2980800000000000000
+      internalID: -8561858127079381979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_45
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 644
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6402edea99df25880800000000000000
+      internalID: -8623551499955462074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_46
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 676
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfba34d3d8c16d80800000000000000
+      internalID: -8259099429496504377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_47
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 677
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392d6b076e0c8bb0800000000000000
+      internalID: -4932551656141412042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_48
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 338
+        width: 215
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23d3f9e43b466cf0800000000000000
+      internalID: -259437237891771604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_49
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 602
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f8bcd6c2b78d10800000000000000
+      internalID: 2127865916132226294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 549
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0d604f93f3f0b0800000000000000
+      internalID: -5695941238387307917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 555
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52438df3d424e7330800000000000000
+      internalID: 3710476042550916133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 551
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c347531327df5200800000000000000
+      internalID: 171091856511681474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 261
+        width: 231
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8be1b346c8d6410800000000000000
+      internalID: 1471987015336507642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 316
+        width: 222
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acad235755bddd40800000000000000
+      internalID: 5610840097435790498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_55
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 350
+        width: 233
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1079cf7fac2d4430800000000000000
+      internalID: 3768717595453779999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_56
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 279
+        width: 223
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4dc1651b2b0af0800000000000000
+      internalID: -429201968648597884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_57
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 80
+        width: 289
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd69c4305b09c00800000000000000
+      internalID: 905422550875954979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 229
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce98739524e293400800000000000000
+      internalID: 304325312323750380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 350
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab327049d5236970800000000000000
+      internalID: 8746876516302994336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_60
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 342
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eaea234e5c800e0800000000000000
+      internalID: -2303373625506484598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_61
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 109
+        width: 230
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d326b8a3c1a5f10800000000000000
+      internalID: 2259149200851877273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_62
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 88
+        width: 209
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72d0d72c0d6e320800000000000000
+      internalID: 2586984569711175646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_63
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 346
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d559621ba7e91e0800000000000000
+      internalID: -2189177467580359359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_64
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 340
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37be6335030878a20800000000000000
+      internalID: 3064559016491805555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 267
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadee15136928c350800000000000000
+      internalID: 6037120806022999470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_66
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 305
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc21f617f10511f20800000000000000
+      internalID: 3391580090364007117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_67
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 293
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ad6832e83efd80800000000000000
+      internalID: -8215066126016732909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c8eb7064b6bd4c0800000000000000
+      internalID: -4261694673854231510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_69
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 43
+        width: 237
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91918f04372da670800000000000000
+      internalID: 8551534371998372253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_70
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 35
+        width: 264
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9db721244bda60800000000000000
+      internalID: 7699822897111341787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_71
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f66b41f797756730800000000000000
+      internalID: 3991728139205830384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 221
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b56c717158d4c0800000000000000
+      internalID: -4262567499445980097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 267
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb330bc8bc5ec2e40800000000000000
+      internalID: 5633129896335127484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_74
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 264
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f600b5c967318570800000000000000
+      internalID: 8467109701860984564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 252
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc83d92382ef8fc0800000000000000
+      internalID: -3490322133218521925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 224
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c788b2fe27fe20f10800000000000000
+      internalID: 2234611642047105148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 250
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50ca017969e49840800000000000000
+      internalID: 5230061706361356378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_78
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0c597e35f9aaf0800000000000000
+      internalID: -384506644490614090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_79
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 243
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf7808fa28fe170800000000000000
+      internalID: 8209924336006986481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_80
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 96
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be48af929258900800000000000000
+      internalID: 685999778517281607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_81
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 102
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012b0e70b828c4ec0800000000000000
+      internalID: -3581344070022155760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c83d5d97b7826660800000000000000
+      internalID: 7377608362275190984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd312395e67764270800000000000000
+      internalID: 8234400284520092637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_84
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 43
+        width: 119
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e998f01fac1df0800000000000000
+      internalID: -208098995340712974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_mago_85
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 41
+        width: 130
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc9dab496bee2600800000000000000
+      internalID: 445552250630020311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verano_mago_0: 3234314027415803694
+      verano_mago_1: 2226798766954466790
+      verano_mago_10: 354627860666412525
+      verano_mago_11: -1177437725417411335
+      verano_mago_12: 2556964960333487255
+      verano_mago_13: 1161432245264460351
+      verano_mago_14: -8656544855751671411
+      verano_mago_15: 3207660482065781287
+      verano_mago_16: -2674082198729239970
+      verano_mago_17: -9063615520096758814
+      verano_mago_18: -6935650267765424136
+      verano_mago_19: 9074582765552775232
+      verano_mago_2: -7736333899166818099
+      verano_mago_20: 2848253926464193468
+      verano_mago_21: 3668775938066961183
+      verano_mago_22: -8656362470951949888
+      verano_mago_23: -6963698109352681294
+      verano_mago_24: -1532970658154055690
+      verano_mago_25: 1912180805568951747
+      verano_mago_26: 6192153366556489497
+      verano_mago_27: 4365468939207592311
+      verano_mago_28: 7558362371192229107
+      verano_mago_29: -1882068281193850082
+      verano_mago_3: -252644307775868077
+      verano_mago_30: -144908976917879610
+      verano_mago_31: 5200717361701179552
+      verano_mago_32: 759853449413487329
+      verano_mago_33: -925232884157370380
+      verano_mago_34: 6021101830385058088
+      verano_mago_35: -777828644564329140
+      verano_mago_36: -7094003104748708200
+      verano_mago_37: -6218157582625931550
+      verano_mago_38: -8517554735762732907
+      verano_mago_39: -1353172422642923608
+      verano_mago_4: -8694710882551116143
+      verano_mago_40: -4808451285811665990
+      verano_mago_41: -473889129102986334
+      verano_mago_42: -3804519180336816265
+      verano_mago_43: 8454747980558741665
+      verano_mago_44: -8561858127079381979
+      verano_mago_45: -8623551499955462074
+      verano_mago_46: -8259099429496504377
+      verano_mago_47: -4932551656141412042
+      verano_mago_48: -259437237891771604
+      verano_mago_49: 2127865916132226294
+      verano_mago_5: -5973731823109695151
+      verano_mago_50: -5695941238387307917
+      verano_mago_51: 3710476042550916133
+      verano_mago_52: 171091856511681474
+      verano_mago_53: 1471987015336507642
+      verano_mago_54: 5610840097435790498
+      verano_mago_55: 3768717595453779999
+      verano_mago_56: -429201968648597884
+      verano_mago_57: 905422550875954979
+      verano_mago_58: 304325312323750380
+      verano_mago_59: 8746876516302994336
+      verano_mago_6: -1425047358967395923
+      verano_mago_60: -2303373625506484598
+      verano_mago_61: 2259149200851877273
+      verano_mago_62: 2586984569711175646
+      verano_mago_63: -2189177467580359359
+      verano_mago_64: 3064559016491805555
+      verano_mago_65: 6037120806022999470
+      verano_mago_66: 3391580090364007117
+      verano_mago_67: -8215066126016732909
+      verano_mago_68: -4261694673854231510
+      verano_mago_69: 8551534371998372253
+      verano_mago_7: -4877264360765498985
+      verano_mago_70: 7699822897111341787
+      verano_mago_71: 3991728139205830384
+      verano_mago_72: -4262567499445980097
+      verano_mago_73: 5633129896335127484
+      verano_mago_74: 8467109701860984564
+      verano_mago_75: -3490322133218521925
+      verano_mago_76: 2234611642047105148
+      verano_mago_77: 5230061706361356378
+      verano_mago_78: -384506644490614090
+      verano_mago_79: 8209924336006986481
+      verano_mago_8: 5689329562305108781
+      verano_mago_80: 685999778517281607
+      verano_mago_81: -3581344070022155760
+      verano_mago_82: 7377608362275190984
+      verano_mago_83: 8234400284520092637
+      verano_mago_84: -208098995340712974
+      verano_mago_85: 445552250630020311
+      verano_mago_9: -6179694529498528024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

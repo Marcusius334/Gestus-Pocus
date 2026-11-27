@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: 0fbb5402314f5f44a8825e862a4227f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2225953736424369981
+    second: "barrer m\xE1gic_0"
+  - first:
+      213: -6676058385766303632
+    second: "barrer m\xE1gic_1"
+  - first:
+      213: -4439634194031466355
+    second: "barrer m\xE1gic_2"
+  - first:
+      213: -3310483406978276049
+    second: "barrer m\xE1gic_3"
+  - first:
+      213: 8969539869555098094
+    second: "barrer m\xE1gic_4"
+  - first:
+      213: -918237285082979885
+    second: "barrer m\xE1gic_5"
+  - first:
+      213: -4286815308653264170
+    second: "barrer m\xE1gic_6"
+  - first:
+      213: 3372986375190392098
+    second: "barrer m\xE1gic_7"
+  - first:
+      213: 8268022044336947529
+    second: "barrer m\xE1gic_8"
+  - first:
+      213: -5369201689038573602
+    second: "barrer m\xE1gic_9"
+  - first:
+      213: -2044890728295714991
+    second: "barrer m\xE1gic_10"
+  - first:
+      213: 4659584704251921447
+    second: "barrer m\xE1gic_11"
+  - first:
+      213: -6009923273309076478
+    second: "barrer m\xE1gic_12"
+  - first:
+      213: -298281375445374193
+    second: "barrer m\xE1gic_13"
+  - first:
+      213: -8398850911966695042
+    second: "barrer m\xE1gic_14"
+  - first:
+      213: 3692221741317970807
+    second: "barrer m\xE1gic_15"
+  - first:
+      213: 8358284838793556717
+    second: "barrer m\xE1gic_16"
+  - first:
+      213: 6833586526418766558
+    second: "barrer m\xE1gic_17"
+  - first:
+      213: -7765279552770319442
+    second: "barrer m\xE1gic_18"
+  - first:
+      213: 183206368744824092
+    second: "barrer m\xE1gic_19"
+  - first:
+      213: -1128316460800722330
+    second: "barrer m\xE1gic_20"
+  - first:
+      213: 3152520332855440464
+    second: "barrer m\xE1gic_21"
+  - first:
+      213: 2834314996912855786
+    second: "barrer m\xE1gic_22"
+  - first:
+      213: -2079145993966749288
+    second: "barrer m\xE1gic_23"
+  - first:
+      213: -6237088639831877294
+    second: "barrer m\xE1gic_24"
+  - first:
+      213: 2635660501912644809
+    second: "barrer m\xE1gic_25"
+  - first:
+      213: 3591065225877149648
+    second: "barrer m\xE1gic_26"
+  - first:
+      213: 7637540432576375479
+    second: "barrer m\xE1gic_27"
+  - first:
+      213: -9070314690984300272
+    second: "barrer m\xE1gic_28"
+  - first:
+      213: 8817731525487018478
+    second: "barrer m\xE1gic_29"
+  - first:
+      213: 3472806611660897605
+    second: "barrer m\xE1gic_30"
+  - first:
+      213: -4412280278015311568
+    second: "barrer m\xE1gic_31"
+  - first:
+      213: -2633626123718001540
+    second: "barrer m\xE1gic_32"
+  - first:
+      213: 7209927721008111637
+    second: "barrer m\xE1gic_33"
+  - first:
+      213: -517861084527935496
+    second: "barrer m\xE1gic_34"
+  - first:
+      213: -1331038949962471826
+    second: "barrer m\xE1gic_35"
+  - first:
+      213: -965827234020588472
+    second: "barrer m\xE1gic_36"
+  - first:
+      213: -8089516429159863847
+    second: "barrer m\xE1gic_37"
+  - first:
+      213: -6504824334371047251
+    second: "barrer m\xE1gic_38"
+  - first:
+      213: 4652673990969164866
+    second: "barrer m\xE1gic_39"
+  - first:
+      213: 3539336549735958020
+    second: "barrer m\xE1gic_40"
+  - first:
+      213: -977803993036305828
+    second: "barrer m\xE1gic_41"
+  - first:
+      213: 8492448063484630665
+    second: "barrer m\xE1gic_42"
+  - first:
+      213: -5681934533476492370
+    second: "barrer m\xE1gic_43"
+  - first:
+      213: -5462269405888369402
+    second: "barrer m\xE1gic_44"
+  - first:
+      213: -5139176915351308743
+    second: "barrer m\xE1gic_45"
+  - first:
+      213: 741509104108430589
+    second: "barrer m\xE1gic_46"
+  - first:
+      213: -4356247855708192440
+    second: "barrer m\xE1gic_47"
+  - first:
+      213: 3503707722875999235
+    second: "barrer m\xE1gic_48"
+  - first:
+      213: 577535150578093026
+    second: "barrer m\xE1gic_49"
+  - first:
+      213: 5081907650322411250
+    second: "barrer m\xE1gic_50"
+  - first:
+      213: 2828073741626936102
+    second: "barrer m\xE1gic_51"
+  - first:
+      213: -8161491979335001290
+    second: "barrer m\xE1gic_52"
+  - first:
+      213: -8070705438960046380
+    second: "barrer m\xE1gic_53"
+  - first:
+      213: 2944963547272838698
+    second: "barrer m\xE1gic_54"
+  - first:
+      213: -7970115224348990689
+    second: "barrer m\xE1gic_55"
+  - first:
+      213: -5367732605585594634
+    second: "barrer m\xE1gic_56"
+  - first:
+      213: -7035067595332599753
+    second: "barrer m\xE1gic_57"
+  - first:
+      213: 5141531572835510967
+    second: "barrer m\xE1gic_58"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_0"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1303
+        width: 150
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0d8fdced2db11e0800000000000000
+      internalID: -2225953736424369981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_1"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1471
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b1a8f440e953a0800000000000000
+      internalID: -6676058385766303632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_2"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1393
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a31409304362c0800000000000000
+      internalID: -4439634194031466355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_3"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1367
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252c3c81ecce02d0800000000000000
+      internalID: -3310483406978276049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_4"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1431
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1098b1df43a7c70800000000000000
+      internalID: 8969539869555098094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_5"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1378
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d12c13ed04c143f0800000000000000
+      internalID: -918237285082979885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_6"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1393
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d20406703c2284c0800000000000000
+      internalID: -4286815308653264170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_7"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1431
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da475cc314fce20800000000000000
+      internalID: 3372986375190392098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_8"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1401
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9418dc35e3aedb270800000000000000
+      internalID: 8268022044336947529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_9"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1399
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfad65d283cc75b0800000000000000
+      internalID: -5369201689038573602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_10"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1393
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa17787b61f93e0800000000000000
+      internalID: -2044890728295714991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_11"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1429
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72487c9d99b2aa040800000000000000
+      internalID: 4659584704251921447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_12"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1414
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044f07ff96789ca0800000000000000
+      internalID: -6009923273309076478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_13"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1399
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba67d5baa4cdbf0800000000000000
+      internalID: -298281375445374193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_14"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1391
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7172c63899417b80800000000000000
+      internalID: -8398850911966695042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_15"
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1405
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b5b3b8c186d3330800000000000000
+      internalID: 3692221741317970807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_16"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1429
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b2dbd6c79ef370800000000000000
+      internalID: 8358284838793556717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1007
+        height: 1392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda06196db6c5de50800000000000000
+      internalID: 6833586526418766558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_18"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1157
+        width: 103
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5583936f2c3490800000000000000
+      internalID: -7765279552770319442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_19"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ddf91c831ea8200800000000000000
+      internalID: 183206368744824092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_20"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1381
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a3fbf282a6750f0800000000000000
+      internalID: -1128316460800722330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_21"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1369
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0547b0b3a8000cb20800000000000000
+      internalID: 3152520332855440464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_22"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1365
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea9d8c0972855720800000000000000
+      internalID: 2834314996912855786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_23"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1311
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8997f69fbb36523e0800000000000000
+      internalID: -2079145993966749288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_24"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1143
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25952367de86179a0800000000000000
+      internalID: -6237088639831877294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_25"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce70d134fb39420800000000000000
+      internalID: 2635660501912644809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_26"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1271
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75aa1fbc606d130800000000000000
+      internalID: 3591065225877149648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 61
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bae569de8efdf960800000000000000
+      internalID: 7637540432576375479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_28"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1058
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011bfda58d4cf1280800000000000000
+      internalID: -9070314690984300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_29"
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 999
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1ca65aa10ee5a70800000000000000
+      internalID: 8817731525487018478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_30"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1221
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfcada633e13030800000000000000
+      internalID: 3472806611660897605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_31"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0318f63e67e64c2c0800000000000000
+      internalID: -4412280278015311568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_32"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 803
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c79987efa737bd0800000000000000
+      internalID: -2633626123718001540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_33"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5102eeaff0fce0460800000000000000
+      internalID: 7209927721008111637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_34"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 758
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffb6bd561030d8f0800000000000000
+      internalID: -517861084527935496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_35"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 738
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66274d8023378de0800000000000000
+      internalID: -1331038949962471826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_36"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 671
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8440ec17f31b892f0800000000000000
+      internalID: -965827234020588472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_37"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 641
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96d33faa34cbf80800000000000000
+      internalID: -8089516429159863847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_38"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 606
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83f7f5bb83ab5a0800000000000000
+      internalID: -6504824334371047251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_39"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 545
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2448a67085e919040800000000000000
+      internalID: 4652673990969164866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_40"
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 529
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406819bf6df3e1130800000000000000
+      internalID: 3539336549735958020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_41"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 527
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5acc1fe2742e62f0800000000000000
+      internalID: -977803993036305828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_42"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 372
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9869471d48c3bd570800000000000000
+      internalID: 8492448063484630665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_43"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 117
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabdb1f55a6b521b0800000000000000
+      internalID: -5681934533476492370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_44"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 73
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2a8a6aee1234b0800000000000000
+      internalID: -5462269405888369402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_45"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f892f2d9fda8b0800000000000000
+      internalID: -5139176915351308743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_46"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 70
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e91cf99e5a4a00800000000000000
+      internalID: 741509104108430589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_47"
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 55
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c4f6d7af7b83c0800000000000000
+      internalID: -4356247855708192440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_48"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 65
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30411da4c9baf9030800000000000000
+      internalID: 3503707722875999235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_49"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 57
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb4287d821d30800800000000000000
+      internalID: 577535150578093026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_50"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feaec63510968640800000000000000
+      internalID: 5081907650322411250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_51"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b884095165f3720800000000000000
+      internalID: 2828073741626936102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_52"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 31
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b9986494e8cbe80800000000000000
+      internalID: -8161491979335001290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_53"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de29f7e9281fff80800000000000000
+      internalID: -8070705438960046380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_54"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2efbaf3ebc9ed820800000000000000
+      internalID: 2944963547272838698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_55"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 22
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13eeb15e66746190800000000000000
+      internalID: -7970115224348990689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_56"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e9ca72abf185b0800000000000000
+      internalID: -5367732605585594634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_57"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 9
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c651ab4b6e5e90800000000000000
+      internalID: -7035067595332599753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "barrer m\xE1gic_58"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 14
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bae05879b36a5740800000000000000
+      internalID: 5141531572835510967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "barrer m\xE1gic_0": -2225953736424369981
+      "barrer m\xE1gic_1": -6676058385766303632
+      "barrer m\xE1gic_10": -2044890728295714991
+      "barrer m\xE1gic_11": 4659584704251921447
+      "barrer m\xE1gic_12": -6009923273309076478
+      "barrer m\xE1gic_13": -298281375445374193
+      "barrer m\xE1gic_14": -8398850911966695042
+      "barrer m\xE1gic_15": 3692221741317970807
+      "barrer m\xE1gic_16": 8358284838793556717
+      "barrer m\xE1gic_17": 6833586526418766558
+      "barrer m\xE1gic_18": -7765279552770319442
+      "barrer m\xE1gic_19": 183206368744824092
+      "barrer m\xE1gic_2": -4439634194031466355
+      "barrer m\xE1gic_20": -1128316460800722330
+      "barrer m\xE1gic_21": 3152520332855440464
+      "barrer m\xE1gic_22": 2834314996912855786
+      "barrer m\xE1gic_23": -2079145993966749288
+      "barrer m\xE1gic_24": -6237088639831877294
+      "barrer m\xE1gic_25": 2635660501912644809
+      "barrer m\xE1gic_26": 3591065225877149648
+      "barrer m\xE1gic_27": 7637540432576375479
+      "barrer m\xE1gic_28": -9070314690984300272
+      "barrer m\xE1gic_29": 8817731525487018478
+      "barrer m\xE1gic_3": -3310483406978276049
+      "barrer m\xE1gic_30": 3472806611660897605
+      "barrer m\xE1gic_31": -4412280278015311568
+      "barrer m\xE1gic_32": -2633626123718001540
+      "barrer m\xE1gic_33": 7209927721008111637
+      "barrer m\xE1gic_34": -517861084527935496
+      "barrer m\xE1gic_35": -1331038949962471826
+      "barrer m\xE1gic_36": -965827234020588472
+      "barrer m\xE1gic_37": -8089516429159863847
+      "barrer m\xE1gic_38": -6504824334371047251
+      "barrer m\xE1gic_39": 4652673990969164866
+      "barrer m\xE1gic_4": 8969539869555098094
+      "barrer m\xE1gic_40": 3539336549735958020
+      "barrer m\xE1gic_41": -977803993036305828
+      "barrer m\xE1gic_42": 8492448063484630665
+      "barrer m\xE1gic_43": -5681934533476492370
+      "barrer m\xE1gic_44": -5462269405888369402
+      "barrer m\xE1gic_45": -5139176915351308743
+      "barrer m\xE1gic_46": 741509104108430589
+      "barrer m\xE1gic_47": -4356247855708192440
+      "barrer m\xE1gic_48": 3503707722875999235
+      "barrer m\xE1gic_49": 577535150578093026
+      "barrer m\xE1gic_5": -918237285082979885
+      "barrer m\xE1gic_50": 5081907650322411250
+      "barrer m\xE1gic_51": 2828073741626936102
+      "barrer m\xE1gic_52": -8161491979335001290
+      "barrer m\xE1gic_53": -8070705438960046380
+      "barrer m\xE1gic_54": 2944963547272838698
+      "barrer m\xE1gic_55": -7970115224348990689
+      "barrer m\xE1gic_56": -5367732605585594634
+      "barrer m\xE1gic_57": -7035067595332599753
+      "barrer m\xE1gic_58": 5141531572835510967
+      "barrer m\xE1gic_6": -4286815308653264170
+      "barrer m\xE1gic_7": 3372986375190392098
+      "barrer m\xE1gic_8": 8268022044336947529
+      "barrer m\xE1gic_9": -5369201689038573602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

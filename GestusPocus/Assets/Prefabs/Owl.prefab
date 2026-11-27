@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5054125266140011864}
   - component: {fileID: -2342740060509905768}
   - component: {fileID: 4253756726711388575}
+  - component: {fileID: 5244074947052269870}
   m_Layer: 8
   m_Name: Owl
   m_TagString: Owl
@@ -85,7 +86,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0, g: 0.5058824, b: 0.54509807, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -130,7 +131,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5
+  m_Radius: 0.65
 --- !u!114 &4253756726711388575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -455,3 +456,28 @@ Transform:
   - {fileID: 7994851789073839303}
   m_Father: {fileID: 6399875215519033137}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5244074947052269870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796000057108661454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3831d333964fc7951177415234ca7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OwlAnimator
+  levelSheets:
+  - {fileID: 2800000, guid: fea3efe31a41d954c883b14bd7791dda, type: 3}
+  - {fileID: 2800000, guid: 68ffe40eb4e583f4a8d7613887cb1a70, type: 3}
+  - {fileID: 2800000, guid: b2ce80d7db9e0294d861d97cd7b901e2, type: 3}
+  - {fileID: 2800000, guid: bdbffea393cff31419db413381e1309c, type: 3}
+  forceLevel: 0
+  owlHeight: 1.6
+  framesPerSecond: 8
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 64
+  maxShadowDistance: 30
+  shadowYOffset: 0

@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: bdbffea393cff31419db413381e1309c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7296347560901543278
+    second: invierno_buho_0
+  - first:
+      213: 8376656217214504693
+    second: invierno_buho_1
+  - first:
+      213: 2302748028932233049
+    second: invierno_buho_2
+  - first:
+      213: 4747416204914566286
+    second: invierno_buho_3
+  - first:
+      213: -597272250732266678
+    second: invierno_buho_4
+  - first:
+      213: -2392844619164065094
+    second: invierno_buho_5
+  - first:
+      213: 6861772338604809479
+    second: invierno_buho_6
+  - first:
+      213: 7588705706352075084
+    second: invierno_buho_7
+  - first:
+      213: 245611744291962277
+    second: invierno_buho_8
+  - first:
+      213: 2407676022347830213
+    second: invierno_buho_9
+  - first:
+      213: 1001455592817209735
+    second: invierno_buho_10
+  - first:
+      213: -1731422352599277720
+    second: invierno_buho_11
+  - first:
+      213: -6031826255225860270
+    second: invierno_buho_12
+  - first:
+      213: 4362091873684093243
+    second: invierno_buho_13
+  - first:
+      213: 6442148199618527792
+    second: invierno_buho_14
+  - first:
+      213: -6478092932081166425
+    second: invierno_buho_15
+  - first:
+      213: -5540506488681510534
+    second: invierno_buho_16
+  - first:
+      213: 2201101116336481494
+    second: invierno_buho_17
+  - first:
+      213: 8965502473767921785
+    second: invierno_buho_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: invierno_buho_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 500
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65035de275d14560800000000000000
+      internalID: 7296347560901543278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 63
+        width: 252
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe43a8b27cdf3470800000000000000
+      internalID: 8376656217214504693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 18
+        width: 596
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579cbfb12105ff10800000000000000
+      internalID: 2302748028932233049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 83
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84addea2e532e140800000000000000
+      internalID: 4747416204914566286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_4
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 152
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb7ec6d0016b7f0800000000000000
+      internalID: -597272250732266678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 65
+        width: 206
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab265082f78eaced0800000000000000
+      internalID: -2392844619164065094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 69
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d14243699e93f50800000000000000
+      internalID: 6861772338604809479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 152
+        width: 450
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41681c12af705960800000000000000
+      internalID: 7588705706352075084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_8
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 53
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbf238496986300800000000000000
+      internalID: 245611744291962277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_9
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 57
+        width: 199
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3944ef598c96120800000000000000
+      internalID: 2407676022347830213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_10
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 79
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b2344e82e5ed00800000000000000
+      internalID: 1001455592817209735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_11
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 110
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f16253b80c8f7e0800000000000000
+      internalID: -1731422352599277720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_12
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 85
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f43669af5aa4ca0800000000000000
+      internalID: -6031826255225860270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_13
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 71
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39fe80a273498c30800000000000000
+      internalID: 4362091873684093243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 144
+        width: 424
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324fa4d7ab176950800000000000000
+      internalID: 6442148199618527792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_15
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 64
+        width: 275
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a75559fcc03916a0800000000000000
+      internalID: -6478092932081166425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_16
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 67
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79446214ba2c13b0800000000000000
+      internalID: -5540506488681510534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 53
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a3f9adc1eb8e10800000000000000
+      internalID: 2201101116336481494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invierno_buho_18
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 61
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a2d5affcdb6c70800000000000000
+      internalID: 8965502473767921785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      invierno_buho_0: 7296347560901543278
+      invierno_buho_1: 8376656217214504693
+      invierno_buho_10: 1001455592817209735
+      invierno_buho_11: -1731422352599277720
+      invierno_buho_12: -6031826255225860270
+      invierno_buho_13: 4362091873684093243
+      invierno_buho_14: 6442148199618527792
+      invierno_buho_15: -6478092932081166425
+      invierno_buho_16: -5540506488681510534
+      invierno_buho_17: 2201101116336481494
+      invierno_buho_18: 8965502473767921785
+      invierno_buho_2: 2302748028932233049
+      invierno_buho_3: 4747416204914566286
+      invierno_buho_4: -597272250732266678
+      invierno_buho_5: -2392844619164065094
+      invierno_buho_6: 6861772338604809479
+      invierno_buho_7: 7588705706352075084
+      invierno_buho_8: 245611744291962277
+      invierno_buho_9: 2407676022347830213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

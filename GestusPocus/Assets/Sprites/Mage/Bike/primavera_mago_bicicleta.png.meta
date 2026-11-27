@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 97a97c330ef25c745baa01407783f5d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3511868760317824019
+    second: primavera_mago_bicicleta_0
+  - first:
+      213: 7158740095331307671
+    second: primavera_mago_bicicleta_1
+  - first:
+      213: -4070502184629555173
+    second: primavera_mago_bicicleta_2
+  - first:
+      213: 4333477523057337116
+    second: primavera_mago_bicicleta_3
+  - first:
+      213: 3713762021516654560
+    second: primavera_mago_bicicleta_4
+  - first:
+      213: -2058880102221900377
+    second: primavera_mago_bicicleta_5
+  - first:
+      213: -525767153480643574
+    second: primavera_mago_bicicleta_6
+  - first:
+      213: 5340727568957101019
+    second: primavera_mago_bicicleta_7
+  - first:
+      213: -3516585626975897016
+    second: primavera_mago_bicicleta_8
+  - first:
+      213: -6588823693184319012
+    second: primavera_mago_bicicleta_9
+  - first:
+      213: 3986551681298517728
+    second: primavera_mago_bicicleta_10
+  - first:
+      213: -9104917672993172062
+    second: primavera_mago_bicicleta_11
+  - first:
+      213: -4387477522996815662
+    second: primavera_mago_bicicleta_12
+  - first:
+      213: 2954823446087974025
+    second: primavera_mago_bicicleta_13
+  - first:
+      213: 2252530368255764090
+    second: primavera_mago_bicicleta_14
+  - first:
+      213: -6846619227023066248
+    second: primavera_mago_bicicleta_15
+  - first:
+      213: -7377802522528672916
+    second: primavera_mago_bicicleta_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 335
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c0984e70aacb030800000000000000
+      internalID: 3511868760317824019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 150
+        width: 355
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79091952034f85360800000000000000
+      internalID: 7158740095331307671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 629
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1034bb54dba287c0800000000000000
+      internalID: -4070502184629555173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_3
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 626
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e8f3f8da932c30800000000000000
+      internalID: 4333477523057337116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_4
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 490
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e736d8d1eee98330800000000000000
+      internalID: 3713762021516654560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_5
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 630
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a591f794736d63e0800000000000000
+      internalID: -2058880102221900377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 642
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc73e3f8914b8f0800000000000000
+      internalID: -525767153480643574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 588
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d2d57d631e1a40800000000000000
+      internalID: 5340727568957101019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 19
+        width: 389
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a7bd10104923fc0800000000000000
+      internalID: -3516585626975897016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 32
+        width: 300
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1421892cbcf84a0800000000000000
+      internalID: -6588823693184319012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_10
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 158
+        width: 305
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec88ae1a3135730800000000000000
+      internalID: 3986551681298517728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 128
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5d018cd95d4a180800000000000000
+      internalID: -9104917672993172062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_12
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 23
+        width: 45
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d893cd407c8c13c0800000000000000
+      internalID: -4387477522996815662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb116d444a10920800000000000000
+      internalID: 2954823446087974025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 188
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a762aad7f68924f10800000000000000
+      internalID: 2252530368255764090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_15
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 14
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3ee4861cebf0a0800000000000000
+      internalID: -6846619227023066248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_bicicleta_16
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 20
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6392bde1b7cc9990800000000000000
+      internalID: -7377802522528672916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_mago_bicicleta_0: 3511868760317824019
+      primavera_mago_bicicleta_1: 7158740095331307671
+      primavera_mago_bicicleta_10: 3986551681298517728
+      primavera_mago_bicicleta_11: -9104917672993172062
+      primavera_mago_bicicleta_12: -4387477522996815662
+      primavera_mago_bicicleta_13: 2954823446087974025
+      primavera_mago_bicicleta_14: 2252530368255764090
+      primavera_mago_bicicleta_15: -6846619227023066248
+      primavera_mago_bicicleta_16: -7377802522528672916
+      primavera_mago_bicicleta_2: -4070502184629555173
+      primavera_mago_bicicleta_3: 4333477523057337116
+      primavera_mago_bicicleta_4: 3713762021516654560
+      primavera_mago_bicicleta_5: -2058880102221900377
+      primavera_mago_bicicleta_6: -525767153480643574
+      primavera_mago_bicicleta_7: 5340727568957101019
+      primavera_mago_bicicleta_8: -3516585626975897016
+      primavera_mago_bicicleta_9: -6588823693184319012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
