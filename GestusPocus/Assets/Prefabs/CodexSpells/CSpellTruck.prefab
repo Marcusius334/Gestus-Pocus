@@ -65,6 +65,10 @@ PrefabInstance:
       value: CSpellTruck
       objectReference: {fileID: 0}
     - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
+      propertyPath: SignName
+      value: "Cami\xF3n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
       propertyPath: explanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: adc92dd3d3685024baff47934a03c6cc, type: 3}

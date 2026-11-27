@@ -65,6 +65,10 @@ PrefabInstance:
       value: CSpellCat
       objectReference: {fileID: 0}
     - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
+      propertyPath: SignName
+      value: Gato
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
       propertyPath: explanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: 684da13a78516c748b7f0ee7132eb005, type: 3}

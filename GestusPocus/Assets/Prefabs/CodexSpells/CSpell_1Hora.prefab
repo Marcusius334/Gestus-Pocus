@@ -69,6 +69,10 @@ PrefabInstance:
       value: CSpell_1Hora
       objectReference: {fileID: 0}
     - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
+      propertyPath: SignName
+      value: 1 hora
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
       propertyPath: explanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: fae0f0f16de6c304fbe56740659a0ae0, type: 3}

@@ -65,6 +65,10 @@ PrefabInstance:
       value: CSpellTurtle
       objectReference: {fileID: 0}
     - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
+      propertyPath: SignName
+      value: Tortuga
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
       propertyPath: explanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: 459305e224ac23347927a2d3003b996b, type: 3}

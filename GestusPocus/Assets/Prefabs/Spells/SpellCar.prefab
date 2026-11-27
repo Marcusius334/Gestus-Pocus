@@ -9,6 +9,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -7047877208102285867, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
+      propertyPath: SignName
+      value: Coche
+      objectReference: {fileID: 0}
+    - target: {fileID: -7047877208102285867, guid: b1e2eb3b7ca00c14d9f3a04b74faa08d, type: 3}
       propertyPath: spellName
       value: Car
       objectReference: {fileID: 0}

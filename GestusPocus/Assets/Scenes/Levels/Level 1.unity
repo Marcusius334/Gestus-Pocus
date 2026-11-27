@@ -540,6 +540,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8792001141075571069, guid: 1da054d974cab864692b83e0027433ba, type: 3}
+      propertyPath: signName
+      value: Vaca
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792001141075571069, guid: 1da054d974cab864692b83e0027433ba, type: 3}
       propertyPath: explanation
       value: 
       objectReference: {fileID: 835836604594371808}
@@ -2012,6 +2016,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 245208099}
     m_Modifications:
     - target: {fileID: 3614339890116036082, guid: 08e7769bcba09164d8e44a2d264773ab, type: 3}
+      propertyPath: signName
+      value: Tortuga
+      objectReference: {fileID: 0}
+    - target: {fileID: 3614339890116036082, guid: 08e7769bcba09164d8e44a2d264773ab, type: 3}
       propertyPath: explanation
       value: 
       objectReference: {fileID: 835836604594371808}
@@ -2376,6 +2384,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 245208099}
     m_Modifications:
     - target: {fileID: 316250170811284663, guid: f1a3ceaeba8f1c64f84815dfa384a453, type: 3}
+      propertyPath: signName
+      value: Paloma
+      objectReference: {fileID: 0}
+    - target: {fileID: 316250170811284663, guid: f1a3ceaeba8f1c64f84815dfa384a453, type: 3}
       propertyPath: explanation
       value: 
       objectReference: {fileID: 835836604594371808}
@@ -2562,6 +2574,10 @@ PrefabInstance:
     - target: {fileID: 1250369081921580061, guid: fae8ba64649e7df449ac4552ee7f9274, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683992092496728598, guid: fae8ba64649e7df449ac4552ee7f9274, type: 3}
+      propertyPath: signName
+      value: Gato
       objectReference: {fileID: 0}
     - target: {fileID: 7683992092496728598, guid: fae8ba64649e7df449ac4552ee7f9274, type: 3}
       propertyPath: explanation

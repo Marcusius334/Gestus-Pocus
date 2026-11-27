@@ -65,6 +65,10 @@ PrefabInstance:
       value: CSpell_12_00
       objectReference: {fileID: 0}
     - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
+      propertyPath: SignName
+      value: 12:00
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631194228012533915, guid: 4965ce6ef2c150d4da871e8bcaa6d7a6, type: 3}
       propertyPath: explanationSheet
       value: 
       objectReference: {fileID: 2800000, guid: f95f0faa46b5fba4e95df93cf305e2d1, type: 3}

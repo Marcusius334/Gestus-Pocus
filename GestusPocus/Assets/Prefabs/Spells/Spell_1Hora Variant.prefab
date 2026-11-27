@@ -65,6 +65,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8681146073883573505, guid: fae0f0f16de6c304fbe56740659a0ae0, type: 3}
     - target: {fileID: 8351584155531500019, guid: a2ed27f446cb50346b182be015be4bea, type: 3}
+      propertyPath: SignName
+      value: 1 hora
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351584155531500019, guid: a2ed27f446cb50346b182be015be4bea, type: 3}
       propertyPath: spellName
       value: 1_hora
       objectReference: {fileID: 0}

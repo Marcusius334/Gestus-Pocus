@@ -65,6 +65,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -8788362434006590461, guid: f95f0faa46b5fba4e95df93cf305e2d1, type: 3}
     - target: {fileID: 8351584155531500019, guid: a2ed27f446cb50346b182be015be4bea, type: 3}
+      propertyPath: SignName
+      value: 12:00
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351584155531500019, guid: a2ed27f446cb50346b182be015be4bea, type: 3}
       propertyPath: spellName
       value: 12_00
       objectReference: {fileID: 0}

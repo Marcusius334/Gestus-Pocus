@@ -1602,6 +1602,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 835836604594371810}
     m_Modifications:
     - target: {fileID: 1810448660580473349, guid: b2e9ea066b9ad884b86e7ebbfa756bea, type: 3}
+      propertyPath: signName
+      value: Camion
+      objectReference: {fileID: 0}
+    - target: {fileID: 1810448660580473349, guid: b2e9ea066b9ad884b86e7ebbfa756bea, type: 3}
       propertyPath: explanation
       value: 
       objectReference: {fileID: 835836604594371808}

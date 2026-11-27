@@ -9,6 +9,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 380749223351298917, guid: 10fa7c2bf777c7c49aeec3241aaf6899, type: 3}
+      propertyPath: SignName
+      value: 7:30
+      objectReference: {fileID: 0}
+    - target: {fileID: 380749223351298917, guid: 10fa7c2bf777c7c49aeec3241aaf6899, type: 3}
       propertyPath: spellName
       value: 7_30
       objectReference: {fileID: 0}
