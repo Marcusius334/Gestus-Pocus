@@ -64,6 +64,9 @@ public class PlayerMovement : MonoBehaviour
         isGrounded = groundCheck;
     }
 
+    // Used by MageAnimator to choose between the ground and jump animations.
+    public bool IsGrounded => isGrounded;
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Win"))
