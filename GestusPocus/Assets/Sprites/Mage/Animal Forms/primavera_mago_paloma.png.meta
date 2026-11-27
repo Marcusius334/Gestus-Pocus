@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: f4b1155bb619ef04b98b08a398d089a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6114384428588870726
+    second: primavera_mago_paloma_0
+  - first:
+      213: 5849880858487001900
+    second: primavera_mago_paloma_1
+  - first:
+      213: 6721688566374250784
+    second: primavera_mago_paloma_2
+  - first:
+      213: -5670693774988272752
+    second: primavera_mago_paloma_3
+  - first:
+      213: 5034875853032500400
+    second: primavera_mago_paloma_4
+  - first:
+      213: 1153975476309874535
+    second: primavera_mago_paloma_5
+  - first:
+      213: -780786253858285793
+    second: primavera_mago_paloma_6
+  - first:
+      213: -7049366777894089105
+    second: primavera_mago_paloma_7
+  - first:
+      213: 2656522832247263945
+    second: primavera_mago_paloma_8
+  - first:
+      213: 184698977881813294
+    second: primavera_mago_paloma_9
+  - first:
+      213: 1634322869429118950
+    second: primavera_mago_paloma_10
+  - first:
+      213: -1719933998900684227
+    second: primavera_mago_paloma_11
+  - first:
+      213: -8536061095122767269
+    second: primavera_mago_paloma_12
+  - first:
+      213: -2545059149156927148
+    second: primavera_mago_paloma_13
+  - first:
+      213: -5604709785808234653
+    second: primavera_mago_paloma_14
+  - first:
+      213: -3310011333993829450
+    second: primavera_mago_paloma_15
+  - first:
+      213: -5990469266727056301
+    second: primavera_mago_paloma_16
+  - first:
+      213: -3853657721912486794
+    second: primavera_mago_paloma_17
+  - first:
+      213: -1047937359122274857
+    second: primavera_mago_paloma_18
+  - first:
+      213: -6660141641636469078
+    second: primavera_mago_paloma_19
+  - first:
+      213: -1206121437545145514
+    second: primavera_mago_paloma_20
+  - first:
+      213: 464913490793616729
+    second: primavera_mago_paloma_21
+  - first:
+      213: 6893313052267336237
+    second: primavera_mago_paloma_22
+  - first:
+      213: -2416805535303925576
+    second: primavera_mago_paloma_23
+  - first:
+      213: -656144411317695270
+    second: primavera_mago_paloma_24
+  - first:
+      213: 6971754375337368648
+    second: primavera_mago_paloma_25
+  - first:
+      213: 4947156684435460453
+    second: primavera_mago_paloma_26
+  - first:
+      213: -2188578316891415232
+    second: primavera_mago_paloma_27
+  - first:
+      213: 348774808182017997
+    second: primavera_mago_paloma_28
+  - first:
+      213: 1369147613598770586
+    second: primavera_mago_paloma_29
+  - first:
+      213: 4462555030931591729
+    second: primavera_mago_paloma_30
+  - first:
+      213: -949436319058890635
+    second: primavera_mago_paloma_31
+  - first:
+      213: -6296984751225760814
+    second: primavera_mago_paloma_32
+  - first:
+      213: -7999742516338629189
+    second: primavera_mago_paloma_33
+  - first:
+      213: 7554876141600918849
+    second: primavera_mago_paloma_34
+  - first:
+      213: 3863145428525301887
+    second: primavera_mago_paloma_35
+  - first:
+      213: -8728166657223356869
+    second: primavera_mago_paloma_36
+  - first:
+      213: 502565051819321485
+    second: primavera_mago_paloma_37
+  - first:
+      213: 6138334111175209617
+    second: primavera_mago_paloma_38
+  - first:
+      213: -64882720520426125
+    second: primavera_mago_paloma_39
+  - first:
+      213: -6063050894757950944
+    second: primavera_mago_paloma_40
+  - first:
+      213: 2175557849161289864
+    second: primavera_mago_paloma_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primavera_mago_paloma_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 190
+        width: 349
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c283e0e38aad450800000000000000
+      internalID: 6114384428588870726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 15
+        width: 439
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23997495a3fe2150800000000000000
+      internalID: 5849880858487001900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 166
+        width: 389
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ba89532c384d50800000000000000
+      internalID: 6721688566374250784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_3
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 630
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b1ec76e06ad41b0800000000000000
+      internalID: -5670693774988272752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 383
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca13499e87fd540800000000000000
+      internalID: 5034875853032500400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_5
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 526
+        width: 118
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76756f8e49eb30010800000000000000
+      internalID: 1153975476309874535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_6
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 0
+        width: 344
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d445f9071a25f0800000000000000
+      internalID: -780786253858285793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ece20c34e9b2e90800000000000000
+      internalID: -7049366777894089105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 82
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c210d9e07dddd420800000000000000
+      internalID: 2656522832247263945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 53
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f507edbe209200800000000000000
+      internalID: 184698977881813294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ae90adf74ea610800000000000000
+      internalID: 1634322869429118950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 35
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a586ef3219128e0800000000000000
+      internalID: -1719933998900684227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 37
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52fc24f8a1d98980800000000000000
+      internalID: -8536061095122767269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b42a20322eacd0800000000000000
+      internalID: -2545059149156927148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 47
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679eb315221832b0800000000000000
+      internalID: -5604709785808234653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe7ca9a3a7012d0800000000000000
+      internalID: -3310011333993829450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc6d6d0f39ddca0800000000000000
+      internalID: -5990469266727056301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674177f28be058ac0800000000000000
+      internalID: -3853657721912486794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5e7aa268af471f0800000000000000
+      internalID: -1047937359122274857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6a870c67c6293a0800000000000000
+      internalID: -6660141641636469078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 31
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b532f51fef24fe0800000000000000
+      internalID: -1206121437545145514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_21
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 39
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555a0e4b54b37600800000000000000
+      internalID: 464913490793616729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 37
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2255fdd2b7f9af50800000000000000
+      internalID: 6893313052267336237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 63
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00301ab28c57ed0800000000000000
+      internalID: -2416805535303925576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc0d026228e4e6f0800000000000000
+      internalID: -656144411317695270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 61
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c524b9aa5a0c060800000000000000
+      internalID: 6971754375337368648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_26
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56199f71bc4d7a440800000000000000
+      internalID: 4947156684435460453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 146
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d909acd9b90a1e0800000000000000
+      internalID: -2188578316891415232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_28
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf4b4417d817d400800000000000000
+      internalID: 348774808182017997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 49
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e0a12080300310800000000000000
+      internalID: 1369147613598770586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_30
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325f41382e2eed30800000000000000
+      internalID: 4462555030931591729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_31
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 37
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570f3a9b2bce2d2f0800000000000000
+      internalID: -949436319058890635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_32
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 32
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3132b4bbd9c98a0800000000000000
+      internalID: -6296984751225760814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_33
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 39
+        width: 154
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5eb0bd0943bf090800000000000000
+      internalID: -7999742516338629189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_34
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 33
+        width: 346
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4236c2df48d860800000000000000
+      internalID: 7554876141600918849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_35
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70cce6ac46ac9530800000000000000
+      internalID: 3863145428525301887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_36
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e0bc74ba25fd680800000000000000
+      internalID: -8728166657223356869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_37
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88673e704879f600800000000000000
+      internalID: 502565051819321485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_38
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 14
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192f2411a5ebf2550800000000000000
+      internalID: 6138334111175209617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_39
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37da15b628d791ff0800000000000000
+      internalID: -64882720520426125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_40
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 15
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a86daa557bbdba0800000000000000
+      internalID: -6063050894757950944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: primavera_mago_paloma_41
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 17
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88052935652213e10800000000000000
+      internalID: 2175557849161289864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      primavera_mago_paloma_0: 6114384428588870726
+      primavera_mago_paloma_1: 5849880858487001900
+      primavera_mago_paloma_10: 1634322869429118950
+      primavera_mago_paloma_11: -1719933998900684227
+      primavera_mago_paloma_12: -8536061095122767269
+      primavera_mago_paloma_13: -2545059149156927148
+      primavera_mago_paloma_14: -5604709785808234653
+      primavera_mago_paloma_15: -3310011333993829450
+      primavera_mago_paloma_16: -5990469266727056301
+      primavera_mago_paloma_17: -3853657721912486794
+      primavera_mago_paloma_18: -1047937359122274857
+      primavera_mago_paloma_19: -6660141641636469078
+      primavera_mago_paloma_2: 6721688566374250784
+      primavera_mago_paloma_20: -1206121437545145514
+      primavera_mago_paloma_21: 464913490793616729
+      primavera_mago_paloma_22: 6893313052267336237
+      primavera_mago_paloma_23: -2416805535303925576
+      primavera_mago_paloma_24: -656144411317695270
+      primavera_mago_paloma_25: 6971754375337368648
+      primavera_mago_paloma_26: 4947156684435460453
+      primavera_mago_paloma_27: -2188578316891415232
+      primavera_mago_paloma_28: 348774808182017997
+      primavera_mago_paloma_29: 1369147613598770586
+      primavera_mago_paloma_3: -5670693774988272752
+      primavera_mago_paloma_30: 4462555030931591729
+      primavera_mago_paloma_31: -949436319058890635
+      primavera_mago_paloma_32: -6296984751225760814
+      primavera_mago_paloma_33: -7999742516338629189
+      primavera_mago_paloma_34: 7554876141600918849
+      primavera_mago_paloma_35: 3863145428525301887
+      primavera_mago_paloma_36: -8728166657223356869
+      primavera_mago_paloma_37: 502565051819321485
+      primavera_mago_paloma_38: 6138334111175209617
+      primavera_mago_paloma_39: -64882720520426125
+      primavera_mago_paloma_4: 5034875853032500400
+      primavera_mago_paloma_40: -6063050894757950944
+      primavera_mago_paloma_41: 2175557849161289864
+      primavera_mago_paloma_5: 1153975476309874535
+      primavera_mago_paloma_6: -780786253858285793
+      primavera_mago_paloma_7: -7049366777894089105
+      primavera_mago_paloma_8: 2656522832247263945
+      primavera_mago_paloma_9: 184698977881813294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
