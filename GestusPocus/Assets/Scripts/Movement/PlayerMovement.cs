@@ -71,8 +71,12 @@ public class PlayerMovement : MonoBehaviour
             if(GameManager.levelsUnlocked == GameManager.actualLevel){
                 GameManager.UnlockLevel();
             }
-
-            sceneLoader.LoadScene("Win");
+            if(GameManager.StringLevel()=="Winter"){
+                sceneLoader.LoadScene("Complete");
+            }else{
+                sceneLoader.LoadScene("Win");
+            }
+            
         }
     }
 
