@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     private bool moving;
     private bool isGrounded;
     private bool animating;
+    private MageAnimator mageAnimator;
 
     [Header("Managers")]
     public SceneLoader sceneLoader;
@@ -21,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        mageAnimator = GetComponent<MageAnimator>();
         jumping = false;
         moving = false;
     }
@@ -67,6 +69,9 @@ public class PlayerMovement : MonoBehaviour
     // Used by MageAnimator to choose between the ground and jump animations.
     public bool IsGrounded => isGrounded;
 
+    // Used by MageAnimator to show the transformation while an animation plays.
+    public bool IsAnimating => animating;
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Win"))
@@ -94,6 +99,10 @@ public class PlayerMovement : MonoBehaviour
         animating = true;
         jumping = false;
         moving = false;
+
+        // Show the animal/vehicle art for this animation, if this level has it.
+        if (mageAnimator != null)
+            mageAnimator.StartForm(numberAnimaton, endPosition.x < transform.position.x);
 
         switch(numberAnimaton){
             case 1:
