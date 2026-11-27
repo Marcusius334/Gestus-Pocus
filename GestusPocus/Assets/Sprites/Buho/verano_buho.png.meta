@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 68ffe40eb4e583f4a8d7613887cb1a70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7521601449390572503
+    second: verano_buho_0
+  - first:
+      213: -1277025085024526976
+    second: verano_buho_1
+  - first:
+      213: 6580474586729254595
+    second: verano_buho_2
+  - first:
+      213: 4197415083713734013
+    second: verano_buho_3
+  - first:
+      213: -7681236729891272402
+    second: verano_buho_4
+  - first:
+      213: 5863036052345654235
+    second: verano_buho_5
+  - first:
+      213: 3879457191817660287
+    second: verano_buho_6
+  - first:
+      213: 1859638943320794162
+    second: verano_buho_7
+  - first:
+      213: -1774063111993412860
+    second: verano_buho_8
+  - first:
+      213: 5008394399359416135
+    second: verano_buho_9
+  - first:
+      213: 3879550269660313044
+    second: verano_buho_10
+  - first:
+      213: -5819239332402346619
+    second: verano_buho_11
+  - first:
+      213: -995150355602719826
+    second: verano_buho_12
+  - first:
+      213: 3719172020880820142
+    second: verano_buho_13
+  - first:
+      213: 3087792400002655188
+    second: verano_buho_14
+  - first:
+      213: 3187105359448259495
+    second: verano_buho_15
+  - first:
+      213: 6045497029295413531
+    second: verano_buho_16
+  - first:
+      213: -951570984697120993
+    second: verano_buho_17
+  - first:
+      213: -2747153039192898591
+    second: verano_buho_18
+  - first:
+      213: -1992789994523471375
+    second: verano_buho_19
+  - first:
+      213: 503749784666096184
+    second: verano_buho_20
+  - first:
+      213: -549156718892159333
+    second: verano_buho_21
+  - first:
+      213: -8414571476321810598
+    second: verano_buho_22
+  - first:
+      213: -2582999407199002007
+    second: verano_buho_23
+  - first:
+      213: 2295382414886302550
+    second: verano_buho_24
+  - first:
+      213: -2205260880829317257
+    second: verano_buho_25
+  - first:
+      213: -8961310713645800360
+    second: verano_buho_26
+  - first:
+      213: 6170732585934902484
+    second: verano_buho_27
+  - first:
+      213: -3174554731511827138
+    second: verano_buho_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: verano_buho_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 23
+        width: 572
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d30df4caa8126860800000000000000
+      internalID: 7521601449390572503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 675
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d99dd7378174ee0800000000000000
+      internalID: -1277025085024526976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 691
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8b7395ca825b50800000000000000
+      internalID: 6580474586729254595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 659
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75af9f97c6304a30800000000000000
+      internalID: 4197415083713734013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 77
+        width: 492
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c52f14e3c66590800000000000000
+      internalID: -7681236729891272402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 667
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0f55d930bd5150800000000000000
+      internalID: 5863036052345654235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_6
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 669
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7740aff2c996d530800000000000000
+      internalID: 3879457191817660287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 665
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2346e1324c3cec910800000000000000
+      internalID: 1859638943320794162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 643
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4033280cff24167e0800000000000000
+      internalID: -1774063111993412860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_9
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 21
+        width: 554
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747bfdcab24618540800000000000000
+      internalID: 5008394399359416135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_10
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 693
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5bf5f5a6ee6d530800000000000000
+      internalID: 3879550269660313044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_11
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 667
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5854d29a8a8ed3fa0800000000000000
+      internalID: -5819239332402346619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_12
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 465
+        width: 97
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab323c26048032f0800000000000000
+      internalID: -995150355602719826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 663
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea74c2b7f372d9330800000000000000
+      internalID: 3719172020880820142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_14
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 665
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d32f46f3da0ada20800000000000000
+      internalID: 3087792400002655188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_15
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 679
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab38ab307fda3c20800000000000000
+      internalID: 3187105359448259495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_16
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 663
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1915d9848be5e350800000000000000
+      internalID: 6045497029295413531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 568
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f173f862b375bc2f0800000000000000
+      internalID: -951570984697120993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_18
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 39
+        width: 470
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c54badd620e9d0800000000000000
+      internalID: -2747153039192898591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 37
+        width: 277
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d978ee003854e0800000000000000
+      internalID: -1992789994523471375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 85
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c3ba92cdadf600800000000000000
+      internalID: 503749784666096184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 47
+        width: 209
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee96cafd00168f0800000000000000
+      internalID: -549156718892159333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_22
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 69
+        width: 198
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5744b813df693b80800000000000000
+      internalID: -8414571476321810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ebd679b7572cd0800000000000000
+      internalID: -2582999407199002007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_24
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 79
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f9f61526dadf10800000000000000
+      internalID: 2295382414886302550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_25
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 65
+        width: 252
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7a11b9e65561e0800000000000000
+      internalID: -2205260880829317257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8546d3f826703a380800000000000000
+      internalID: -8961310713645800360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 15
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d39cc798d2a550800000000000000
+      internalID: 6170732585934902484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: verano_buho_28
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 23
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35b33c8a47b1f3d0800000000000000
+      internalID: -3174554731511827138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      verano_buho_0: 7521601449390572503
+      verano_buho_1: -1277025085024526976
+      verano_buho_10: 3879550269660313044
+      verano_buho_11: -5819239332402346619
+      verano_buho_12: -995150355602719826
+      verano_buho_13: 3719172020880820142
+      verano_buho_14: 3087792400002655188
+      verano_buho_15: 3187105359448259495
+      verano_buho_16: 6045497029295413531
+      verano_buho_17: -951570984697120993
+      verano_buho_18: -2747153039192898591
+      verano_buho_19: -1992789994523471375
+      verano_buho_2: 6580474586729254595
+      verano_buho_20: 503749784666096184
+      verano_buho_21: -549156718892159333
+      verano_buho_22: -8414571476321810598
+      verano_buho_23: -2582999407199002007
+      verano_buho_24: 2295382414886302550
+      verano_buho_25: -2205260880829317257
+      verano_buho_26: -8961310713645800360
+      verano_buho_27: 6170732585934902484
+      verano_buho_28: -3174554731511827138
+      verano_buho_3: 4197415083713734013
+      verano_buho_4: -7681236729891272402
+      verano_buho_5: 5863036052345654235
+      verano_buho_6: 3879457191817660287
+      verano_buho_7: 1859638943320794162
+      verano_buho_8: -1774063111993412860
+      verano_buho_9: 5008394399359416135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
