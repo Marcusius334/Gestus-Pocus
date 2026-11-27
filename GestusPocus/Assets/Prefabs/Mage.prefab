@@ -293,3 +293,137 @@ MonoBehaviour:
   landingTime: 0.12
   runSpeedThreshold: 0.1
   jumpApexSpeed: 2
+  forms:
+  - name: Gato
+    animationNumber: 1
+    level: 1
+    sheet: {fileID: 2800000, guid: 81c6f7404aca7d8478d90bedac5fa69a, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 1.4
+    framesPerSecond: 12
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 367
+    - 719
+    - 1075
+    - 1439
+    - 1798
+    - 2172
+    top: 171
+    bottom: 542
+    ground: 537
+  - name: Vaca
+    animationNumber: 2
+    level: 1
+    sheet: {fileID: 2800000, guid: 20857cc1381601c4ca5d4a91365c8002, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 2.8
+    framesPerSecond: 10
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 350
+    - 698
+    - 1051
+    - 1415
+    - 1781
+    - 2172
+    top: 153
+    bottom: 532
+    ground: 510
+  - name: Tortuga
+    animationNumber: 3
+    level: 1
+    sheet: {fileID: 2800000, guid: 53d3334a0c1a08c408f1d5b01e9f0e80, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 1.3
+    framesPerSecond: 10
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 350
+    - 727
+    - 1072
+    - 1425
+    - 1800
+    - 2172
+    top: 215
+    bottom: 514
+    ground: 494
+  - name: Paloma
+    animationNumber: 4
+    level: 1
+    sheet: {fileID: 2800000, guid: f4b1155bb619ef04b98b08a398d089a2, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 1.4
+    framesPerSecond: 12
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 384
+    - 718
+    - 1081
+    - 1440
+    - 1791
+    - 2172
+    top: 199
+    bottom: 549
+    ground: 546
+  - name: Coche
+    animationNumber: 5
+    level: 3
+    sheet: {fileID: 2800000, guid: bf0664b8dd1e8c54d9f1e35c124f54ff, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 2.0
+    framesPerSecond: 12
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 358
+    - 721
+    - 1089
+    - 1439
+    - 1806
+    - 2172
+    top: 188
+    bottom: 477
+    ground: 463
+  - name: Bicicleta
+    animationNumber: 7
+    level: 3
+    sheet: {fileID: 2800000, guid: 97a97c330ef25c745baa01407783f5d3, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 2.5
+    framesPerSecond: 12
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 364
+    - 720
+    - 1077
+    - 1436
+    - 1791
+    - 2172
+    top: 140
+    bottom: 555
+    ground: 541
+  - name: Camion
+    animationNumber: 6
+    level: 3
+    sheet: {fileID: 2800000, guid: 83564d3609df51d4189eb8efb0b389b4, type: 3}
+    sheetSize: {x: 2172, y: 724}
+    height: 2.4
+    framesPerSecond: 12
+    slotWidth: 362
+    frameEdges:
+    - 0
+    - 363
+    - 731
+    - 1094
+    - 1449
+    - 1818
+    - 2172
+    top: 222
+    bottom: 492
+    ground: 478
