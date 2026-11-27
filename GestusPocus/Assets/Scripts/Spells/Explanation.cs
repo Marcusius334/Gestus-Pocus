@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 
 public class Explanation : MonoBehaviour
@@ -7,6 +8,17 @@ public class Explanation : MonoBehaviour
     [Tooltip("How much of the explanation area the gesture animation fills (1 = touches the edges of the area). " +
              "The animation keeps its proportions, so it is not stretched.")]
     [SerializeField, Range(0.1f, 1f)] private float animationFill = 0.9f;
+
+    [Header("Sign text (left of the animation)")]
+    [Tooltip("Text that says in Spanish which sign is shown. Leave empty to create it automatically " +
+             "to the left of the animation. If you assign your own text, it is not moved.")]
+    [SerializeField] private TMP_Text signText;
+    [Tooltip("Width of the automatic text box, in world units.")]
+    [SerializeField, Min(0.5f)] private float signTextWidth = 5f;
+    [Tooltip("Space between the text and the animation, in world units.")]
+    [SerializeField, Min(0f)] private float signTextGap = 0.3f;
+    [SerializeField] private Color signTextColor = new Color(0.15f, 0.08f, 0.02f, 1f);
+    private bool signTextCreatedHere;
 
     private GameObject previousGameObject;
 
@@ -50,7 +62,8 @@ public class Explanation : MonoBehaviour
         if (spell != null && spell.ExplanationFrames != null && spell.ExplanationFrames.Length > 0)
         {
             thisSprite.color = Color.white;
-            FitAnimationToArea(spell.ExplanationFrames);
+            Vector2 animationSize = FitAnimationToArea(spell.ExplanationFrames);
+            ShowSignText(spell.SignName, animationSize);
             SpriteSheetAnimator animator = GetAnimator();
             animator.FramesPerSecond = spell.ExplanationFps;
             animator.SetSheet(spell.ExplanationFrames);
@@ -59,6 +72,7 @@ public class Explanation : MonoBehaviour
 
         // No sheet: show the spell's static sprite like before.
         StopAnimation();
+        HideSignText();
         SpriteRenderer otherSprite = gameObject.GetComponent<SpriteRenderer>();
         thisSprite.sprite = otherSprite.sprite;
         thisSprite.color = otherSprite.color;
@@ -83,8 +97,9 @@ public class Explanation : MonoBehaviour
     /// <summary>
     /// Scales this object so the animation fits inside the explanation area
     /// (the area the static sprite covers) without being stretched.
+    /// Returns the size of the animation in world units (zero if it could not be fitted).
     /// </summary>
-    private void FitAnimationToArea(Sprite[] frames)
+    private Vector2 FitAnimationToArea(Sprite[] frames)
     {
         Vector2 frameSize = TypicalFrameSize(frames);
         Vector3 parentScale = transform.parent != null ? transform.parent.lossyScale : Vector3.one;
@@ -92,7 +107,7 @@ public class Explanation : MonoBehaviour
         if (frameSize.x <= 0f || frameSize.y <= 0f || parentScale.x == 0f || parentScale.y == 0f)
         {
             transform.localScale = originalScale;
-            return;
+            return Vector2.zero;
         }
 
         // Explanation area in world units.
@@ -106,6 +121,84 @@ public class Explanation : MonoBehaviour
             Mathf.Sign(originalScale.x) * worldScale / parentScale.x,
             Mathf.Sign(originalScale.y) * worldScale / parentScale.y,
             originalScale.z);
+
+        return frameSize * worldScale;
+    }
+
+    // ------------------------------------------------------------------ Sign text
+
+    /// <summary>Shows the Spanish name of the sign to the left of the animation.</summary>
+    private void ShowSignText(string signName, Vector2 animationSize)
+    {
+        if (string.IsNullOrWhiteSpace(signName))
+        {
+            HideSignText();
+            return;
+        }
+
+        if (!EnsureSignText()) return;
+
+        signText.text = "<size=160%><b>" + signName + "</b></size>";
+        signText.gameObject.SetActive(true);
+
+        // A text assigned in the Inspector stays where it was placed.
+        if (!signTextCreatedHere) return;
+
+        // Same height as the animation (or the whole area if the size is unknown), right edge next to it.
+        float height = animationSize.y > 0f ? animationSize.y : AreaWorldSize().y;
+        signText.rectTransform.sizeDelta = new Vector2(signTextWidth, height);
+        signText.transform.position = transform.position +
+            new Vector3(-(animationSize.x * 0.5f + signTextGap + signTextWidth * 0.5f), 0f, 0f);
+    }
+
+    private void HideSignText()
+    {
+        if (signText != null) signText.gameObject.SetActive(false);
+    }
+
+    /// <summary>Creates the text next to the explanation if none was assigned. False if it can't.</summary>
+    private bool EnsureSignText()
+    {
+        if (signText != null) return true;
+
+        // Child of the book (like this object), but with world scale 1 so the text isn't stretched.
+        Transform parent = transform.parent;
+        Vector3 parentScale = parent != null ? parent.lossyScale : Vector3.one;
+        if (parentScale.x == 0f || parentScale.y == 0f) return false;
+
+        GameObject go = new GameObject("SignText", typeof(RectTransform));
+        go.transform.SetParent(parent, false);
+        go.transform.localScale = new Vector3(1f / parentScale.x, 1f / parentScale.y, 1f);
+        go.transform.rotation = transform.rotation;
+
+        TextMeshPro text = go.AddComponent<TextMeshPro>();
+        text.alignment = TextAlignmentOptions.Center;
+        text.color = signTextColor;
+        text.enableAutoSizing = true;
+        text.fontSizeMin = 1f;
+        text.fontSizeMax = 5f;
+
+        // Draw on top of the book, like the animation.
+        SpriteRenderer thisSprite = GetComponent<SpriteRenderer>();
+        MeshRenderer textRenderer = go.GetComponent<MeshRenderer>();
+        if (thisSprite != null && textRenderer != null)
+        {
+            textRenderer.sortingLayerID = thisSprite.sortingLayerID;
+            textRenderer.sortingOrder = thisSprite.sortingOrder + 1;
+        }
+
+        signText = text;
+        signTextCreatedHere = true;
+        return true;
+    }
+
+    /// <summary>Size of the explanation area in world units.</summary>
+    private Vector2 AreaWorldSize()
+    {
+        Vector3 parentScale = transform.parent != null ? transform.parent.lossyScale : Vector3.one;
+        return new Vector2(
+            Mathf.Abs(areaSpriteSize.x * originalScale.x * parentScale.x),
+            Mathf.Abs(areaSpriteSize.y * originalScale.y * parentScale.y));
     }
 
     /// <summary>
@@ -150,7 +243,8 @@ public class Explanation : MonoBehaviour
         if (spell != null && spell.ExplanationFrames != null && spell.ExplanationFrames.Length > 0)
         {
             thisSprite.color = Color.white;
-            FitAnimationToArea(spell.ExplanationFrames);
+            Vector2 animationSize = FitAnimationToArea(spell.ExplanationFrames);
+            ShowSignText(spell.SignName, animationSize);
             SpriteSheetAnimator animator = GetAnimator();
             animator.FramesPerSecond = spell.ExplanationFps;
             animator.SetSheet(spell.ExplanationFrames);
@@ -159,6 +253,7 @@ public class Explanation : MonoBehaviour
 
         // No sheet: show the spell's static sprite like before.
         StopAnimation();
+        HideSignText();
         SpriteRenderer otherSprite = gameObject.GetComponent<SpriteRenderer>();
         thisSprite.sprite = otherSprite.sprite;
         thisSprite.color = otherSprite.color;
